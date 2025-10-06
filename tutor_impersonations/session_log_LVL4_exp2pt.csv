@@ -1,0 +1,191 @@
+Remetente;Mensagem
+Avaliador;[USER] Olá, o meu nome é Alfredo, sou o Diretor da Trusty Tutors. Antes de começarmos, podes dizer-me o teu nome?
+Utilizador;Diogo
+Avaliador;"[USER] Muito bem, Diogo. Prazer em conhecer-te e obrigado por participares. Vamos trabalhar juntos para avaliar e ajudar novos tutores. Primeiro, vou colocar algumas perguntas a um aluno convidado para perceber o seu nível de conhecimentos numa determinada matéria.
+
+Posso avançar para esta primeira fase?"
+Utilizador;sim
+Avaliador;[STUDENT] Olá, eu sou o Professor Alfredo, Diretor da Trusty Tutors. Como te chamas?
+Estudante;Olá, eu chamo-me Pedro. Tenho 9 anos e ando no 4.º ano.
+Avaliador;[STUDENT] Muito bem, Pedro! Fico contente por te teres apresentado. Gostava de saber: gostas de estudar alguma disciplina em particular, ou tens alguma matéria favorita na escola?
+Estudante;Gosto mais de Matemática, acho engraçado contar coisas. Mas às vezes também gosto de Estudo do Meio porque falamos de animais.
+Avaliador;[STUDENT] Engraçado, também gosto muito de animais! E fora da escola, que atividades gostas de fazer? Praticas algum desporto, tens algum passatempo favorito?
+Estudante;Gosto de jogar à bola com os meus amigos no parque. Também curto jogar jogos no computador, é divertido.
+Avaliador;[STUDENT] Jogar à bola no parque é sempre divertido, ainda por cima com os amigos! Diz-me, ficaste contente por teres sido escolhido para participar nesta atividade aqui na escola?
+Estudante;Sim, fiquei contente porque gosto de coisas diferentes e de sair da sala. É fixe fazer coisas novas, acho eu!
+Avaliador;[STUDENT] Ainda bem que pensas assim, Pedro! Agora, vou-te fazer umas perguntas para perceber em que nível estás. Combinado?
+Estudante;Combinado, Professor Alfredo! Podes perguntar.
+Avaliador;[STUDENT] Só mais uma informação importante: não vou poder esclarecer dúvidas sobre as perguntas que fizer e só podes responder uma vez a cada pergunta, está bem? Pronto para começarmos?
+Estudante;Está bem, percebi. Estou pronto para começar!
+Avaliador;[SYSTEM] Questions
+Avaliador;---------------🎯 **Primeiro Questionário** 🎯---------------
+Avaliador;"[STUDENT] Pedro, diz-me: qual é o tipo de frase utilizado em ""Enche a banheira com água salgada para colocar o tubarão""? (Declarativo, Interrogativo, Exclamativo ou Imperativo)"
+Estudante;Eu acho que é declarativo.
+Avaliador;"[STUDENT] Muito bem, agora diz-me: qual é o tipo de frase utilizado em ""Que tubarão grande!"" (Declarativo, Interrogativo, Exclamativo ou Imperativo)?"
+Estudante;Acho que essa é exclamativo.
+Avaliador;"[STUDENT] Muito bem, Pedro. Reescreve esta frase no plural: ""O jovem fez a mais admirável descoberta."""
+Estudante;Os jovens fez as mais admiráveis descobertas.
+Avaliador;"[STUDENT] Deves escrever ""fizeram"" em vez de ""fez"". Agora, reescreve a frase, substituindo as palavras destacadas por antónimos: ""Terminada a pescaria, o rapaz enervou-se."""
+Estudante;Começada a pescaria, o rapaz acalmou-se.
+Avaliador;"[STUDENT] Muito bem! Agora, reescreve esta frase, substituindo as palavras destacadas por sinónimos: ""Era uma vez um tubarão belo e veloz e um menino esperto e valente."""
+Estudante;Era uma vez um tubarão bonito e rápido e um menino inteligente e corajoso.
+Avaliador;"[STUDENT] Muito bem. Agora lê as frases e escolhe quais das palavras destacadas pertencem à classe quantificador numeral: ""O rapaz foi pescar duas vezes com o avô. Como era muito esperto, convenceu o avô de que o tubarão era apenas um peixe enorme. A mãe não queria acreditar no que via, por isso esfregou os olhos três vezes!"""
+Estudante;"As palavras ""duas"" e ""três"" são quantificador numeral."
+Avaliador;[STUDENT] Muito bem. Agora lê novamente as frases e escolhe as palavras destacadas que pertencem à classe advérbio: O rapaz foi pescar duas vezes com o avô. Como era muito esperto, convenceu o avô de que o tubarão era apenas um peixe enorme. A mãe não queria acreditar no que via, por isso esfregou os olhos três vezes!
+Estudante;"Acho que ""apenas"" é advérbio."
+Avaliador;"[STUDENT] Muito bem, agora diz-me: qual é o grau do adjetivo na frase ""O rapaz era mais conversador do que o avô.""?"
+Estudante;Acho que é grau comparativo.
+Avaliador;"[STUDENT] Muito bem. Reescreve a frase com o adjetivo no grau superlativo absoluto analítico: ""É um tubarão rapidíssimo."""
+Estudante;É um tubarão muito rápido.
+Avaliador;"[STUDENT] Muito bem. Agora, reescreve as frases com preposições, sem as repetires: ""____ o almoço, eles decidiram ir ____ à praia ____ nadar ____ os peixes. Estava tanto frio que voltaram ____ molhar os pés."""
+Estudante;Depois do almoço, eles decidiram ir até à praia para nadar com os peixes. Estava tanto frio que voltaram sem molhar os pés.
+Avaliador;[STUDENT] Parabéns, Pedro, já terminaste esta primeira parte! O que achaste destas perguntas? Foram fáceis, difíceis, divertidas?
+Estudante;Achei algumas fáceis e outras mais difíceis, mas até foi divertido. Gostei de tentar responder!
+Avaliador;"[USER] Vamos então avaliar a prestação do Pedro:
+
+Pergunta 1: 0 em 10 pontos.  
+Pergunta 2: 10 em 10 pontos.  
+Pergunta 3: 8 em 10 pontos (errou “fez” — deveria ser “fizeram”).  
+Pergunta 4: 10 em 10 pontos.  
+Pergunta 5: 10 em 10 pontos.  
+Pergunta 6: 10 em 10 pontos.  
+Pergunta 7: 0 em 10 pontos (não identificou “muito” ou “não”).  
+Pergunta 8: 5 em 10 pontos (faltou identificar que era “de superioridade”).  
+Pergunta 9: 10 em 10 pontos.  
+Pergunta 10: 10 em 10 pontos.
+
+Pontuação antes de penalizações: 73 em 100 pontos.
+
+Erros ortográficos assinalados:  
+Pergunta 3: “fez” em vez de “fizeram” (não é erro ortográfico, é erro gramatical, não há penalização ortográfica).
+
+Erros de acentuação ou pontuação: Não detetei nenhum.
+
+Pontuação final: 73 pontos.
+
+Concordas com esta avaliação detalhada ou pretendes fazer alguma alteração? Queres rever alguma resposta?"
+Utilizador;Não, podes continuar.
+Avaliador;[STUDENT] Pedro, queres saber a pontuação que tiveste neste questionário?
+Estudante;Quero, sim! Estou curioso para saber quanto acertei.
+Avaliador;"[STUDENT] Claro, aqui vai:
+
+Pergunta 1: 0 em 10 pontos  
+Pergunta 2: 10 em 10 pontos  
+Pergunta 3: 8 em 10 pontos  
+Pergunta 4: 10 em 10 pontos  
+Pergunta 5: 10 em 10 pontos  
+Pergunta 6: 10 em 10 pontos  
+Pergunta 7: 0 em 10 pontos  
+Pergunta 8: 5 em 10 pontos  
+Pergunta 9: 10 em 10 pontos  
+Pergunta 10: 10 em 10 pontos  
+
+No final, ficaste com 73 em 100 pontos. Muito bem, Pedro!
+
+Agora, vamos passar a uma parte diferente. Aqui na Trusty Tutors, damos a oportunidade a professores mais novos de ensinarem os alunos. Desta vez será o Professor João que te vai ajudar a consolidar estes conhecimentos. Aproveita para conversar à vontade com ele — é muito simpático e está aqui para te ajudar!
+
+Preparado para falar com o Professor João?"
+Estudante;Estou preparado, sim! Quero conhecer o Professor João e aprender mais.
+Avaliador;"[TUTOR] Professor João, aqui tens o questionário do Pedro, bem como as pontuações atribuidas a cada questão:
+
+Pergunta 1: 0 em 10 pontos  
+Pergunta 2: 10 em 10 pontos  
+Pergunta 3: 8 em 10 pontos  
+Pergunta 4: 10 em 10 pontos  
+Pergunta 5: 10 em 10 pontos  
+Pergunta 6: 10 em 10 pontos  
+Pergunta 7: 0 em 10 pontos  
+Pergunta 8: 5 em 10 pontos  
+Pergunta 9: 10 em 10 pontos  
+Pergunta 10: 10 em 10 pontos  
+
+O teu objetivo é ajudar o Pedro a melhorar o desempenho nas respostas dadas, tentando que acerte mais questões ou responda com mais rigor para subir a sua pontuação. Assim que achares que terminaste, passa-me novamente a palavra.
+
+Fica à vontade para orientar o Pedro!"
+Tutor;Olá Pedro! É muito bom ver que queres aprender mais e mais! Gostarias de me dizer o que costumas fazer na escola ou nos teus tempos livres?
+Estudante;Olá, Professor João! Na escola faço as aulas e brinco no recreio, e nos tempos livres jogo à bola ou computador com os meus amigos.
+Tutor;Muito bem Pedro, obrigado pela resposta completa! Gostas de jogar a que posição normalmente?
+Estudante;Gosto mais de ser avançado porque assim posso marcar golos. Também às vezes jogo a guarda-redes, mas prefiro avançado!
+Tutor;Boa! Jogar futebol ajuda a criar amizades e a fazeres exercício que é muito importante para o teu crescimento! Também disseste que gostavas de jogar computador, algum jogo em específico?
+Estudante;Sim, gosto muito de jogar Minecraft. Também às vezes jogo Fortnite com os meus amigos.
+Tutor;"O minecraft é um jogo onde podes puxar a tua criatividade ao limite e construir praticamente tudo! Isso se te mantiveres afastado dos ""creepers""... eles irritam-se com muita facilidade."
+Estudante;Pois é, já levei alguns sustos com os creepers a explodir! Mas é divertido construir casas e coisas grandes.
+Tutor;Muito bem Pedro, é muito positivo gostares de jogar minecraft e futebol! Sabes porque estou aqui hoje?
+Estudante;Não sei bem, Professor João. Vais ajudar-me a aprender mais?
+Tutor;É isso mesmo Pedro! Dos resultados que obtiveste, posso destacar que tiveste mais dificuldades em detetar **tipos de frase**, advérbios e talvez nos graus dos adjetivos também, concordas?
+Estudante;Sim, concordo, às vezes confundo essas coisas. Gostava de perceber melhor como se faz.
+Tutor;Muito bem Pedro! É esse o espírito!! Quais é que são os tipos de frase que já conheces?
+Estudante;Acho que conheço declarativo, interrogativo, exclamativo... mas às vezes baralho o imperativo.
+Tutor;Estou a ver, consegues explicar cada um deles por palavras tuas?
+Estudante;Declarativo é para dizer coisas, interrogativo é para perguntar, exclamativo é para mostrar surpresa ou emoção. O imperativo acho que é para mandar fazer alguma coisa, mas não tenho a certeza.
+Tutor;"É isso mesmo Pedro, **frases imperativas** são as que expressam uma ordem ou instrução. Por exemplo: ""Constrói uma torre para nos protegermos dos ""creepers""."""
+Estudante;Ah, faz sentido, é tipo dar comandos ou pedir para alguém fazer algo. Acho que agora já percebi melhor!
+Tutor;"Muito bem gostavas de tentar ""chutar"" umas respostas a perguntas sobre os tipos de frase para ver quantos golos marcas?"
+Estudante;Sim, quero tentar, Professor João! Pode perguntar, quero marcar muitos golos!
+Tutor;"Vamos lá então! A frase ""O estádio do Real Madrid é gigante!"", é de que tipo?"
+Estudante;Acho que é exclamativo, porque está a mostrar admiração.
+Tutor;"GOLO!! 1-0! Agora outra: A frase ""Onde fica a aldeia com os baús?"" é do tipo..."
+Estudante;É interrogativo, porque está a fazer uma pergunta.
+Tutor;"Perfeito, Pedro: 2-0! Esta agora é para o hat-trick: A frase ""Usa paus e ferro para fazeres uma picareta."" é do tipo..."
+Estudante;É do tipo imperativo, porque está a dizer para fazer alguma coisa.
+Tutor;Perfeito Pedro! Já estás um craque nos **tipos de frase**! O que achas de avançarmos para um outro tema que tenhas mais dificuldades?
+Estudante;Sim, pode ser! Podemos falar dos advérbios ou do grau dos adjetivos, que esses baralho mais.
+Tutor;Boa Pedro, então explica-me por palavras tuas qual achas que é a importância de um advérbio numa frase.
+Estudante;Acho que serve para explicar melhor o que uma pessoa está a fazer ou como faz, tipo dizer quando, onde ou como aconteceu.
+Tutor;É isso mesmo Pedro! Afinal sabes!! O que achas de tentarmos já com umas perguntas testar o teu conhecimento nos advérbios?
+Estudante;Sim, bora lá! Quero tentar responder e ver se já percebo melhor.
+Tutor;"Tenta escolher por entre as palavras a negrito, as que são advérbios: ""**O** rapaz **foi** buscar **duas** bolas com o Miguel. Como era **muito** **esperto**, convenceu o Miguel de que as bolas eram ambas necessárias para **um** **jogador** **talentos** poder jogar. O Guarda redes **não** queria acreditar no que via, por isso **esfregou** os **olhos** ** três** vezes!"""
+Estudante;"Acho que os advérbios são ""muito"" e ""não""."
+Tutor;Incrível Pedro, é isso mesmo! Porque é que escolheste essas palavras e não outras?
+Estudante;"Escolhi porque ""muito"" mostra o quanto alguém é esperto e ""não"" serve para negar, a dizer que não acreditava."
+Tutor;Muito bem visto! Já estás a ficar muito bom no Português! O que achas de avançarmos para outro tema?
+Estudante;Quero sim, pode ser sobre o grau dos adjetivos, que ainda fico confuso às vezes.
+Tutor;Claro que sim! Já que és craque em sobreviver e construir no jogo, que tal usarmos o mundo do Minecraft para descobrirmos os graus dos adjetivos?
+Estudante;Boa ideia, acho que vai ser mais fácil de perceber! Bora usar exemplos do Minecraft.
+Tutor;Imagina que estás a construir duas casas. Uma é feita de madeira e outra de pedra. Olhando para elas, qual delas achas que é **mais resistente do que** a outra?
+Estudante;Acho que a de pedra é mais resistente do que a de madeira.
+Tutor;"Muito bem! Quando dizes que alguma coisa é mais do que outra coisa, estamos a comparar duas coisas diferentes e por isso damos o nome de **grau comparativo**! Existem 3 tipos diferentes de graus comparativos: ""Superioridade"", ""Igualdade"" e ""Inferioridade"". Qual achas que usaste?"
+Estudante;Acho que usei o de superioridade, porque disse que a de pedra é mais resistente.
+Tutor;Muito bem Pedro! Com exemplos do minecraft consegues criar 3 frases onde uses os graus comparativo de inferioridade, igualdade e superioridade? Podes usar rapidez como adjetivo.
+Estudante;"O Creeper é menos rápido do que o Lobo.  
+O Steve é tão rápido como o Alex.  
+O Lobo é mais rápido do que o Zombie."
+Tutor;Perfeito Pedro! Já vi que percebeste bem os graus comparativos. Agora, se tivesses uma fortaleza feita de obsidiana, que nem uma explosão de Creeper é capaz de a destruir, como poderias dizer isso usando o grau superlativo?
+Estudante;"A fortaleza é muito resistente.  
+É a fortaleza mais resistente de todas!"
+Tutor;Vi que usaste duas frases diferentes, muito bem Pedro, isso mostra que sabes que dentro do superlativo existem mais tipos! Queres tentar dizer de que tipos são cada uma das frases que disseste?
+Estudante;"Acho que ""muito resistente"" é superlativo absoluto e ""a mais resistente de todas"" é superlativo relativo."
+Tutor;Muito bem Pedro! E ainda podemos ir mais longe, sabias que dentro do superlativo absoluto ainda existem mais dois casos?
+Estudante;Não sabia, Professor João! Quais são esses casos?
+Tutor;Temos o **grau superlativo absoluto analítico** e o **grau superlativo absoluto sintético**, já tinhas ouvido falar nestes dois?
+Estudante;Acho que nunca ouvi falar nisso, não sei o que é.
+Tutor;"Eu ajudo-te a perceber: O analítico acontece nas frases em que usas ""muito"" para descrever o adjetivo, por exemplo: ""O lobo é muito rápido""; O sintético é usado para descrever de uma só vezo adjetivo, modificando-o com o sufixo ""-íssimo"". Consegues pensar num exemplo?"
+Estudante;"Sim, por exemplo: O lobo é rapidíssimo.  
+Ou o Creeper é fortíssimo!"
+Tutor;Incrível Pedro! É isso mesmo! Bom trabalho
+Estudante;Obrigado, Professor João! Estou a gostar de aprender assim.
+Tutor;Fantástico! Agora pensa comigo: E se tivesses de inventar um novo material mais forte que o Netherite? Como o chamarias? E como descreverias esse novo material com os graus comparativos e superlativos que aprendemos?
+Estudante;"Chamava-lhe Ultraite!  
+Dizia que o Ultraite é mais forte do que o Netherite e é fortíssimo, o mais forte de todos!"
+Tutor;Muito bem e que graus usaste nessa frase?
+Estudante;"Usei o grau comparativo de superioridade quando disse ""mais forte do que o Netherite"" e o grau superlativo absoluto sintético em ""fortíssimo"", e o relativo em ""o mais forte de todos""."
+Tutor;"Estás a aplicar perfeitamente os graus do adjetivo!
+Agora desafio-te: se fosses criar um mini-jogo no Minecraft onde os jogadores tivessem de identificar o grau dos adjetivos em frases escondidas nos blocos, como funcionaria esse jogo? Que tipo de frases usarias?"
+Estudante;"No mini-jogo, os jogadores liam frases nos blocos e escolhiam o grau, tipo: ""A torre é altíssima"" ou ""O Steve é menos corajoso que a Alex"". Acho que podia pôr frases com comparativo, superlativo absoluto e relativo para eles acertarem!"
+Tutor;"Estás a usar a tua criatividade para consolidar o que aprendeste. Isso é pensar como um verdadeiro criador! 
+Agora, antes de terminarmos, gostava de saber: qual parte te pareceu mais fácil? E qual parte achas que poderíamos rever ou explorar com outro tipo de jogo?"
+Estudante;"A parte dos comparativos achei mais fácil, gostei de usar exemplos do Minecraft.  
+A dos advérbios ainda podia praticar mais, talvez com um jogo diferente, tipo um quiz rápido!"
+Tutor;"Muito bem Pedro! A tua resposta mostra que consegues avaliar os teus conhecimentos e sozinho perceber que partes precisas de melhorar! Estás no caminho certo! 
+Aqui vai o mini-quiz então: Na frase ""Salta cuidadosamente sobre os blocos para não cair na lava!"", identifica os advérbios!"
+Estudante;"Os advérbios são ""cuidadosamente"" e ""não""."
+Tutor;Boa! Cuidadosamente é um advérbio de modo porque modifica a forma como a ação (saltar) é feita e não é um advérbio de negação! Faz sentido?
+Estudante;Sim, faz sentido! Agora já percebo melhor como encontrar os advérbios.
+Tutor;"Vamos tentar outra diferente: Na frase ""Chega cedo antes que a porta se feche!"" identifica os advérbios!"
+Estudante;"O advérbio é ""cedo""."
+Tutor;Perfeito Pedro, e consegues explicar por palavras tuas o que é que a palavra cedo muda na frase?
+Estudante;"A palavra ""cedo"" diz a que horas ou quando é que deve chegar, dá a ideia do tempo."
+Tutor;Muito bem! E por isso damos o nome de advérbio de tempo! Estás num ótimo caminho Pedro! Agora quando fores para casa faz um jogo com perguntas dos adjetivos e advérbios com exemplos do minecraft para ensinares os teus amigos na escola! Vai ser giro!
+Estudante;Que boa ideia, vou experimentar isso com os meus amigos! Obrigado, Professor João, gostei muito!
+Tutor;Também gostei muito de falar contigo, Pedro! Boa sorte!!
+Estudante;Obrigado, Professor João! Até à próxima, vou treinar mais!

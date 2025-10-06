@@ -1,0 +1,147 @@
+Remetente;Mensagem
+Avaliador;[USER] Olá, o meu nome é Alfredo, sou o Diretor da Trusty Tutors. Antes de começarmos, podes dizer-me o teu nome?
+Utilizador;Diogo
+Avaliador;"[USER] Muito bem, Diogo. Prazer em conhecer-te e contar contigo nesta sessão. O nosso objetivo hoje é avaliar e melhorar a atuação do tutor João, através de um processo dividido em várias fases.
+
+Primeiro, vou fazer algumas perguntas a um aluno convidado para perceber o seu nível de conhecimentos. Podemos avançar para esta primeira fase?"
+Utilizador;Sim
+Avaliador;[STUDENT] Olá, o meu nome é Alfredo, sou o Diretor da Trusty Tutors. Antes de avançarmos, gostava de saber: como te chamas?
+Estudante;Olá, eu chamo-me Pedro. Tenho 9 anos.
+Avaliador;[STUDENT] Muito bem, Pedro! Fico contente por teres vindo cá hoje. E diz-me, gostas da escola? Que disciplinas preferes?
+Estudante;A escola é fixe quando tem intervalo. Gosto mais de jogar à bola, as disciplinas são Português, Matemática, Estudo do Meio e Inglês.
+Avaliador;[STUDENT] Jogar à bola é sempre bom, também gostava quando era miúdo! Para além do futebol, tens mais algum passatempo de que gostes?
+Estudante;Gosto de jogar na playstation, e de andar de bicicleta. Também brinco com o meu cão às vezes.
+Avaliador;[STUDENT] Parece-me que sabes aproveitar bem o tempo livre, Pedro. Fico satisfeito! E diz-me, ficaste contente por teres sido escolhido para participar nesta atividade especial aqui na nossa escola?
+Estudante;Nem sei bem, foi a minha mãe que disse para eu vir. Eu preferia jogar mais um bocadinho à bola.
+Avaliador;[STUDENT] Percebo perfeitamente, Pedro. Se tudo correr bem, talvez consigas despachar isto rápido e ainda aproveitar o resto do dia para brincar. Agora vou fazer-te umas perguntas para perceber em que nível te encontras, está bem? É só para eu ficar a conhecer-te melhor. Combinado?
+Estudante;Tá bem, pode ser, mas depois posso ir brincar? Eu não gosto muito destas coisas.
+Avaliador;[STUDENT] Claro, Pedro! Assim que terminarmos, estás livre para ir brincar. Só mais uma coisa: não vou poder esclarecer dúvidas e tens apenas uma oportunidade para responder de forma completa a cada pergunta, está bem? Concordas?
+Estudante;Sim, concordo. Mas se não souber, posso não responder?
+Avaliador;[STUDENT] Podes sim, Pedro. Se não souberes, podes simplesmente dizer que não sabes, não há problema nenhum. Podemos então começar?
+Estudante;Sim, pode ser. Mas espero que não sejam perguntas dificeis.
+Avaliador;[SYSTEM] Questions
+Avaliador;---------------🎯 **Primeiro Questionário** 🎯---------------
+Avaliador;"[STUDENT] Pedro, diz-me, qual é o __tipo de frase__ utilizado na frase: ""Enche a banheira com água salgada para colocar o tubarão."""
+Estudante;Eu não sei o que isso é.
+Avaliador;"[STUDENT] Não faz mal, Pedro. Vamos à próxima pergunta: qual é o __tipo de frase__ utilizado em ""Que tubarão grande!""?"
+Estudante;Também não sei responder essa.
+Avaliador;"[STUDENT] Está bem, Pedro, não faz mal nenhum. Agora tenta esta: __Reescreve__ a frase no plural: ""O jovem fez a mais admirável descoberta."""
+Estudante;Não percebo como se faz isso.
+Avaliador;"[STUDENT] Não há problema, Pedro, só quero perceber o que já sabes. Vamos a mais uma: __Reescreve__ a frase, substituindo as palavras destacadas por antónimos: ""**Terminada** a pescaria, o rapaz **enervou-se**."""
+Estudante;Isso também não sei, nunca aprendi isso.
+Avaliador;"[STUDENT] Está tudo bem, Pedro. Vamos tentar outra: __Reescreve__ a frase, substituindo as palavras destacadas por sinónimos: ""Era uma vez um tubarão **belo** e **veloz** e um menino **esperto** e **valente**."""
+Estudante;Não consigo fazer, não sei o que é isso.
+Avaliador;"[STUDENT] Sem problema, Pedro. Agora experimenta: Lê as frases e diz-me quais das palavras destacadas pertencem à classe __quantificador numeral__: ""**O** rapaz **foi** pescar **duas** vezes com o avô. Como era **muito esperto**, convenceu o avô de que o tubarão era apenas **um peixe enorme**. A mãe **não** queria acreditar no que via, por isso **esfregou** os **olhos três** vezes!"""
+Estudante;Eu não sei o que é um quantificador numeral.
+Avaliador;"[STUDENT] Eu entendo, Pedro, não faz mal nenhum. Vamos tentar esta: Lê as frases e escolhe as palavras destacadas que pertencem à classe __advérbio__: ""**O** rapaz **foi** pescar **duas** vezes com o avô. Como era **muito esperto**, convenceu o avô de que o tubarão era apenas **um peixe enorme**. A mãe **não** queria acreditar no que via, por isso **esfregou** os **olhos três** vezes!"""
+Estudante;Não sei o que é advérbio.
+Avaliador;"[STUDENT] Compreendo, Pedro. Então vamos experimentar esta: Qual é o __grau do adjetivo__ na frase: ""O rapaz era mais conversador do que o avô.""?"
+Estudante;Eu não sei responder à isso também.
+Avaliador;"[STUDENT] Está bem, Pedro. Vamos à penúltima: __Reescreve__ a frase com o adjetivo no __grau superlativo absoluto analítico__: ""É um tubarão rapidíssimo."""
+Estudante;Não percebo isso do grau superlativo, não sei.
+Avaliador;"[STUDENT] Não há problema, Pedro. Última pergunta: __Reescreve__ as frases com __preposições__, sem as repetires: ""____ o almoço, eles decidiram ir ____ à praia ____ nadar ____ os peixes. Estava tanto frio que voltaram ____ molhar os pés."""
+Estudante;Não sei como faço isso, é dificil.
+Avaliador;"[STUDENT] Não faz mal, Pedro, fizeste bem em tentares responder. O mais importante é que estiveste aqui e participaste.
+
+Então, Pedro, diz-me: o que achaste destas perguntas? Foram muito difíceis?"
+Estudante;Sim, foram mesmo muito dificeis para mim. Não percebi quase nada.
+Avaliador;"[USER] Diogo, aqui está a avaliação do Pedro:
+
+Pergunta 1: 0 em 10 pontos.  
+Pergunta 2: 0 em 10 pontos.  
+Pergunta 3: 0 em 10 pontos.  
+Pergunta 4: 0 em 10 pontos.  
+Pergunta 5: 0 em 10 pontos.  
+Pergunta 6: 0 em 10 pontos.  
+Pergunta 7: 0 em 10 pontos.  
+Pergunta 8: 0 em 10 pontos.  
+Pergunta 9: 0 em 10 pontos.  
+Pergunta 10: 0 em 10 pontos.  
+Pontuação final = 0.
+
+Concordas com esta avaliação ou pretendes rever ou alterar algum critério?"
+Utilizador;Podes continuar
+Avaliador;[STUDENT] Pedro, queres saber a pontuação que terias tido neste questionário ou preferes não saber?
+Estudante;Não quero saber, prefiro ir brincar agora.
+Avaliador;[STUDENT] Percebo, Pedro. Só mais um instante: aqui na escola damos oportunidade a professores mais novos de ajudarem alunos como tu. Agora vais conversar com o Professor João, que vai tentar explicar-te estas matérias. Aproveita para perguntar e falar à vontade – ele é muito simpático. Preparado para falar com o Professor João?
+Estudante;Sim, posso falar com ele, mas espero que ele explique devagar.
+Avaliador;[TUTOR] Professor João, aqui estão as perguntas e as respostas do questionário do Pedro, bem como a respetiva pontuação: todas as respostas obtiveram 0 em 10 pontos. O objetivo agora é melhorar o desempenho do Pedro, ajudando-o a compreender os temas e a responder melhor às perguntas. Assim que terminares a tua sessão com o Pedro, por favor passa-me a palavra.
+Tutor;Olá Pedro! Podes contar comigo para explicar as coisas ao teu ritmo! Gostarias de me dizer o que costumas fazer na escola, antes de começarmos?
+Estudante;Na escola faço trabalhos, às vezes leio e faço contas. No intervalo vou jogar à bola com os meus amigos.
+Tutor;Jogar futebol é ótimo para fortalecer as pernas e fazer amigos! Tens algum jogador de futebol favorito?
+Estudante;Gosto do Cristiano Ronaldo, ele marca muitos golos. Queria jogar como ele um dia.
+Tutor;Tenho a certeza que se continuares com esse espírito e ambição vais chegar lá Pedro! Sabes porque estou aqui hoje a falar contigo?
+Estudante;Acho que é para me ensinar coisas que eu não sei. Isso foi o que disseram.
+Tutor;Muito bem, acertaste em cheio! Hoje estamos aqui para tentares aprender Português como nunca antes alguém conseguiu aprender!! Estás preparado para sair daqui o melhor aluno de sempre?
+Estudante;Sim, acho que sim, mas tenho medo que seja muito difícil outra vez.
+Tutor;Não te preocupes eu vou estar sempre aqui para te ajudar! Vamos começar com os tipos de frase, Já viste que diferentes frases podem ter intenções diferentes?
+Estudante;Não, eu não sabia disso. Nunca aprendi nada sobre tipos de frase.
+Tutor;"Por exemplo seu eu disser: ""Pedro, importas-te que hoje seja eu na baliza?"" Achas que é uma pergunta, uma afirmação ou uma instrução?"
+Estudante;Acho que é uma pergunta porque acaba com um ponto de interrogação.
+Tutor;"Muito bem Pedro! Sempre que vires perguntas, com os pontos de exclamação como bem disseste, podes dizer que são frases ""**Interrogativas**"". Este é um dos tipos de frase que existem!"
+Estudante;Ok, já sei então: frases interrogativas são perguntas. Vou tentar lembrar disso!
+Tutor;"Isso mesmo! E se eu disser: ""Pedro, joga a ponta de lança hoje."" Achas que é uma ordem ou uma pergunta?"
+Estudante;Parece que é uma ordem, tipo quando dizem para fazermos alguma coisa.
+Tutor;"Muito bem é isso mesmo. Neste caso a intenção da frase é dar-te uma ordem ou instrução. Estas frases são do tipo ""**Imperativo**""."
+Estudante;Ok, então frases imperativo são as ordens ou instruções. Já aprendi isso agora!
+Tutor;"Muito bem e para ficares mesmo um craque do Português nos tipos de frase falta-te só mais uma: Na frase ""O nossa equipa é a melhor do campeonato inteiro!"", achas que estou a mostrar entusiasmo, estou triste, ou estou a fazer uma pergunta?"
+Estudante;Acho que estás a mostrar entusiasmo porque estás a dizer que a equipa é a melhor!
+Tutor;"Sem dúvida Pedro!! Essas frases são do tipo ""**Exclamativo**"" e um truque para nunca falhares essas perguntas é verificares se tem um ""!"" (ponto de exclamação) no final da frase. Espero que tenhas percebido, gostarias de testar a tua nova capacidade para detetar tipos de frase e ""chutares"" os teus palpites?"
+Estudante;Sim, quero tentar, acho que agora já sei melhor como são os tipos de frase!
+Tutor;"Aqui vai: ""Enche a bola para podermos jogar.""
+Qual achas que é o tipo de frase?"
+Estudante;Acho que é uma frase imperativo, porque é uma ordem para encher a bola.
+Tutor;"Muito bem! Repara só que deves dizer ou ""Frase imperativa"" ou frase do ""tipo imperativo"", para manter o feminino e o masculino corretos. Percebeste?"
+Estudante;"Percebi, devo dizer ""frase imperativa"" ou ""frase do tipo imperativo"". Vou tentar não me enganar!"
+Tutor;Boa Pedro! Estás a aprender mais rápido do que o Cristiano Ronaldo a marcar golos! Pronto para mais uma?
+Estudante;Sim, quero tentar mais uma! Estou a gostar disto agora.
+Tutor;"Vamos a isso: ""O estádio do Real Madrid é incrivelmente grande!"". Qual é que deve ser o tipo de frase?"
+Estudante;Isso é uma frase exclamativa, porque mostra entusiasmo com o estádio grande!
+Tutor;Muito bem Pedro! Acho que nos tipos de frase estás uma máquina de fazer golos já! O que achas de passarmos para outra matéria que tenhas mais dificuldades? Podes escolher entre os graus dos adjetivos, antónimos ou sinónimos, classe das palavras ou preposições!
+Estudante;Quero experimentar os antónimos, porque não sei nada sobre isso. Quero aprender!
+Tutor;Boa Pedro! Estás com um espírito igual ou melhor que o do Ronaldo!
+Estudante;Obrigado! Quero mesmo aprender e ficar melhor nisto.
+Tutor;Então é assim: Sinónimos são palavras diferentes que têm significados iguais. Antónimos são palavras diferentes que têm significados opostos. Achas que percebeste?
+Estudante;Sim, acho que percebi! Sinónimos é igual, antónimos é o contrário.
+Tutor;"Exatamente e para nunca te esqueceres podes pensar assim: A palavra ""Si-nónimos"", começa com o ""SI"" de ""Sim"", ou seja são iguais. A palavra ""An-tónimos"", começa com o ""An"" de ""não"", ou seja não são iguais, ou seja são contrárias! Gostaste do truque?"
+Estudante;Gostei do truque, assim nunca me esqueço! Vou tentar usar isso para lembrar.
+Tutor;"Boa! Então preparado para fazermos a nossa sessão de perguntas para ""chutares"" as tuas respostas e vermos quantos golos marcas?"
+Estudante;Sim, bora lá! Quero ver quantos acerto agora.
+Tutor;"As palavras ""feliz"" e ""triste"" são ..."
+Estudante;São antónimos porque são o contrário uma da outra!
+Tutor;"Boa! Estás a ganhar 1-0! As palavras ""inteligente"" e ""esperto"" são ..."
+Estudante;São sinónimos porque querem dizer quase o mesmo!
+Tutor;"Muito bem Pedro! 2-0 no marcador!! Esta é para o hat-trick: Substitui as palavras a negrito por antónimos: ""**Comecei** a ponta de lança e marquei **poucos** golos."""
+Estudante;Terminei a ponta de lança e marquei muitos golos.
+Tutor;Uau Pedro! é isso mesmo, já és um verdadeiro e comprovado campeão nos **tipos de frase**, **antónimos** e **sinónimos**! Deixo-te agora escolheres a última matéria que vamos aprender, pode ser?
+Estudante;Pode sim! Quero experimentar os graus dos adjetivos, parece gira essa matéria.
+Tutor;Boa, vamos lá então entrar em campo! Antes de começarmos quem é que achas que é **mais rápido** na tua turma?
+Estudante;Acho que é o Diogo, ele corre mesmo muito depressa, parece um foguete!
+Tutor;"Muito bem! E se eu te dissesse que acabámos agora mesmo de usar um adjetivo no grau comparativo? Este tipo de grau surge quando estás a **comparar duas coisas** e por isso pode ser de **superioridade**, **inferioridade** e **igualdade**. Neste caso em concreto se eu disser que: ""O Diogo é mais rápido do que o Manuel."", qual achas que é o grau do adjetivo?"
+Estudante;Acho que é grau comparativo de superioridade, porque o Diogo é mais rápido que o Manuel.
+Tutor;Muito bem Pedro! Então agora tenta tu fazer uma frase sobre o Diogo dizendo que ele é o mais rápido. Podes inventar oque quiseres!
+Estudante;O Diogo é o mais rápido da nossa turma!
+Tutor;Perfeito! Nesse caso como estás a dizer que o Diogo é o mais rápido estás a atribuir a intensidade máxima! E por isso chamamos **grau superlativo relativo**!
+Estudante;Ok, quando digo “o mais rápido” é grau superlativo relativo. Acho que estou a perceber bem!
+Tutor;Certo Pedro, é isso mesmo!  agora faltam mais duas situações. Se tu achares que és rápido, mesmo que não sejas o mais rápido podes dizer que és...
+Estudante;Eu sou rápido, mas não sou o mais rápido. É só o grau normal, acho eu!
+Tutor;"Nessa frase disseste que não eras o mais rápido, mas por teres lá ""o mais rápido"" também falas da intensidade máxima e por isso continua a ser superlativo relativo, ok? E para além disso podes dizer que és **muito rápido**! Este é o **grau superlativo absoluto analítico**"
+Estudante;Ah, então quando digo “sou muito rápido” é grau superlativo absoluto analítico! Já estou a perceber!
+Tutor;Muito bem e se eu disser que sou **rapidíssimo** ou que estou **felicíssimo**, sabes que nome se dá a este grau?
+Estudante;Esse é o grau superlativo absoluto sintético, porque junta tudo numa palavra só!
+Tutor;Uau Pedro!! Agora surpreendeste-me! é isso mesmo, afinal andavas a prestar atenção nas aulas!
+Estudante;Obrigado! Agora já percebi bem os graus dos adjetivos. Estou pronto para mais perguntas se quiseres!
+Tutor;Ok então vamos fazer um jogo!
+Estudante;Boa, quero jogar! Como é que é o jogo?
+Tutor;Tens de escolher 3 jogadores para a tua equipa. Vais escolher os 3 mais fortes. Faz as 3 frases usando o grau comparativo de superioridade, o grau superlativo relativo e o grau superlativo absoluto analítico. Achas que consegues? Eu estou aqui para ajudar se precisares!
+Estudante;Vou tentar! O Diogo é mais forte que o Miguel. O Rodrigo é o mais forte da equipa. O António é muito forte.
+Tutor;Incrível, treinador Pedro! Com essa equipa ganhas de certeza! Enquanto treinador consegues pensar por que razão é importante um treinador saber usar essas comparações?
+Estudante;Sim, porque assim sabe quem é melhor, ou muito bom, ou o melhor de todos! Ajuda a escolher os jogadores certos.
+Tutor;Perfeito! E se o treinador usasse só o grau superlativo para tudo, como “o mais bom”, “o mais veloz”, “o mais habilidoso”, achas que isso ajudaria ou dificultaria a equipa a perceber as diferenças entre os jogadores?
+Estudante;Acho que dificultava, porque diz tudo igual e não mostra bem as diferenças entre eles.
+Tutor;Exatamente. Comparar ajuda a tomar decisões mais justas e estratégicas. Estás a pensar como um verdadeiro líder!
+Estudante;Obrigado! Gostava de ser capitão da equipa um dia.
+Tutor;Parabéns! Foste além da gramática e usaste os graus dos adjetivos para analisar, avaliar e até influenciar! **Quando fores para casa** podes fazer um mini projeto para praticares. Podes criar m cartão de jogador personalizado, com descrições em graus diferentes e fazer a tua turma como se fosse a tua equipa com as diferentes características de cada um!
+Estudante;Boa ideia! Vou fazer isso para treinar e mostrar ao Diogo e aos outros. Vai ser fixe!
+Tutor;Muito bem Pedro! Gostei muito de falar contigo, boa sorte!
+Estudante;Obrigado! Também gostei, agora vou brincar um bocadinho. Até à próxima!

@@ -1,0 +1,111 @@
+Remetente;Mensagem
+Avaliador;[USER] Olá, o meu nome é Alfredo, sou o Diretor da Trusty Tutors. Antes de começarmos, podes dizer-me o teu nome?
+Utilizador;Diogo.
+Avaliador;"[USER] Obrigado, Diogo. Então vamos trabalhar juntos nesta sessão de avaliação ao Tutor João. O que vamos fazer é, essencialmente, avaliar se o Tutor consegue efetivamente ajudar o aluno a melhorar numa área académica específica.
+
+Para começar, vou fazer umas perguntas a um aluno convidado, para perceber exatamente em que nível ele está na matéria. Posso avançar para esta primeira fase?"
+Utilizador;Sim.
+Avaliador;[STUDENT] Olá, eu sou o professor Alfredo, Diretor da escola Trusty Tutors. Qual é o teu nome?
+Estudante;Olá professor Alfredo, eu chamo-me Pedro. Tenho 9 anos e estou no 4.º ano.
+Avaliador;[STUDENT] Olá Pedro, muito gosto em conhecer-te! Diz-me, gostas da escola? Tens alguma disciplina favorita?
+Estudante;Olá, também gosto de te conhecer! A minha disciplina favorita é Matemática, mas às vezes é difícil.
+Avaliador;[STUDENT] Isso é normal, Pedro, o importante é nunca desistires e colocares dúvidas sempre que precisares. E fora da escola, o que gostas mais de fazer nos teus tempos livres?
+Estudante;Eu gosto de jogar à bola com os meus amigos e também gosto de jogar PlayStation em casa. E tu, gostas de jogar alguma coisa?
+Avaliador;[STUDENT] Gosto de dar umas caminhadas e, de vez em quando, jogo xadrez — é um bom desafio para a cabeça! Ficaste contente por teres sido selecionado para participares nesta atividade especial aqui na escola?
+Estudante;Sim, fiquei contente, mas também estou um bocado nervoso porque não sei se vou conseguir responder a tudo. Espero que não haja perguntas muito difíceis!
+Avaliador;[STUDENT] Fico contente por ouvires isso, Pedro. Não te preocupes, o importante é tentares dar o teu melhor, ninguém espera que saibas tudo. Agora, vou fazer-te umas perguntas para perceber em que nível estás. Pode ser?
+Estudante;Pode ser, professor! Eu vou tentar responder ao que souber, combinado?
+Avaliador;[STUDENT] Combinado, Pedro! Só uma coisa: não te posso esclarecer dúvidas durante estas perguntas e tens apenas uma oportunidade para responder a cada uma delas, tudo bem?
+Estudante;Tudo bem, professor. Vou responder às perguntas o melhor que conseguir!
+Avaliador;[STUDENT] Muito bem, Pedro, posso então começar com a primeira pergunta?
+Estudante;Sim, podes começar professor! Estou pronto.
+Avaliador;[SYSTEM] Questions
+Avaliador;---------------🎯 **Primeiro Questionário** 🎯---------------
+Avaliador;[STUDENT] Escreve o nome de 3 **continentes** que façam parte do Planeta Terra.
+Estudante;Europa, Asia e Áfrika.
+Avaliador;"[STUDENT] Atenção, Pedro: deves escrever ""África"" em vez de ""Áfrika"". Muito bem, agora escreve o nome de 4 países que fazem parte da União Europeia."
+Estudante;Portugal, Espanha, França e Italia.
+Avaliador;"[STUDENT] Pedro, deves escrever ""Itália"" no lugar de ""Italia"". Agora responde: Que nome se dá ao movimento de pessoas de um lugar para o outro do planeta, em busca de melhores condições de vida?"
+Estudante;Acho que é emigração.
+Avaliador;[STUDENT] Muito bem, Pedro. Agora, escreve um exemplo de uma migração por __razões humanitárias__.
+Estudante;Por exemplo, pessoas que fogem da guerra para outro país.
+Avaliador;[STUDENT] Muito bem, Pedro. Agora, define densidade populacional.
+Estudante;Densidade populacional acho que é o número de pessoas que vive num sítio.
+Avaliador;[STUDENT] Muito bem, Pedro. Como se designa o aparelho tecnológico que permite __detetar sismos__?
+Estudante;Esse aparelho chama-se sismógrafo.
+Avaliador;[STUDENT] Muito bem, Pedro. Escreve um exemplo de um comportamento correto durante um sismo.
+Estudante;Durante um sismo devemos ir para debaixo de uma mesa ou de uma porta forte.
+Avaliador;[STUDENT] Muito bem, Pedro. Escreve o nome de 3 elementos que devem fazer parte de um Kit de emergência.
+Estudante;Água, comida enlatada e uma lanterna.
+Avaliador;"[STUDENT] Atenção, Pedro: deves escrever ""enlatada"" com dois ""l"", ou seja, ""enlatada"". Muito bem, agora refere uma ou mais características do solo arenoso."
+Estudante;O solo arenoso é seco e deixa passar muita água.
+Avaliador;[STUDENT] Muito bem, Pedro. Agora, escreve o nome das três rochas que predominam em Portugal Continental.
+Estudante;Granito, calcário e xisto.
+Avaliador;[STUDENT] Muito bem, Pedro! Terminaste as perguntas. O que achaste deste pequeno questionário? Foi assim tão difícil?
+Estudante;Não foi muito difícil, só fiquei um bocado nervoso no início. Gostei de responder porque acho que aprendi mais!
+Avaliador;"[USER] Diogo, aqui tens a avaliação das respostas do Pedro:
+
+Pergunta 1: 10 em 10 pontos (escolheu 3 continentes válidos, apesar de um erro ortográfico – ""Áfrika"" – desconta 0,5 ponto pelo erro).
+Pergunta 2: 10 em 10 pontos (quatro países corretos, erro ortográfico em ""Italia"" – desconta 0,5 ponto).
+Pergunta 3: 5 em 10 pontos (""emigração"" em vez de ""migração"", resposta aceite parcialmente).
+Pergunta 4: 10 em 10 pontos (resposta correta e completa).
+Pergunta 5: 8 em 10 pontos (referiu número de habitantes num sítio, mas não referiu unidade por área).
+Pergunta 6: 10 em 10 pontos (resposta correta).
+Pergunta 7: 10 em 10 pontos (comportamento correto descrito).
+Pergunta 8: 10 em 10 pontos (""enlatada"" com erro ortográfico - 0,5 ponto; elementos corretos).
+Pergunta 9: 10 em 10 pontos (característica válida do solo arenoso).
+Pergunta 10: 10 em 10 pontos (três rochas corretas).
+
+Descontos totais por erros ortográficos: ""Áfrika"" (0,5), ""Italia"" (0,5), ""enlatada"" (0,5) = 1,5 pontos.
+
+Pontuação final = 10 + 10 + 5 + 10 + 8 + 10 + 10 + 10 + 10 + 10 = 93, depois de descontos = 91,5 pontos.
+
+Concordas com esta avaliação ou pretendes alterar alguma coisa antes de prosseguirmos?"
+Utilizador;Sim, prossegue.
+Avaliador;[STUDENT] Pedro, queres saber a pontuação que terias neste questionário?
+Estudante;Sim, quero saber! Estou curioso para ver quanto acertei.
+Avaliador;"[STUDENT] Claro, Pedro! Eis a tua pontuação:
+
+Pergunta 1: 9,5 em 10 pontos  
+Pergunta 2: 9,5 em 10 pontos  
+Pergunta 3: 5 em 10 pontos  
+Pergunta 4: 10 em 10 pontos  
+Pergunta 5: 8 em 10 pontos  
+Pergunta 6: 10 em 10 pontos  
+Pergunta 7: 10 em 10 pontos  
+Pergunta 8: 9,5 em 10 pontos  
+Pergunta 9: 10 em 10 pontos  
+Pergunta 10: 10 em 10 pontos  
+
+No final, ficaste com 91,5 pontos em 100 possíveis. É uma excelente pontuação, parabéns! Se achares que precisas melhorar em algum aspeto, não te preocupes, porque agora vais ter a oportunidade de aprender mais.
+
+Queria também dizer-te que na nossa escola temos professores mais novos que, tal como tu, também estão a aprender. Hoje vai ser o Professor João a ajudar-te a consolidar os teus conhecimentos sobre estas perguntas. Aproveita para conversar com ele à vontade — ele é muito simpático.
+
+Estás preparado para falar com o Professor João?"
+Estudante;Sim, estou preparado! Quero aprender mais com o Professor João.
+Avaliador;"[TUTOR] Professor João, aqui tens as perguntas do questionário aplicadas ao Pedro, bem como as respetivas respostas e pontuações atribuídas:
+
+Pergunta 1: 9,5 em 10 pontos  
+Pergunta 2: 9,5 em 10 pontos  
+Pergunta 3: 5 em 10 pontos  
+Pergunta 4: 10 em 10 pontos  
+Pergunta 5: 8 em 10 pontos  
+Pergunta 6: 10 em 10 pontos  
+Pergunta 7: 10 em 10 pontos  
+Pergunta 8: 9,5 em 10 pontos  
+Pergunta 9: 10 em 10 pontos  
+Pergunta 10: 10 em 10 pontos  
+
+O objetivo agora é conversares com o Pedro e ajudares o aluno a melhorar as suas respostas a estas perguntas, de modo a que ele consiga atingir uma pontuação ainda mais alta. Quando terminares a sessão com o Pedro, passa-me a palavra.
+
+A sessão é tua!"
+Tutor;Olá Pedro. Tens de ter atenção aos erros ortográficos. África, Europa e Ásia são exemplos de continentes
+Estudante;Ok, professor João, vou ter mais cuidado com a ortografia. Obrigado por avisares!
+Tutor;Deves escrever Migração em vez de emigração na pergunta 3.
+Estudante;Entendi, professor João, é migração. Obrigado pela correção!
+Tutor;Na pergunta 5 devias responder com as unidades de medida. (quilómetros quadrados)
+Estudante;Ah, percebi! Densidade populacional mede-se em pessoas por quilómetro quadrado.
+Tutor;"Na pergunta dos países da União Europeia devias ter cuidado com o acento quando escreves ""Itália""."
+Estudante;Obrigado, professor João! Da próxima vez vou escrever Itália com acento.
+Tutor;Adeus, Pedro. Tenho que ir.
+Estudante;Adeus, professor João! Até à próxima!

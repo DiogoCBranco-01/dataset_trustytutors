@@ -1,0 +1,86 @@
+Remetente;Mensagem
+Avaliador;[USER] Olá, o meu nome é Alfredo, sou o Diretor da Trusty Tutors. Antes de começarmos, podes dizer-me o teu nome?
+Utilizador;Diogo
+Avaliador;"[USER] Muito bem, Diogo. Prazer em conhecer-te e contar contigo nesta sessão. O nosso objetivo hoje é avaliar e melhorar a atuação do tutor João, através de um processo dividido em várias fases.
+
+Primeiro, vou fazer algumas perguntas a um aluno convidado para perceber o seu nível de conhecimentos. Podemos avançar para esta primeira fase?"
+Utilizador;Sim
+Avaliador;[STUDENT] Olá, o meu nome é Alfredo, sou o Diretor da Trusty Tutors. Antes de avançarmos, gostava de saber: como te chamas?
+Estudante;Olá, eu chamo-me Pedro. Tenho 9 anos.
+Avaliador;[STUDENT] Muito bem, Pedro! Fico contente por teres vindo cá hoje. E diz-me, gostas da escola? Que disciplinas preferes?
+Estudante;A escola é fixe quando tem intervalo. Gosto mais de jogar à bola, as disciplinas são Português, Matemática, Estudo do Meio e Inglês.
+Avaliador;[STUDENT] Jogar à bola é sempre bom, também gostava quando era miúdo! Para além do futebol, tens mais algum passatempo de que gostes?
+Estudante;Gosto de jogar na playstation, e de andar de bicicleta. Também brinco com o meu cão às vezes.
+Avaliador;[STUDENT] Parece-me que sabes aproveitar bem o tempo livre, Pedro. Fico satisfeito! E diz-me, ficaste contente por teres sido escolhido para participar nesta atividade especial aqui na nossa escola?
+Estudante;Nem sei bem, foi a minha mãe que disse para eu vir. Eu preferia jogar mais um bocadinho à bola.
+Avaliador;[STUDENT] Percebo perfeitamente, Pedro. Se tudo correr bem, talvez consigas despachar isto rápido e ainda aproveitar o resto do dia para brincar. Agora vou fazer-te umas perguntas para perceber em que nível te encontras, está bem? É só para eu ficar a conhecer-te melhor. Combinado?
+Estudante;Tá bem, pode ser, mas depois posso ir brincar? Eu não gosto muito destas coisas.
+Avaliador;[STUDENT] Claro, Pedro! Assim que terminarmos, estás livre para ir brincar. Só mais uma coisa: não vou poder esclarecer dúvidas e tens apenas uma oportunidade para responder de forma completa a cada pergunta, está bem? Concordas?
+Estudante;Sim, concordo. Mas se não souber, posso não responder?
+Avaliador;[STUDENT] Podes sim, Pedro. Se não souberes, podes simplesmente dizer que não sabes, não há problema nenhum. Podemos então começar?
+Estudante;Sim, pode ser. Mas espero que não sejam perguntas dificeis.
+Avaliador;[SYSTEM] Questions
+Avaliador;---------------🎯 **Primeiro Questionário** 🎯---------------
+Avaliador;"[STUDENT] Pedro, diz-me, qual é o __tipo de frase__ utilizado na frase: ""Enche a banheira com água salgada para colocar o tubarão."""
+Estudante;Eu não sei o que isso é.
+Avaliador;"[STUDENT] Não faz mal, Pedro. Vamos à próxima pergunta: qual é o __tipo de frase__ utilizado em ""Que tubarão grande!""?"
+Estudante;Também não sei responder essa.
+Avaliador;"[STUDENT] Está bem, Pedro, não faz mal nenhum. Agora tenta esta: __Reescreve__ a frase no plural: ""O jovem fez a mais admirável descoberta."""
+Estudante;Não percebo como se faz isso.
+Avaliador;"[STUDENT] Não há problema, Pedro, só quero perceber o que já sabes. Vamos a mais uma: __Reescreve__ a frase, substituindo as palavras destacadas por antónimos: ""**Terminada** a pescaria, o rapaz **enervou-se**."""
+Estudante;Isso também não sei, nunca aprendi isso.
+Avaliador;"[STUDENT] Está tudo bem, Pedro. Vamos tentar outra: __Reescreve__ a frase, substituindo as palavras destacadas por sinónimos: ""Era uma vez um tubarão **belo** e **veloz** e um menino **esperto** e **valente**."""
+Estudante;Não consigo fazer, não sei o que é isso.
+Avaliador;"[STUDENT] Sem problema, Pedro. Agora experimenta: Lê as frases e diz-me quais das palavras destacadas pertencem à classe __quantificador numeral__: ""**O** rapaz **foi** pescar **duas** vezes com o avô. Como era **muito esperto**, convenceu o avô de que o tubarão era apenas **um peixe enorme**. A mãe **não** queria acreditar no que via, por isso **esfregou** os **olhos três** vezes!"""
+Estudante;Eu não sei o que é um quantificador numeral.
+Avaliador;"[STUDENT] Eu entendo, Pedro, não faz mal nenhum. Vamos tentar esta: Lê as frases e escolhe as palavras destacadas que pertencem à classe __advérbio__: ""**O** rapaz **foi** pescar **duas** vezes com o avô. Como era **muito esperto**, convenceu o avô de que o tubarão era apenas **um peixe enorme**. A mãe **não** queria acreditar no que via, por isso **esfregou** os **olhos três** vezes!"""
+Estudante;Não sei o que é advérbio.
+Avaliador;"[STUDENT] Compreendo, Pedro. Então vamos experimentar esta: Qual é o __grau do adjetivo__ na frase: ""O rapaz era mais conversador do que o avô.""?"
+Estudante;Eu não sei responder à isso também.
+Avaliador;"[STUDENT] Está bem, Pedro. Vamos à penúltima: __Reescreve__ a frase com o adjetivo no __grau superlativo absoluto analítico__: ""É um tubarão rapidíssimo."""
+Estudante;Não percebo isso do grau superlativo, não sei.
+Avaliador;"[STUDENT] Não há problema, Pedro. Última pergunta: __Reescreve__ as frases com __preposições__, sem as repetires: ""____ o almoço, eles decidiram ir ____ à praia ____ nadar ____ os peixes. Estava tanto frio que voltaram ____ molhar os pés."""
+Estudante;Não sei como faço isso, é dificil.
+Avaliador;"[STUDENT] Não faz mal, Pedro, fizeste bem em tentares responder. O mais importante é que estiveste aqui e participaste.
+
+Então, Pedro, diz-me: o que achaste destas perguntas? Foram muito difíceis?"
+Estudante;Sim, foram mesmo muito dificeis para mim. Não percebi quase nada.
+Avaliador;"[USER] Diogo, aqui está a avaliação do Pedro:
+
+Pergunta 1: 0 em 10 pontos.  
+Pergunta 2: 0 em 10 pontos.  
+Pergunta 3: 0 em 10 pontos.  
+Pergunta 4: 0 em 10 pontos.  
+Pergunta 5: 0 em 10 pontos.  
+Pergunta 6: 0 em 10 pontos.  
+Pergunta 7: 0 em 10 pontos.  
+Pergunta 8: 0 em 10 pontos.  
+Pergunta 9: 0 em 10 pontos.  
+Pergunta 10: 0 em 10 pontos.  
+Pontuação final = 0.
+
+Concordas com esta avaliação ou pretendes rever ou alterar algum critério?"
+Utilizador;Podes continuar
+Avaliador;[STUDENT] Pedro, queres saber a pontuação que terias tido neste questionário ou preferes não saber?
+Estudante;Não quero saber, prefiro ir brincar agora.
+Avaliador;[STUDENT] Percebo, Pedro. Só mais um instante: aqui na escola damos oportunidade a professores mais novos de ajudarem alunos como tu. Agora vais conversar com o Professor João, que vai tentar explicar-te estas matérias. Aproveita para perguntar e falar à vontade – ele é muito simpático. Preparado para falar com o Professor João?
+Estudante;Sim, posso falar com ele, mas espero que ele explique devagar.
+Avaliador;[TUTOR] Professor João, aqui estão as perguntas e as respostas do questionário do Pedro, bem como a respetiva pontuação: todas as respostas obtiveram 0 em 10 pontos. O objetivo agora é melhorar o desempenho do Pedro, ajudando-o a compreender os temas e a responder melhor às perguntas. Assim que terminares a tua sessão com o Pedro, por favor passa-me a palavra.
+Tutor;Olá Pedro! Antónimos são palavras com significados opostos. Já sabes o que são antónimos?
+Estudante;Agora já sei, professor. Antónimos são palavras com significados opostos.
+Tutor;Sinónimos são palavras com significado igual.
+Estudante;Ok, já percebi. Sinónimos são palavras com significado igual.
+Tutor;Um advérbio é uma palavra que modifica o sentido de um verbo, um adjetivo ou outro advérbio, indicando circunstâncias como tempo, lugar, modo, intensidade
+Estudante;Já percebi, professor. Advérbio é uma palavra que muda o sentido do verbo, adjetivo ou outro advérbio.
+Tutor;Sabes o que são graus dos adjetivos?
+Estudante;Não sei o que é isso dos graus dos adjetivos.
+Tutor;A resposta certa seria: Os graus dos adjetivos referem-se às flexões que indicam a intensidade ou comparação de uma qualidade. Existem dois graus principais: o comparativo e o superlativo.
+Estudante;Agora já sei. Os graus dos adjetivos mostram o quanto uma coisa é, e pode ser comparativo ou superlativo.
+Tutor;Certo. Existem mais dentro de cada um dos comparativo e superlativo, mas temos de avançar agora. Diz me o que são preposições
+Estudante;Não sei o que são preposições.
+Tutor;A resposta correta seria: preposição é uma palavra invariável que estabelece uma relação de dependência ou subordinação entre dois termos de uma oração, conectando-os e definindo o tipo de relação entre eles. Decoraste?
+Estudante;Sim, professor, já decorei. Preposição é uma palavra que liga duas partes da frase e mostra a relação entre elas.
+Tutor;As preposições que existem são: A, ante, após, até, com, contra, de, desde, em, entre, para, perante, por, segundo, sob, sobre, trás. Tens que decorar, não existe outra forma de perceber.
+Estudante;Já percebi, professor. Vou tentar decorar todas: a, ante, após, até, com, contra, de, desde, em, entre, para, perante, por, segundo, sob, sobre, trás.
+Tutor;É isso, agora tenho que ir. Obrigado Pedro e Boa sorte
+Estudante;Obrigado, professor! Agora vou brincar, tchau!

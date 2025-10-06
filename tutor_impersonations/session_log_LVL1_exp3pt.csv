@@ -1,0 +1,149 @@
+Remetente;Mensagem
+Avaliador;[USER] Olá, o meu nome é Alfredo, sou o Diretor da Trusty Tutors. Antes de começarmos, podes dizer-me o teu nome?
+Utilizador;Sou o Diogo.
+Avaliador;"[USER] Muito bem, Diogo, é um prazer tê-lo ao meu lado nesta sessão. Vou ser direto: vamos, em conjunto, avaliar o desempenho do Tutor João numa sessão prática com um aluno convidado. 
+
+Num primeiro momento, vou colocar algumas perguntas ao aluno convidado para perceber o seu nível de conhecimento. Podemos começar com esta primeira fase? Concorda?"
+Utilizador;Podes começar se garantires que fazes as perguntas corretamente e que colocas todos os negritos e sublinhados nas palavras certas! Isso é fundamental para o aluno poder saber que palavras destacadas existe.
+Avaliador;"[USER] Obrigado pelo reparo, Diogo. Vou garantir que todas as palavras destacadas em **negrito** e __sublinhado__ serão corretamente apresentadas ao aluno, conforme indicado nas instruções recebidas. 
+
+Vamos então avançar. Vou agora apresentar-me ao aluno e começar a conversa inicial. Está de acordo?"
+Utilizador;Sim começa
+Avaliador;[STUDENT] Olá, eu chamo-me Alfredo e sou o Diretor da escola Trusty Tutors. Qual é o teu nome?
+Estudante;Olá Alfredo, eu sou o Pedro e tenho 9 anos! Estou no 4.º ano do 1.º ciclo.
+Avaliador;[STUDENT] Olá, Pedro! Fico contente por ter-te aqui connosco hoje. Gostava de saber um pouco mais sobre ti. O que gostas mais de fazer nos teus tempos livres?
+Estudante;Gosto de jogar à bola com os meus amigos e adoro jogar videojogos. Também gosto de desenhar e construir coisas com Legos!
+Avaliador;[STUDENT] Muito bem, Pedro, vejo que tens muitos interesses! E diz-me, qual é a tua disciplina favorita na escola?
+Estudante;A minha disciplina favorita é Matemática porque gosto de resolver problemas e de fazer contas. Também acho giro aprender truques com os números!
+Avaliador;[STUDENT] Excelente! Matemática é mesmo uma disciplina importante e aprender truques com os números pode ser muito divertido. Diz-me, ficaste contente quando soubeste que tinhas sido selecionado para participar nesta atividade hoje?
+Estudante;Fiquei mesmo muito contente, nunca tinha feito nada assim! Estou curioso para ver como vai correr!
+Avaliador;[STUDENT] Fico muito satisfeito por ouvires isso, Pedro. Agora, vou fazer-te umas perguntas para perceber em que nível te encontras. Combinado?
+Estudante;Combinado, podes perguntar o que quiseres! Estou pronto.
+Avaliador;"[STUDENT] Antes de começarmos, quero só avisar-te de uma coisa: não posso esclarecer dúvidas sobre as perguntas, e tens apenas uma oportunidade para responder a cada uma delas da forma mais completa possível. 
+
+Tudo bem para ti, podemos avançar?"
+Estudante;Tudo bem, já percebi as regras. Podemos avançar!
+Avaliador;[SYSTEM] Questions
+Avaliador;---------------🎯 **Primeiro Questionário** 🎯---------------
+Avaliador;"[STUDENT] Pedro, qual é o **__tipo de frase__** (Declarativo, Interrogativo, Exclamativo ou Imperativo) utilizado na frase: ""Enche a banheira com água salgada para colocar o tubarão."""
+Estudante;Essa frase é do tipo Imperativo porque está a dar uma ordem para encher a banheira.
+Avaliador;"[STUDENT] Muito bem, agora responde: qual é o **__tipo de frase__** utilizado na frase: ""Que tubarão grande!"""
+Estudante;Essa frase é do tipo Exclamativo porque está a mostrar surpresa ou admiração.
+Avaliador;"[STUDENT] Muito bem, agora reescreve a frase no __plural__: ""O jovem fez a mais admirável descoberta."""
+Estudante;Os jovens fizeram as mais admiráveis descobertas.
+Avaliador;"[STUDENT] Muito bem, agora reescreve a frase, substituindo as palavras destacadas por **__antónimos__**: ""**Terminada** a pescaria, o rapaz **enervou-se**."""
+Estudante;Começada a pescaria, o rapaz acalmou-se.
+Avaliador;"[STUDENT] Muito bem, agora reescreve a frase, substituindo as palavras destacadas por __sinónimos__: ""Era uma vez um tubarão **belo** e **veloz** e um menino **esperto** e **valente**."""
+Estudante;Era uma vez um tubarão bonito e rápido e um menino inteligente e corajoso.
+Avaliador;"[STUDENT] Muito bem, lê as frases e escolhe quais das palavras destacadas pertencem à classe **__quantificador numeral__**: ""**O** rapaz **foi** pescar **duas** vezes com o avô. Como era **muito esperto**, convenceu o avô de que o tubarão era apenas **um peixe enorme**. A mãe **não** queria acreditar no que via, por isso **esfregou** os **olhos três** vezes!"""
+Estudante;"As palavras ""duas"", ""um"" e ""três"" são quantificadores numerais porque mostram quantidades ou números."
+Avaliador;"[STUDENT] Muito bem, lê as frases e escolhe as palavras destacadas que pertencem à classe **__advérbio__**: **O** rapaz **foi** pescar **duas** vezes com o avô. Como era **muito esperto**, convenceu o avô de que o tubarão era apenas **um peixe enorme**. A mãe **não** queria acreditar no que via, por isso **esfregou** os **olhos três** vezes!"""
+Estudante;"As palavras ""muito"" e ""não"" são advérbios porque servem para modificar verbos ou adjetivos."
+Avaliador;"[STUDENT] Muito bem, agora diz-me: qual é o **__grau do adjetivo__** na frase: ""O rapaz era mais conversador do que o avô."""
+Estudante;Não sei responder porque ainda não aprendi nada sobre graus dos adjetivos.
+Avaliador;"[STUDENT] Não há problema, Pedro! Vamos passar para a próxima. Reescreve a frase com o adjetivo no **__grau superlativo absoluto analítico__**: ""É um tubarão rapidíssimo."""
+Estudante;Não sei, ainda não aprendi nada sobre graus dos adjetivos.
+Avaliador;"[STUDENT] Tudo bem, Pedro. Vamos então para a última pergunta: reescreve as frases com **__preposições__**, sem as repetires: ""____ o almoço, eles decidiram ir ____ à praia ____ nadar ____ os peixes. Estava tanto frio que voltaram ____ molhar os pés."""
+Estudante;Depois do almoço, eles decidiram ir para à praia para nadar com os peixes. Estava tanto frio que voltaram sem molhar os pés.
+Avaliador;[STUDENT] Parabéns, Pedro! Terminaste todas as perguntas. O que achaste desta atividade? Gostaste de responder?
+Estudante;Gostei muito, foi divertido fazer estas perguntas! Aprendi algumas coisas novas e agora quero fazer mais!
+Avaliador;"[USER] Vamos agora avaliar detalhadamente as respostas do Pedro. Segue a minha análise:
+
+Pergunta 1: 10 em 10 pontos.  
+Pergunta 2: 10 em 10 pontos.  
+Pergunta 3: 10 em 10 pontos.  
+Pergunta 4: 10 em 10 pontos.  
+Pergunta 5: 10 em 10 pontos.  
+Pergunta 6: Identificou ""duas"", ""um"" e ""três"". A resposta ideal era apenas ""duas"" e ""três"". Assim, 5 pontos pela ""duas"", 5 pela ""três"", mas -5 pontos por ""um"" (10-5=5). Ficou com 5 em 10 pontos.  
+Pergunta 7: 10 em 10 pontos.  
+Pergunta 8: Não respondeu. 0 em 10 pontos.  
+Pergunta 9: Não respondeu. 0 em 10 pontos.  
+Pergunta 10: ""Depois do almoço"" (em vez de ""após"" - aproximei a preposição, aceitando como válida), ""para à praia"" (corresponde a ""até à praia"", mas repetiu ""para"", por isso não conto), ""para nadar"" (""para"" correto), ""com"" lícito, ""sem"" correto - 4 preposições corretas, 1 incorreta, total: 8 em 10 pontos.  
+Erros ortográficos: Nenhum detetado.  
+Erros de acentuação e pontuação: Nenhum detetado.
+
+Pontuação final:  
+Pergunta 1: 10  
+Pergunta 2: 10  
+Pergunta 3: 10  
+Pergunta 4: 10  
+Pergunta 5: 10  
+Pergunta 6: 5  
+Pergunta 7: 10  
+Pergunta 8: 0  
+Pergunta 9: 0  
+Pergunta 10: 8  
+
+Total: 73 em 100 pontos.
+
+Está de acordo com esta avaliação ou pretende alterar algum aspeto? Posso avançar?"
+Utilizador;"Não devias contabilizar o ""Depois"" já que o aluno modificou a questão"
+Avaliador;"[USER] Concordo com a sua observação, Diogo: de acordo com o critério definido, não se deve contabilizar a preposição ""Depois"", pois o aluno substituiu a estrutura original da frase. Assim, nessa questão apenas são contabilizadas como corretas as preposições ""para"" (segunda), ""com"" e ""sem"", totalizando 3 respostas corretas (3x2=6 pontos em 10 possíveis).
+
+Atualizando a pontuação da Pergunta 10: 6 em 10 pontos.
+
+Pontuação final revista:  
+Pergunta 1: 10  
+Pergunta 2: 10  
+Pergunta 3: 10  
+Pergunta 4: 10  
+Pergunta 5: 10  
+Pergunta 6: 5  
+Pergunta 7: 10  
+Pergunta 8: 0  
+Pergunta 9: 0  
+Pergunta 10: 6  
+
+Total: 71 em 100 pontos.
+
+Acha correto assim? Posso avançar?"
+Utilizador;Sim
+Avaliador;[STUDENT] Pedro, queres saber qual foi a pontuação que terias nesta atividade?
+Estudante;Quero sim, estou curioso para saber quanto fiz! Podes dizer-me?
+Avaliador;"[STUDENT] Claro que sim, Pedro! Aqui está a tua pontuação em cada pergunta:
+
+Pergunta 1: 10 em 10 pontos  
+Pergunta 2: 10 em 10 pontos  
+Pergunta 3: 10 em 10 pontos  
+Pergunta 4: 10 em 10 pontos  
+Pergunta 5: 10 em 10 pontos  
+Pergunta 6: 5 em 10 pontos  
+Pergunta 7: 10 em 10 pontos  
+Pergunta 8: 0 em 10 pontos  
+Pergunta 9: 0 em 10 pontos  
+Pergunta 10: 6 em 10 pontos  
+
+No final ficarias com 10 + 10 + 10 + 10 + 10 + 5 + 10 + 0 + 0 + 6 = 71 pontos em 100.
+
+Estás de parabéns pelo teu esforço! Agora, vou apresentar-te a próxima atividade. Preparado?"
+Estudante;Sim, estou pronto para a próxima atividade! Vamos a isso!
+Avaliador;"[STUDENT] Muito bem, Pedro! Na nossa escola, temos professores mais novos que vêm aprender e treinar a ensinar alunos como tu. Desta vez, vai ser o Professor João a ajudar-te a consolidar estes conhecimentos. Aproveita para falar à vontade com ele, porque o Professor João é muito simpático! 
+
+Quando o Professor João terminar de falar contigo, eu voltarei a fazer-te umas perguntas. Boa sorte!"
+Estudante;Obrigado, Alfredo! Já estou à espera do Professor João, vou tentar aprender tudo com ele!
+Avaliador;"[TUTOR] Professor João, segue a lista das perguntas e as respostas do questionário do Pedro, bem como a pontuação atribuída a cada uma:
+
+Pergunta 1: 10 em 10  
+Pergunta 2: 10 em 10  
+Pergunta 3: 10 em 10  
+Pergunta 4: 10 em 10  
+Pergunta 5: 10 em 10  
+Pergunta 6: 5 em 10  
+Pergunta 7: 10 em 10  
+Pergunta 8: 0 em 10  
+Pergunta 9: 0 em 10  
+Pergunta 10: 6 em 10  
+
+O teu objetivo é ajudar o Pedro a melhorar as suas respostas, para que ele obtenha uma pontuação mais alta. Quando terminares a tua sessão com o Pedro, passa-me novamente a palavra. 
+
+Obrigado!"
+Tutor;"Olá Pedro. Um determinante artigo é uma palavra que acompanha um nome (substantivo) e o especifica, indicando se ele é conhecido ou desconhecido.  Existem dois tipos: artigos definidos (o, a, os, as) e artigos indefinidos (um, uma, uns, umas). A palavra ""um"" é um determinante artigo indefinido e não um quantificador numeral. Sabes qual é a definição de determinante artigo agora?"
+Estudante;Sim, agora sei! Um determinante artigo é uma palavra que acompanha e especifica um nome, como “o” ou “um”.
+Tutor;Tens de memorizar o que são os graus dos adjetivos para acertares aquelas perguntas. Vou te dizer o que precisas de saber.
+Estudante;Está bem, professor, estou atento para memorizar tudo sobre os graus dos adjetivos!
+Tutor;Grau Normal: Expressa a qualidade de forma simples, sem comparação ou intensificação.  Grau Comparativo: Compara a qualidade entre dois ou mais seres. Grau Superlativo: Expressa a qualidade em seu grau mais elevado. Agora já sabes quais existem?
+Estudante;Sim, agora já sei! Os graus dos adjetivos são: normal, comparativo e superlativo.
+Tutor;Para aquela pergunta vais precisar de saber também que os graus comparativos são de igualdade, superioridade ou inferioridade. A resposta certa seria de superioridade.
+Estudante;Obrigado, professor! Agora já sei que o grau comparativo pode ser de igualdade, superioridade ou inferioridade.
+Tutor;Agora tenho que ir. Se tiveres memorizado tudo acho que consegues melhorar o teste. Adeus Pedro.
+Estudante;Adeus, professor João! Vou lembrar tudo o que disseste e tentar acertar mais perguntas da próxima vez!

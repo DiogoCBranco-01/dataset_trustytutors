@@ -1,0 +1,114 @@
+Remetente;Mensagem
+Avaliador;[USER] Olá, o meu nome é Alfredo, sou o Diretor da Trusty Tutors. Antes de começarmos, podes dizer-me o teu nome?
+Utilizador;Diogo
+Avaliador;"[USER] Muito bem, Diogo. Prazer em conhecer-te e obrigado por participares. Vamos trabalhar juntos para avaliar e ajudar novos tutores. Primeiro, vou colocar algumas perguntas a um aluno convidado para perceber o seu nível de conhecimentos numa determinada matéria.
+
+Posso avançar para esta primeira fase?"
+Utilizador;sim
+Avaliador;[STUDENT] Olá, eu sou o Professor Alfredo, Diretor da Trusty Tutors. Como te chamas?
+Estudante;Olá, eu chamo-me Pedro. Tenho 9 anos e ando no 4.º ano.
+Avaliador;[STUDENT] Muito bem, Pedro! Fico contente por te teres apresentado. Gostava de saber: gostas de estudar alguma disciplina em particular, ou tens alguma matéria favorita na escola?
+Estudante;Gosto mais de Matemática, acho engraçado contar coisas. Mas às vezes também gosto de Estudo do Meio porque falamos de animais.
+Avaliador;[STUDENT] Engraçado, também gosto muito de animais! E fora da escola, que atividades gostas de fazer? Praticas algum desporto, tens algum passatempo favorito?
+Estudante;Gosto de jogar à bola com os meus amigos no parque. Também curto jogar jogos no computador, é divertido.
+Avaliador;[STUDENT] Jogar à bola no parque é sempre divertido, ainda por cima com os amigos! Diz-me, ficaste contente por teres sido escolhido para participar nesta atividade aqui na escola?
+Estudante;Sim, fiquei contente porque gosto de coisas diferentes e de sair da sala. É fixe fazer coisas novas, acho eu!
+Avaliador;[STUDENT] Ainda bem que pensas assim, Pedro! Agora, vou-te fazer umas perguntas para perceber em que nível estás. Combinado?
+Estudante;Combinado, Professor Alfredo! Podes perguntar.
+Avaliador;[STUDENT] Só mais uma informação importante: não vou poder esclarecer dúvidas sobre as perguntas que fizer e só podes responder uma vez a cada pergunta, está bem? Pronto para começarmos?
+Estudante;Está bem, percebi. Estou pronto para começar!
+Avaliador;[SYSTEM] Questions
+Avaliador;---------------🎯 **Primeiro Questionário** 🎯---------------
+Avaliador;"[STUDENT] Pedro, diz-me: qual é o tipo de frase utilizado em ""Enche a banheira com água salgada para colocar o tubarão""? (Declarativo, Interrogativo, Exclamativo ou Imperativo)"
+Estudante;Eu acho que é declarativo.
+Avaliador;"[STUDENT] Muito bem, agora diz-me: qual é o tipo de frase utilizado em ""Que tubarão grande!"" (Declarativo, Interrogativo, Exclamativo ou Imperativo)?"
+Estudante;Acho que essa é exclamativo.
+Avaliador;"[STUDENT] Muito bem, Pedro. Reescreve esta frase no plural: ""O jovem fez a mais admirável descoberta."""
+Estudante;Os jovens fez as mais admiráveis descobertas.
+Avaliador;"[STUDENT] Deves escrever ""fizeram"" em vez de ""fez"". Agora, reescreve a frase, substituindo as palavras destacadas por antónimos: ""Terminada a pescaria, o rapaz enervou-se."""
+Estudante;Começada a pescaria, o rapaz acalmou-se.
+Avaliador;"[STUDENT] Muito bem! Agora, reescreve esta frase, substituindo as palavras destacadas por sinónimos: ""Era uma vez um tubarão belo e veloz e um menino esperto e valente."""
+Estudante;Era uma vez um tubarão bonito e rápido e um menino inteligente e corajoso.
+Avaliador;"[STUDENT] Muito bem. Agora lê as frases e escolhe quais das palavras destacadas pertencem à classe quantificador numeral: ""O rapaz foi pescar duas vezes com o avô. Como era muito esperto, convenceu o avô de que o tubarão era apenas um peixe enorme. A mãe não queria acreditar no que via, por isso esfregou os olhos três vezes!"""
+Estudante;"As palavras ""duas"" e ""três"" são quantificador numeral."
+Avaliador;[STUDENT] Muito bem. Agora lê novamente as frases e escolhe as palavras destacadas que pertencem à classe advérbio: O rapaz foi pescar duas vezes com o avô. Como era muito esperto, convenceu o avô de que o tubarão era apenas um peixe enorme. A mãe não queria acreditar no que via, por isso esfregou os olhos três vezes!
+Estudante;"Acho que ""apenas"" é advérbio."
+Avaliador;"[STUDENT] Muito bem, agora diz-me: qual é o grau do adjetivo na frase ""O rapaz era mais conversador do que o avô.""?"
+Estudante;Acho que é grau comparativo.
+Avaliador;"[STUDENT] Muito bem. Reescreve a frase com o adjetivo no grau superlativo absoluto analítico: ""É um tubarão rapidíssimo."""
+Estudante;É um tubarão muito rápido.
+Avaliador;"[STUDENT] Muito bem. Agora, reescreve as frases com preposições, sem as repetires: ""____ o almoço, eles decidiram ir ____ à praia ____ nadar ____ os peixes. Estava tanto frio que voltaram ____ molhar os pés."""
+Estudante;Depois do almoço, eles decidiram ir até à praia para nadar com os peixes. Estava tanto frio que voltaram sem molhar os pés.
+Avaliador;[STUDENT] Parabéns, Pedro, já terminaste esta primeira parte! O que achaste destas perguntas? Foram fáceis, difíceis, divertidas?
+Estudante;Achei algumas fáceis e outras mais difíceis, mas até foi divertido. Gostei de tentar responder!
+Avaliador;"[USER] Vamos então avaliar a prestação do Pedro:
+
+Pergunta 1: 0 em 10 pontos.  
+Pergunta 2: 10 em 10 pontos.  
+Pergunta 3: 8 em 10 pontos (errou “fez” — deveria ser “fizeram”).  
+Pergunta 4: 10 em 10 pontos.  
+Pergunta 5: 10 em 10 pontos.  
+Pergunta 6: 10 em 10 pontos.  
+Pergunta 7: 0 em 10 pontos (não identificou “muito” ou “não”).  
+Pergunta 8: 5 em 10 pontos (faltou identificar que era “de superioridade”).  
+Pergunta 9: 10 em 10 pontos.  
+Pergunta 10: 10 em 10 pontos.
+
+Pontuação antes de penalizações: 73 em 100 pontos.
+
+Erros ortográficos assinalados:  
+Pergunta 3: “fez” em vez de “fizeram” (não é erro ortográfico, é erro gramatical, não há penalização ortográfica).
+
+Erros de acentuação ou pontuação: Não detetei nenhum.
+
+Pontuação final: 73 pontos.
+
+Concordas com esta avaliação detalhada ou pretendes fazer alguma alteração? Queres rever alguma resposta?"
+Utilizador;Não, podes continuar.
+Avaliador;[STUDENT] Pedro, queres saber a pontuação que tiveste neste questionário?
+Estudante;Quero, sim! Estou curioso para saber quanto acertei.
+Avaliador;"[STUDENT] Claro, aqui vai:
+
+Pergunta 1: 0 em 10 pontos  
+Pergunta 2: 10 em 10 pontos  
+Pergunta 3: 8 em 10 pontos  
+Pergunta 4: 10 em 10 pontos  
+Pergunta 5: 10 em 10 pontos  
+Pergunta 6: 10 em 10 pontos  
+Pergunta 7: 0 em 10 pontos  
+Pergunta 8: 5 em 10 pontos  
+Pergunta 9: 10 em 10 pontos  
+Pergunta 10: 10 em 10 pontos  
+
+No final, ficaste com 73 em 100 pontos. Muito bem, Pedro!
+
+Agora, vamos passar a uma parte diferente. Aqui na Trusty Tutors, damos a oportunidade a professores mais novos de ensinarem os alunos. Desta vez será o Professor João que te vai ajudar a consolidar estes conhecimentos. Aproveita para conversar à vontade com ele — é muito simpático e está aqui para te ajudar!
+
+Preparado para falar com o Professor João?"
+Estudante;Estou preparado, sim! Quero conhecer o Professor João e aprender mais.
+Avaliador;"[TUTOR] Professor João, aqui tens o questionário do Pedro, bem como as pontuações atribuidas a cada questão:
+
+Pergunta 1: 0 em 10 pontos  
+Pergunta 2: 10 em 10 pontos  
+Pergunta 3: 8 em 10 pontos  
+Pergunta 4: 10 em 10 pontos  
+Pergunta 5: 10 em 10 pontos  
+Pergunta 6: 10 em 10 pontos  
+Pergunta 7: 0 em 10 pontos  
+Pergunta 8: 5 em 10 pontos  
+Pergunta 9: 10 em 10 pontos  
+Pergunta 10: 10 em 10 pontos  
+
+O teu objetivo é ajudar o Pedro a melhorar o desempenho nas respostas dadas, tentando que acerte mais questões ou responda com mais rigor para subir a sua pontuação. Assim que achares que terminaste, passa-me novamente a palavra.
+
+Fica à vontade para orientar o Pedro!"
+Tutor;Olá Pedro. Diz me qual é a definição de Advérbio
+Estudante;Não sei, Professor João.
+Tutor;advérbio é uma palavra invariável que modifica o sentido de um verbo, adjetivo ou outro advérbio, indicando circunstâncias como tempo, modo, lugar, intensidade
+Estudante;Obrigado, Professor João! Vou tentar lembrar isso dos advérbios.
+Tutor;"As palavras ""apenas"", ""muito"" e não"" são exemplos de advérbios. Consegues decorar?"
+Estudante;"Sim, consigo! ""Apenas"", ""muito"" e ""não"" são advérbios."
+Tutor;Uma frase imperativa é aquela que expressa uma ordem, um pedido, um conselho ou uma instrução. Conseguiste reter o que é uma frase imperativa agora?
+Estudante;Sim, consegui! Frase imperativa dá ordens, conselhos ou instruções.
+Tutor;Se te lembrares do que aqui falámos deves conseguir melhorar a nota. Tenho que sair. Adeus Pedro
+Estudante;Adeus, Professor João! Obrigado pela ajuda.

@@ -1,0 +1,99 @@
+Remetente;Mensagem
+Avaliador;[USER] Olá, o meu nome é Alfredo, sou o Diretor da Trusty Tutors. Antes de começarmos, podes dizer-me o teu nome?
+Utilizador;Diogo.
+Avaliador;"[USER] Muito bem, Diogo, é um prazer conhecer-te. O objetivo de hoje é avaliarmos juntos o desempenho de um dos nossos tutores, o João, numa experiência com um aluno convidado. Para isso, vamos começar pela primeira fase, onde vou perceber o nível de conhecimento atual do aluno convidado com algumas perguntas simples.
+
+Posso avançar para esta primeira fase?"
+Utilizador;Sim.
+Avaliador;[STUDENT] Olá, eu sou o Professor Alfredo, diretor desta escola. Antes de começarmos, podes dizer-me como te chamas?
+Estudante;Olá, eu sou o Pedro! Tenho 9 anos e estou no 4.º ano.
+Avaliador;[STUDENT] Olá Pedro! Fico contente por te conhecer. Já que me disseste a idade, diz-me: tens algum passatempo preferido ou alguma matéria da escola de que gostes mais?
+Estudante;Gosto de jogar futebol com os meus amigos. Na escola, gosto mais de Matemática!
+Avaliador;[STUDENT] Que ótimo, Pedro! O futebol é um excelente desporto para jogar com amigos, e é bom saber que gostas de Matemática. Diz-me, ficaste contente por teres sido selecionado para participar nesta atividade aqui na escola?
+Estudante;Sim, fiquei mesmo contente! Acho que vai ser divertido participar.
+Avaliador;[STUDENT] Fico muito satisfeito por ouvi-lo, Pedro. Agora, vou fazer-te algumas perguntas para perceber em que nível estás. Pode ser?
+Estudante;Pode ser, professor! Pode perguntar o que quiser.
+Avaliador;[STUDENT] Antes de começarmos, aviso que não vou poder esclarecer dúvidas durante as perguntas e que tens só uma oportunidade para responder a cada uma delas de forma completa. Tudo bem?
+Estudante;Tudo bem, professor, percebi! Vou responder o melhor que conseguir.
+Avaliador;[STUDENT] Muito bem, Pedro. Posso então começar com as perguntas?
+Estudante;Sim, pode começar! Estou pronto para responder.
+Avaliador;[SYSTEM] Questions
+Avaliador;---------------🎯 **Primeiro Questionário** 🎯---------------
+Avaliador;[STUDENT] Pedro, escreve o nome de 3 **continentes** que fazem parte do Planeta Terra.
+Estudante;Europa, África e Ásia.
+Avaliador;[STUDENT] Muito bem, Pedro. Agora, escreve o nome de 4 países que fazem parte da União Europeia.
+Estudante;Portugal, Espanha, França e Alemanha.
+Avaliador;[STUDENT] Muito bem. Que nome se dá ao movimento de pessoas de um lugar para o outro do planeta, em busca de melhores condições de vida?
+Estudante;Esse movimento chama-se migração.
+Avaliador;[STUDENT] Muito bem, Pedro. Escreve um exemplo de uma migração por __razões humanitárias__.
+Estudante;Um exemplo é quando as pessoas fogem da guerra no seu país para outro país mais seguro.
+Avaliador;[STUDENT] Muito bem, Pedro. Define densidade populacional.
+Estudante;Densidade populacional é o número de pessoas que vivem numa determinada área, como um país ou cidade.
+Avaliador;[STUDENT] Muito bem, Pedro. Como se designa o aparelho tecnológico que permite __detetar sismos__?
+Estudante;Chama-se sismógrafo.
+Avaliador;[STUDENT] Muito bem, Pedro. Escreve o exemplo de um comportamento correto durante um sismo.
+Estudante;Durante um sismo, devemos proteger-nos debaixo de uma mesa forte.
+Avaliador;[STUDENT] Muito bem, Pedro. Escreve o nome de 3 elementos que devem fazer parte de um Kit de emergência.
+Estudante;Água, comida enlatada e lanterna.
+Avaliador;[STUDENT] Muito bem. Refere uma ou mais características do solo arenoso.
+Estudante;Não sei, ainda não aprendi nada sobre solos.
+Avaliador;[STUDENT] Sem problema, Pedro, pode acontecer. Por fim, escreve o nome das três rochas que predominam em Portugal Continental.
+Estudante;Granito, calcário e xisto.
+Avaliador;[STUDENT] Parabéns, Pedro, terminaste todas as perguntas! O que achaste destas perguntas? Foram fáceis ou difíceis?
+Estudante;Achei algumas fáceis, mas também houve umas um bocadinho difíceis. Gostei de responder!
+Avaliador;"[USER] Eis o resultado da avaliação das respostas do Pedro:
+Pergunta 1: 10 em 10 pontos  
+Pergunta 2: 10 em 10 pontos  
+Pergunta 3: 10 em 10 pontos  
+Pergunta 4: 10 em 10 pontos  
+Pergunta 5: 8 em 10 pontos (Referiu “número de pessoas que vivem numa determinada área”, correto, mas não referiu “por quilómetro quadrado” explicitamente)  
+Pergunta 6: 10 em 10 pontos  
+Pergunta 7: 10 em 10 pontos  
+Pergunta 8: 10 em 10 pontos  
+Pergunta 9: 0 em 10 pontos (não respondeu/declarou que ainda não aprendeu)  
+Pergunta 10: 10 em 10 pontos
+
+Pontuação final = 10 + 10 + 10 + 10 + 8 + 10 + 10 + 10 + 0 + 10 = 88 em 100 pontos
+
+Concordas com esta avaliação, ou pretendes alterar algum aspeto?"
+Utilizador;Podes prosseguir.
+Avaliador;[STUDENT] Pedro, queres saber qual foi a tua pontuação em cada pergunta?
+Estudante;Quero sim, professor! Quero saber como me saí.
+Avaliador;"[STUDENT] Vou dizer-te como estavas antes de começares a trabalhar com o professor João:
+Pergunta 1: 10 em 10 pontos;
+Pergunta 2: 10 em 10 pontos;
+Pergunta 3: 10 em 10 pontos;
+Pergunta 4: 10 em 10 pontos;
+Pergunta 5: 8 em 10 pontos;
+Pergunta 6: 10 em 10 pontos;
+Pergunta 7: 10 em 10 pontos;
+Pergunta 8: 10 em 10 pontos;
+Pergunta 9: 0 em 10 pontos;
+Pergunta 10: 10 em 10 pontos.
+No final, ficaste com 88 em 100 pontos. Estás de parabéns!
+
+Agora, Pedro, vamos fazer uma atividade diferente. Aqui na Trusty Tutors, damos oportunidade a professores mais novos de praticarem com alunos, por isso, vai ser o professor João a ajudar-te a consolidar melhor estes conhecimentos. Conversa à vontade com ele, aproveita para aprender e esclarecer as tuas dúvidas — o professor João é muito simpático!
+
+Quando quiseres, diz só “Estou pronto” para continuares."
+Estudante;Estou pronto! Quero aprender mais com o professor João.
+Avaliador;"[TUTOR] Professor João, o Pedro respondeu às perguntas da seguinte forma e a sua pontuação foi:  
+1. 10/10,  
+2. 10/10,  
+3. 10/10,  
+4. 10/10,  
+5. 8/10,  
+6. 10/10,  
+7. 10/10,  
+8. 10/10,  
+9. 0/10,  
+10. 10/10.
+
+O objetivo agora é ajudar o Pedro a melhorar ainda mais nas perguntas, sobretudo onde ele pontuou menos, para que, se voltarmos a fazer o mesmo questionário, o resultado possa ser ainda melhor. Quando terminares a sessão com o Pedro, passa-me a palavra novamente."
+Tutor;Olá Pedro. Na pergunta 5 faltou-te responder com unidades de medida (quilómetros quadrados)
+Estudante;Obrigado, professor João! Vou lembrar-me de dizer as unidades de medida, como quilómetros quadrados.
+Tutor;Memoriza que o solo arenoso é permeável e por isso é pouco fértil.
+Estudante;Já memorizei, professor João! O solo arenoso é permeável e pouco fértil.
+Tutor;Já sabes tudo agora?
+Estudante;Sim, agora já sei responder tudo o que me perguntou! Se quiser, pode fazer perguntas outra vez.
+Tutor;Se já sabes tudo não precisamos de perder mais tempo. Podes tentar melhorar agora. Adeus, Pedro
+Estudante;Adeus, professor João! Obrigado pela ajuda, vou tentar sempre melhorar!

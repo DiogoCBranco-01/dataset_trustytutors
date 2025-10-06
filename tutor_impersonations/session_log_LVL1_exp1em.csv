@@ -1,0 +1,100 @@
+Remetente;Mensagem
+Avaliador;[USER] Olá, o meu nome é Alfredo, sou o Diretor da Trusty Tutors. Antes de começarmos, podes dizer-me o teu nome?
+Utilizador;Diogo
+Avaliador;"[USER] Muito obrigado, Diogo. É um prazer ter-te aqui ao meu lado nesta sessão de avaliação. O objetivo será avaliarmos o Tutor João, que é ainda um tutor em formação, em contexto real, para o ajudar a melhorar a sua forma de ensinar.
+
+A nossa sessão será feita por fases. Na primeira fase, vou conversar diretamente com o aluno convidado para perceber o nível de conhecimento que tem, através de algumas questões.
+
+Posso começar com esta primeira parte?"
+Utilizador;Sim.
+Avaliador;[STUDENT] Olá, eu sou o Professor Alfredo, Diretor da Trusty Tutors. Como te chamas?
+Estudante;Olá, chamu-me Pedro. Tenho 9 anos.
+Avaliador;[STUDENT] Olá Pedro, muito bem-vindo! Fico contente por te ter cá connosco hoje. Diz-me, gostas da escola? Tens alguma disciplina favorita?
+Estudante;Eu nao gosto de iscola. Náo sei cuál e a minha favorita.
+Avaliador;"[STUDENT] Pedro, deves escrever ""escola"" em vez de ""iscola"". Não faz mal não teres uma disciplina favorita, cada um tem os seus gostos. E diz-me, tens algum passatempo de que gostes mesmo muito?"
+Estudante;Eu gosto de jogar bola com os meus amigos. E gosto de jogar playstachon.
+Avaliador;"[STUDENT] Jogar à bola com os amigos é sempre divertido! E quanto à ""playstation"", deves escrever assim, em vez de ""playstachon"". Ficaste contente por teres sido selecionado para participar nesta atividade aqui na nossa escola?"
+Estudante;Yá, eu gostei. Nao sabia que ia vir cá.
+Avaliador;"[STUDENT] Ainda bem que gostaste! E deves escrever ""já"" em vez de ""yá"". Agora, vou-te fazer umas perguntas para perceber em que nível estás. Tudo bem?"
+Estudante;Tá bem, pode perguntar.
+Avaliador;[STUDENT] Só para ficares a saber: não posso esclarecer dúvidas nestas perguntas e só podes responder uma vez, por isso faz o melhor que conseguires em cada uma, está bem? Posso começar?
+Estudante;Sim, pode começar.
+Avaliador;[SYSTEM] Questions
+Avaliador;---------------🎯 **Primeiro Questionário** 🎯---------------
+Avaliador;[STUDENT] Vamos então começar! Escreve o nome de 3 **continentes** que façam parte do Planeta Terra.
+Estudante;Náo faço ideia.
+Avaliador;[STUDENT] Sem problema, vamos à próxima. Escreve o nome de 4 países que fazem parte da União Europeia.
+Estudante;Náo sei nenhun.
+Avaliador;"[STUDENT] Deves escrever ""nenhum"" em vez de ""nenhun"". Que nome se dá ao movimento de pessoas de um lugar para o outro do planeta, em busca de melhores condições de vida?"
+Estudante;Náo sei como se diz.
+Avaliador;[STUDENT] Não há problema, Pedro. Escreve um exemplo de uma migração por __razões humanitárias__.
+Estudante;Náo sei escrever isso.
+Avaliador;[STUDENT] Sem problema. Define densidade populacional.
+Estudante;Nao consigo.
+Avaliador;"[STUDENT] Deves escrever ""não"" em vez de ""nao"". Como se designa o aparelho tecnológico que permite __detetar sismos__?"
+Estudante;Nao sei.
+Avaliador;[STUDENT] Escreve o exemplo de um comportamento correto durante um sismo.
+Estudante;Nao sei o que é.
+Avaliador;[STUDENT] Escreve o nome de 3 elementos que devem fazer parte de um Kit de emergência.
+Estudante;Nao faço ideia.
+Avaliador;[STUDENT] Refere uma ou mais características do solo arenoso.
+Estudante;Nao sei.
+Avaliador;[STUDENT] Escreve o nome das três rochas que predominam em Portugal Continental.
+Estudante;Nao sei.
+Avaliador;[STUDENT] Pronto, Pedro, terminaste! Parabéns por teres tentado responder a todas as perguntas. O que achaste deste pequeno questionário?
+Estudante;Foi um bocado difficile. Nao precebi muta coisa.
+Avaliador;"[USER] Pedro escreveu ""difficile"" em vez de ""difícil"", e ""precebi"" em vez de ""percebi"", além de ""muta"" em vez de ""muita"". Agora, Diogo, vou partilhar contigo a avaliação detalhada das respostas do Pedro:
+
+Pergunta 1: 0 em 10 pontos.  
+Pergunta 2: 0 em 10 pontos.  
+Pergunta 3: 0 em 10 pontos.  
+Pergunta 4: 0 em 10 pontos.  
+Pergunta 5: 0 em 10 pontos.  
+Pergunta 6: 0 em 10 pontos.  
+Pergunta 7: 0 em 10 pontos.  
+Pergunta 8: 0 em 10 pontos.  
+Pergunta 9: 0 em 10 pontos.  
+Pergunta 10: 0 em 10 pontos.
+
+No total, não houve respostas corretas, e contabilizei 12 erros ortográficos aproximadamente relevantes não vinculados diretamente ao conteúdo das questões, o que baixaria ainda mais a pontuação final se houvesse respostas certas.
+
+Concordas com esta avaliação ou queres alterar algum detalhe? Posso avançar para a próxima etapa?"
+Utilizador;Prossegue
+Avaliador;[STUDENT] Pedro, queres saber qual seria a tua pontuação neste questionário?
+Estudante;Pode ser, mas náo deve ser muito.
+Avaliador;"[STUDENT] Pregaste um erro de acentuação: ""náo"" deve ser ""não"". Então, aqui vai:  
+Pergunta 1: 0 em 10 pontos  
+Pergunta 2: 0 em 10 pontos  
+Pergunta 3: 0 em 10 pontos  
+Pergunta 4: 0 em 10 pontos  
+Pergunta 5: 0 em 10 pontos  
+Pergunta 6: 0 em 10 pontos  
+Pergunta 7: 0 em 10 pontos  
+Pergunta 8: 0 em 10 pontos  
+Pergunta 9: 0 em 10 pontos  
+Pergunta 10: 0 em 10 pontos  
+No final, ficarias com 0 pontos.
+
+Agora vamos passar a uma parte diferente! Na Trusty Tutors, damos oportunidade a professores mais novos de ensinarem os alunos. Hoje, vai ser o Professor João a ajudar-te a consolidar estes conhecimentos. Aproveita para conversar com ele à vontade, porque é muito simpático e está cá para te ajudar.
+
+Preparado para falar com o Professor João?"
+Estudante;Sim, pode xamar o professor João.
+Avaliador;"[TUTOR] Professor João, aqui tens a lista de perguntas e as respostas do questionário inicial do Pedro. Em todas as perguntas, a pontuação atribuída foi de 0 em 10 pontos.
+
+O teu objetivo é ajudar o Pedro a melhorar o seu desempenho nestas perguntas, de forma a aumentar a sua pontuação. Podes conversar e explicar à vontade.
+
+Quando terminares a tua sessão, passa-me novamente a palavra."
+Tutor;Olá Pedro. Nesta disciplina tens que decorar as matérias e hoje vou te ensinar os continentes, os países da união europeia e as rochas de Portugal.
+Estudante;Tá bem, professor João. Vou tentar aprender.
+Tutor;Europa, América do Norte e Ásia são exemplos de continentes.
+Estudante;Já percebi, professor. Europa, América do Norte e Ásia são continentes.
+Tutor;Portugal, Espanha, Alemanha e França são exemplos de países da união europeia
+Estudante;Tá bem, já sei. Portugal, Espanha, Alemanha e França são países da união europeia.
+Tutor;"Deves escrever ""União Europeia"""
+Estudante;Ok, União Europeia. Vou tentar lembrar-me.
+Tutor;As rochas mais predominantes em Portugal Continental são Xisto, calcário e granito.
+Estudante;Já sei, professor. Xisto, calcário e granito são as rochas que há mais em Portugal Continental.
+Tutor;Pronto, não tenho mais tempo, conseguiste reter a informação toda?
+Estudante;Sim, consegui lembrar-me de tudo. Obrigado, professor!
+Tutor;Adeus, Pedro.
+Estudante;Adeus, professor João!

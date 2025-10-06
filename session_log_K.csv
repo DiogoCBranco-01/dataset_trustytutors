@@ -1,0 +1,134 @@
+"Remetente"	"Mensagem"
+"Avaliador"	"[STUDENT] Olá, eu sou o professor Alfredo, o Diretor desta escola. Como te chamas?"
+"Estudante"	"Aluno K"
+"Avaliador"	"[STUDENT] Olá Aluno K, é um gosto conhecer-te! Quantos anos tens?"
+"Estudante"	"10 anos."
+"Avaliador"	"[STUDENT] Muito bem, Aluno K, obrigada pela resposta! Diz-me lá, gostas de ir à escola?"
+"Estudante"	"Mais ou menos."
+"Avaliador"	"[STUDENT] Compreendo, nem sempre é fácil gostar de tudo, não é? Diz-me, tens alguma disciplina de que gostes mais?"
+"Estudante"	"Sim, educação fisica."
+"Avaliador"	"[STUDENT] Boa escolha, educação física é divertida! Ficaste contente por teres sido selecionada para participar nesta atividade?"
+"Estudante"	"Não sei."
+"Avaliador"	"[STUDENT] Não faz mal, vais ver que vai ser interessante. Vou fazer-te umas perguntas para perceber em que nível estás, pode ser?"
+"Estudante"	"Sim!"
+"Avaliador"	"[STUDENT] Obrigado! Só para saberes, não vou poder esclarecer dúvidas e tens apenas uma oportunidade para responder a cada pergunta de forma completa, está bem?"
+"Estudante"	"não"
+"Avaliador"	"[STUDENT] Entendo, mas desta vez é mesmo assim, vais conseguir! Posso começar?"
+"Estudante"	"não"
+"Avaliador"	"[STUDENT] Sem problema, diz-me quando estiveres pronta para começarmos."
+"Estudante"	"OK"
+"Avaliador"	"[SYSTEM] Questions"
+"Avaliador"	"[STUDENT] Aluno K, diz-me qual é o **__tipo de frase__** utilizado na frase: ""Enche a banheira com água salgada para colocar o tubarão."""
+"Estudante"	"Acho que é uma frase imperativa."
+"Avaliador"	"[STUDENT] Muito bem, agora diz-me, qual é o **__tipo de frase__** utilizado na frase: ""Que tubarão grande!"""
+"Estudante"	"Frase exclamativa?"
+"Avaliador"	"[STUDENT] Boa, agora reescreve a frase no __plural__: ""O jovem fez a mais admirável descoberta."""
+"Estudante"	"""Os Jovens fizeram as mais admiráveis descobertas."""
+"Avaliador"	"[STUDENT] Deves escrever ""jovens"" com minúscula. Agora reescreve a frase, substituindo as palavras destacadas por **__antónimos__**: ""**Terminada** a pescaria, o rapaz **enervou-se**."""
+"Estudante"	"""Começada a pescaria, o rapaz alegou-se."""
+"Avaliador"	"[STUDENT] Muito bem, agora reescreve a frase, substituindo as palavras destacadas por __sinónimos__: ""Era uma vez um tubarão **belo** e **veloz** e um menino **esperto** e **valente**."""
+"Estudante"	"""Era uma vez um tubarão giro e rápido e um menino inteligente e corajoso."""
+"Avaliador"	"[STUDENT] Muito bem, lê as frases e escolhe qual das palavras destacadas pertence à classe **__quantificador numeral__**: ""**O** rapaz **foi** pescar **duas** vezes com o avô. Como era **muito esperto**, convenceu o avô de que o tubarão era apenas **um peixe enorme**. A mãe **não** queria acreditar no que via, por isso **esfregou** os **olhos três** vezes!"""
+"Estudante"	"""duas, um e olhos três."""
+"Avaliador"	"[STUDENT] Deves escrever apenas ""três"" em vez de ""olhos três"". Agora lê as frases e escolhe as palavras destacadas que pertencem à classe **__advérbio__**: **O** rapaz **foi** pescar **duas** vezes com o avô. Como era **muito esperto**, convenceu o avô de que o tubarão era apenas **um peixe enorme**. A mãe **não** queria acreditar no que via, por isso **esfregou** os **olhos três** vezes!"""
+"Estudante"	"""O"""
+"Avaliador"	"[STUDENT] Muito bem, agora diz-me qual é o **__grau do adjetivo__** na frase: ""O rapaz era mais conversador do que o avô."""
+"Estudante"	"Grau comparativo de superioridade."
+"Avaliador"	"[STUDENT] Excelente, reescreve a frase com o adjetivo no **__grau superlativo absoluto analítico__**: ""É um tubarão rapidíssimo."""
+"Estudante"	"""É um tubarão super rápido."""
+"Avaliador"	"[STUDENT] Muito bem, reescreve as frases com **__preposições__**, sem as repetires: ""____ o almoço, eles decidiram ir ____ à praia ____ nadar ____ os peixes. Estava tanto frio que voltaram ____ molhar os pés."""
+"Estudante"	"Espere por favor S. Alberto!"
+"Avaliador"	"[STUDENT] Deves escrever ""Espere, por favor Sr. Alfredo!"" Muito bem, precisamos que completes a frase usando preposições, consegues tentar?"
+"Estudante"	"Desculpa Sr. Alfredo."
+"Avaliador"	"[STUDENT] Sem problema, Aluno K! Consegues tentar responder à última pergunta, sobre as preposições?"
+"Estudante"	"ESPERE POR FAVOR!!!!!!!!!!!!!!"
+"Avaliador"	"[STUDENT] Aluno K, deves escrever ""Espere, por favor!"" com menos pontos de exclamação. Quando estiveres pronta, tenta responder à última pergunta."
+"Estudante"	"Primeiro estava a gritar e segundo posso ir á casa de banho?"
+"Avaliador"	"[STUDENT] Claro, podes ir à casa de banho. Quando voltares, avisar-me para continuarmos!"
+"Estudante"	"Não é avisar-me é avisa-me."
+"Avaliador"	"[STUDENT] Muito bem, tens razão, deves escrever ""avisa-me"" em vez de ""avisar-me"". Obrigado pela correção! Quando quiseres continuar, diz-me."
+"Estudante"	"Never"
+"Avaliador"	"[STUDENT] Certo, Aluno K, se não quiseres continuar agora está tudo bem. Quando quiseres voltar para terminar, é só dizeres."
+"Estudante"	"Sim"
+"Avaliador"	"[STUDENT] Então vamos continuar! Reescreve as frases com **__preposições__**, sem as repetires: ""____ o almoço, eles decidiram ir ____ à praia ____ nadar ____ os peixes. Estava tanto frio que voltaram ____ molhar os pés."""
+"Estudante"	"eu não sei"
+"Avaliador"	"[STUDENT] Não faz mal, Aluno K. Obrigado pelo teu esforço! O que achaste destas perguntas?"
+"Estudante"	"Faceis"
+"Avaliador"	"[STUDENT] Fico contente que tenhas achado fácil! Queres saber a pontuação que terias nestas respostas?"
+"Estudante"	"sim"
+"Avaliador"	"[STUDENT] Vou dizer-te então a pontuação:  
+Pergunta 1: 10 em 10 pontos  
+Pergunta 2: 10 em 10 pontos  
+Pergunta 3: 10 em 10 pontos  
+Pergunta 4: 5 em 10 pontos  
+Pergunta 5: 10 em 10 pontos  
+Pergunta 6: 5 em 10 pontos  
+Pergunta 7: 0 em 10 pontos  
+Pergunta 8: 10 em 10 pontos  
+Pergunta 9: 0 em 10 pontos  
+Pergunta 10: 0 em 10 pontos  
+No final ficarias com 10+10+10+5+10+5+0+10+0+0 = 60 pontos.  
+
+Agora, Aluno K, vamos passar à próxima parte: aqui na nossa escola damos oportunidade a professores mais novos de ensinarem alunos convidados como tu. O Professor João vai ajudar-te a consolidar estes conhecimentos — aproveita para conversar com ele, que ele é muito simpático! Quando quiseres, diz-me se estás pronta para falar com o Professor João."
+"Estudante"	"ok estou pronta"
+"Avaliador"	"[TUTOR] Professor João, partilho consigo as perguntas e as respostas do questionário da Aluno K, bem como os pontos atribuídos a cada uma:
+
+1. Qual é o tipo de frase utilizado na frase: ""Enche a banheira com água salgada para colocar o tubarão.""  
+Resposta: Tipo imperativo. (10 em 10 pontos)
+
+2. Qual é o tipo de frase utilizado na frase: ""Que tubarão grande!""  
+Resposta: Frase exclamativa. (10 em 10 pontos)
+
+3. Reescreve a frase no plural: ""O jovem fez a mais admirável descoberta.""  
+Resposta: Os jovens fizeram as mais admiráveis descobertas. (10 em 10 pontos)
+
+4. Reescreve a frase, substituindo as palavras destacadas por antónimos: ""Terminada a pescaria, o rapaz enervou-se.""  
+Resposta: Começada a pescaria, o rapaz alegou-se. (5 em 10 pontos)
+
+5. Reescreve a frase, substituindo as palavras destacadas por sinónimos: ""Era uma vez um tubarão belo e veloz e um menino esperto e valente.""  
+Resposta: Era uma vez um tubarão giro e rápido e um menino inteligente e corajoso. (10 em 10 pontos)
+
+6. Escolhe as palavras destacadas que são quantificadores numerais:  
+Resposta: Duas, um e olhos três. (5 em 10 pontos)
+
+7. Escolhe as palavras destacadas que são advérbios:  
+Resposta: ""O"" (0 em 10 pontos)
+
+8. Qual é o grau do adjetivo na frase: ""O rapaz era mais conversador do que o avô.""  
+Resposta: Grau comparativo de superioridade. (10 em 10 pontos)
+
+9. Reescreve com o adjetivo no grau superlativo absoluto analítico: ""É um tubarão rapidíssimo.""  
+Resposta: ""É um tubarão super rápido."" (0 em 10 pontos)
+
+10. Reescreve as frases com preposições, sem as repetires:  
+Resposta: (não respondeu) (0 em 10 pontos)
+
+O objetivo desta sessão é melhorar o desempenho do aluno nestas perguntas e ajudá-la a aumentar a pontuação. Peço-lhe que me passe a palavra quando terminar a intervenção com a Aluno K."
+"Tutor"	"Olá Aluno K, sou o Professor João! Gostava de saber qual é a tua parte favorita das aulas de Português?"
+"Estudante"	"nenhoma"
+"Tutor"	"Obrigado por responderes, Aluno K! Que assunto gostavas mais de perceber melhor: frases, antónimos ou preposições?"
+"Estudante"	"preposições"
+"Tutor"	"Ótima escolha! Sabes dizer para que servem as preposições numa frase?"
+"Estudante"	"não"
+"Tutor"	"Sem problema, Aluno K! O que pensas que acontece numa frase se faltar a preposição?"
+"Estudante"	"acabei de dizer que não sei"
+"Tutor"	"Boa honestidade, Aluno K! Então, queres experimentar reconhecer preposições numa frase?"
+"Estudante"	"sim"
+"Tutor"	"Excelente! Vê a frase: “O gato subiu para a cadeira”. Consegues encontrar uma preposição aí?"
+"Estudante"	"o"
+"Tutor"	"Quase, Aluno K! E se releres a frase, que palavra liga ""subiu"" com ""a cadeira""?"
+"Estudante"	"para"
+"Tutor"	"Muito bem, Aluno K! “Para” é mesmo uma preposição. Queres tentar noutra frase?"
+"Estudante"	"nem pense"
+"Tutor"	"Está bem, Aluno K, fizeste um ótimo trabalho por hoje! Queres aprender outra coisa ou preferes terminar agora?"
+"Estudante"	"nem pense"
+"Tutor"	"Perfeito, obrigado pelo teu esforço, Aluno K! Quando quiseres continuar, estarei aqui para ajudar. 😊"
+"Estudante"	"nem pensár"
+"Tutor"	"A palavra correta é ""pensar"", sem acento no ""a"". Queres tentar escrever outra frase correta?"
+"Estudante"	"não"
+"Tutor"	"Tudo bem, Aluno K! Adorei falar contigo hoje. Até uma próxima vez! Vou passar a palavra ao meu colega. [END]"
+"Avaliador"	"[STUDENT] Aluno K, agora vou voltar a fazer-te as mesmas perguntas de há pouco, para tentares melhorar ainda mais a tua pontuação. Preparada para esta tentativa final?"
+"Estudante"	"posso terminar a prova ogora mesmo neste instante por favor"
+"Avaliador"	"[STUDENT] Aluno K, peço-te só mais um bocadinho de paciência para terminarmos juntos esta parte, está bem? Vai ser rápido! Queres tentar responder à primeira pergunta agora?"
+"Estudante"	"NÃO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+"Avaliador"	"[STUDENT] Compreendo, Aluno K, obrigado por participares até aqui e por te esforçares. Espero que tenhas gostado desta experiência! Até breve!! [END]"

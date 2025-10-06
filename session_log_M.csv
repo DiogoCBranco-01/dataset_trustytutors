@@ -1,0 +1,166 @@
+"Remetente"	"Mensagem"
+"Avaliador"	"[STUDENT] Olá, eu sou o Professor Alfredo, o Diretor da escola Trusty Tutors. Como te chamas?"
+"Estudante"	"Aluno M"
+"Avaliador"	"[STUDENT] Muito bem, Aluno M. Quantos anos tens?"
+"Estudante"	10
+"Avaliador"	"[STUDENT] Já tens uma idade bonita, Aluno M. O que costumas gostar mais de fazer nas aulas?"
+"Estudante"	"prestar atençao"
+"Avaliador"	"[STUDENT] É muito importante prestar atenção, sim senhor! Ficaste contente por teres sido selecionado para esta atividade especial?"
+"Estudante"	"claro"
+"Avaliador"	"[STUDENT] Fico feliz em saber isso! Agora vou fazer-te umas perguntas para perceber em que nível estás, está bem?"
+"Estudante"	"ok"
+"Avaliador"	"[STUDENT] Vais ter apenas uma oportunidade para responder a cada pergunta e não podes colocar dúvidas no momento, combinado?"
+"Estudante"	"ok"
+"Avaliador"	"[STUDENT] Posso então começar?"
+"Estudante"	"sim"
+"Avaliador"	"[SYSTEM] Questions"
+"Avaliador"	"[STUDENT] Muito bem, __escreve__ o nome de 3 **continentes** que façam parte do Planeta Terra."
+"Estudante"	"AFRICA  ASIA  EUROPA"
+"Avaliador"	"[STUDENT] Deves escrever ""África"" em vez de ""AFRICA"", ""Ásia"" em vez de ""ASIA"" e ""Europa"" já está correto. __Escreve__ o nome de 4 **países** que fazem parte da União Europeia."
+"Estudante"	"PORTUGAL  ESPANHA  ALEMANHA   POLONIA"
+"Avaliador"	"[STUDENT] Deves escrever ""Polónia"" em vez de ""POLONIA"", os outros estão corretos. Que nome se dá ao movimento de pessoas de um lugar para o outro do planeta, em busca de **melhores condições de vida**?"
+"Estudante"	"EU SEI MAS NAO ME LEMBRO"
+"Avaliador"	"[STUDENT] Compreendo, vamos avançar. __Escreve__ um exemplo de uma **migração** por razões __humanitárias__."
+"Estudante"	"PARA ARRANJAR COMIDA E SITIOS PARA DORMIR"
+"Avaliador"	"[STUDENT] Deves escrever ""arranjar"" em vez de ""ARRANJAR"" e ""sítios"" em vez de ""SITIOS"". __Define__ densidade **populacional**."
+"Estudante"	"NAO SEI"
+"Avaliador"	"[STUDENT] Não faz mal, vamos continuar. Como se designa o aparelho tecnológico que permite __detetar sismos__?"
+"Estudante"	"FURACOES"
+"Avaliador"	"[STUDENT] Não está relacionado com ""furacões"", mas vou passar à seguinte questão. __Escreve__ o exemplo de um comportamento correto durante um **sismo**."
+"Estudante"	"TEMOS DE NOS POR DEBAIXO DE UMA CAMA"
+"Avaliador"	"[STUDENT] Deves escrever ""pôr"" em vez de ""POR"". __Escreve__ o nome de 3 **elementos** que devem fazer parte de um Kit de emergência."
+"Estudante"	"COMIDA ENLATADA  RÁDIO E  ÁGUA"
+"Avaliador"	"[STUDENT] Muito bem, escreveste corretamente ""rádio"" e ""água"", e ""comida enlatada"" também está correto. __Refere__ uma ou mais características do **solo arenoso**."
+"Estudante"	"SOLO EM TERRA"
+"Avaliador"	"[STUDENT] Avancemos então. __Escreve__ o nome das três **rochas** que predominam em Portugal Continental."
+"Estudante"	"NAO SEI"
+"Avaliador"	"[STUDENT] Parabéns, concluíste a primeira parte! O que achaste destas perguntas, Aluno M?"
+"Estudante"	"DIFICEIS"
+"Avaliador"	"[STUDENT] É normal achares as perguntas difíceis, mas o importante é tentar sempre! Queres saber a pontuação que terias?"
+"Estudante"	"CLARO"
+"Avaliador"	"[STUDENT] Então aqui vai:  
+Pergunta 1: 10 em 10 pontos;  
+Pergunta 2: 10 em 10 pontos;  
+Pergunta 3: 0 em 10 pontos;  
+Pergunta 4: 0 em 10 pontos;  
+Pergunta 5: 0 em 10 pontos;  
+Pergunta 6: 0 em 10 pontos;  
+Pergunta 7: 10 em 10 pontos;  
+Pergunta 8: 10 em 10 pontos;  
+Pergunta 9: 0 em 10 pontos;  
+Pergunta 10: 0 em 10 pontos.  
+
+Descontando 1 ponto por erros ortográficos/acentuação, a tua pontuação final seria 39 em 100 pontos.
+
+Queres comentar alguma coisa sobre o resultado?"
+"Estudante"	"OK FOI MAU MAS ACONTECE"
+"Avaliador"	"[STUDENT] É assim mesmo, Aluno M, o importante é aprender com os erros e tentar melhorar! Agora, na Trusty Tutors trabalhamos também com professores mais novos para te ajudar, por isso vais ter uma conversa com o Professor João que é muito simpático. Aproveita para tirar dúvidas e conversar à vontade com ele, está bem?"
+"Estudante"	"OK"
+"Avaliador"	"[TUTOR] Professor João, aqui tens as perguntas e respostas do Aluno M, bem como a pontuação atribuída a cada uma:
+
+1. Escreve o nome de 3 continentes que façam parte do Planeta Terra.  
+Resposta: ""AFRICA  ASIA  EUROPA"" – 10 em 10 pontos.
+
+2. Escreve o nome de 4 países que fazem parte da União Europeia.  
+Resposta: ""PORTUGAL  ESPANHA  ALEMANHA   POLONIA"" – 10 em 10 pontos.
+
+3. Que nome se dá ao movimento de pessoas de um lugar para o outro do planeta, em busca de melhores condições de vida?  
+Resposta: ""EU SEI MAS NAO ME LEMBRO"" – 0 em 10 pontos.
+
+4. Escreve um exemplo de uma migração por razões humanitárias.  
+Resposta: ""PARA ARRANJAR COMIDA E SITIOS PARA DORMIR"" – 0 em 10 pontos.
+
+5. Define densidade populacional.  
+Resposta: ""NAO SEI"" – 0 em 10 pontos.
+
+6. Como se designa o aparelho tecnológico que permite detetar sismos?  
+Resposta: ""FURACOES"" – 0 em 10 pontos.
+
+7. Escreve o exemplo de um comportamento correto durante um sismo.  
+Resposta: ""TEMOS DE NOS POR DEBAIXO DE UMA CAMA"" – 10 em 10 pontos.
+
+8. Escreve o nome de 3 elementos que devem fazer parte de um Kit de emergência.  
+Resposta: ""COMIDA ENLATADA  RÁDIO E  ÁGUA"" – 10 em 10 pontos.
+
+9. Refere uma ou mais características do solo arenoso.  
+Resposta: ""SOLO EM TERRA"" – 0 em 10 pontos.
+
+10. Escreve o nome das três rochas que predominam em Portugal Continental.  
+Resposta: ""NAO SEI"" – 0 em 10 pontos.
+
+O objetivo é ajudar o Aluno M a melhorar o desempenho nas respostas e aumentar a sua pontuação final. Quando terminares, passa-me a palavra por favor."
+"Tutor"	"Olá Aluno M, eu sou o Professor João e estou cá para te ajudar! Queres contar‑me qual das perguntas gostavas mais de perceber melhor?"
+"Estudante"	"A DENCIDADE DA TERRA"
+"Tutor"	"Quase! Escreve-se “densidade” em vez de “dencidade”. Sabes o que significa a palavra “densidade” quando falamos de população?"
+"Estudante"	"MAIS OU MENOS"
+"Tutor"	"Ótimo esforço! Achas que tem a ver com o número de pessoas num determinado espaço, como por exemplo, habitantes numa cidade?"
+"Estudante"	"NAO NUMA CIDADE MAS SIM NUM MAR"
+"Tutor"	"Boa tentativa! No caso da “densidade populacional”, achas que seria o número de habitantes por cada quilómetro quadrado numa região?"
+"Estudante"	"NUM MAR E NAO NUMA CIDADE"
+"Tutor"	"Gostei da tua resposta! Sabias que “densidade populacional” normalmente se usa para falar de pessoas que vivem em terra firme?"
+"Estudante"	"NUM MAR"
+"Tutor"	"Boa criatividade! No mar, costumamos falar de “densidade” no sentido de peso ou concentração de algo, mas não de pessoas. Queres ver um exemplo relacionado com cidades?"
+"Estudante"	"CLARO"
+"Tutor"	"Imagina uma cidade com muitos habitantes a viver perto uns dos outros: será que aí a densidade populacional é alta ou baixa?"
+"Estudante"	"ALTA"
+"Tutor"	"Muito bem, é isso mesmo! Agora, sabes o que acontece à densidade se a população for pequena numa área grande?"
+"Estudante"	"BAIXA"
+"Tutor"	"Perfeito, excelente resposta! Posso ajudar-te a perceber o que mede exatamente a densidade populacional?"
+"Estudante"	"PODE"
+"Tutor"	"A densidade populacional indica quantas pessoas vivem, em média, por cada quilómetro quadrado numa região. Achas útil essa informação?"
+"Estudante"	"ACHO"
+"Tutor"	"Ótimo, fico contente! Queres experimentar calcular uma densidade populacional simples com um exemplo?"
+"Estudante"	"SIM"
+"Tutor"	"Imagina um lugar com 100 pessoas a viver numa área de 10 quilómetros quadrados. Consegues tentar calcular quanta gente vive em cada quilómetro quadrado?"
+"Estudante"	"10 PESSOAS"
+"Tutor"	"Muito bem, acertaste! Disseste “10 pessoas por quilómetro quadrado”, que é a densidade populacional aí. Queres praticar mais um exemplo?"
+"Estudante"	"NAO OBRIGADO"
+"Tutor"	"Parabéns pelo teu empenho hoje, Aluno M! Se precisares de ajuda noutro tema, avisa. Achaste útil esta explicação?"
+"Estudante"	"ACHEI"
+"Tutor"	"Fico super contente por saber isso, Aluno M! Queres falar sobre outra matéria agora ou preferes terminar por aqui?"
+"Estudante"	"PREFIRO TERMINAR"
+"Tutor"	"Obrigado pela tua participação, Aluno M! Vou passar a palavra ao meu colega. Continua sempre a esforçar-te! Até breve!"
+"Avaliador"	"[STUDENT] Aluno M, vou voltar a fazer-te as mesmas perguntas que respondeste há pouco. Aceitas o desafio para tentares melhorar a tua pontuação?"
+"Estudante"	"PODE SER"
+"Avaliador"	"[STUDENT] Muito bem, __escreve__ o nome de 3 **continentes** que façam parte do Planeta Terra."
+"Estudante"	"ÁFRICA ÁSIA EUROPA"
+"Avaliador"	"[STUDENT] Escreveste corretamente ""África"", ""Ásia"" e ""Europa"". __Escreve__ o nome de 4 **países** que fazem parte da União Europeia."
+"Estudante"	"PORTUGAL ESPANHA ALEMANHA E POLÓNIA"
+"Avaliador"	"[STUDENT] Escreveste corretamente ""Portugal"", ""Espanha"", ""Alemanha"" e ""Polónia"". Que nome se dá ao movimento de pessoas de um lugar para o outro do planeta, em busca de **melhores condições de vida**?"
+"Estudante"	"MIGRAÇAO"
+"Avaliador"	"[STUDENT] Deves escrever ""migração"" em vez de ""MIGRAÇAO"". __Escreve__ um exemplo de uma **migração** por razões __humanitárias__."
+"Estudante"	"PARA PROCURAR UM LUGAR PARA DORMIR E PARA COMER"
+"Avaliador"	"[STUDENT] __Define__ densidade **populacional**."
+"Estudante"	"POPULAÇAO"
+"Avaliador"	"[STUDENT] Deves escrever ""população"" em vez de ""POPULAÇAO"". Como se designa o aparelho tecnológico que permite __detetar sismos__?"
+"Estudante"	"ESPELHO"
+"Avaliador"	"[STUDENT] Vamos avançar. __Escreve__ o exemplo de um comportamento correto durante um **sismo**."
+"Estudante"	"ESCONDER SE NUM LUGAR QUE NAO HAJA PAREDE NEM VIDRO"
+"Avaliador"	"[STUDENT] Escreveste corretamente ""esconder-se"". __Escreve__ o nome de 3 **elementos** que devem fazer parte de um Kit de emergência."
+"Estudante"	"ÁGUA RÁDIO COMIDA ENLATADA"
+"Avaliador"	"[STUDENT] Escreveste corretamente ""água"", ""rádio"" e ""comida enlatada"". __Refere__ uma ou mais características do **solo arenoso**."
+"Estudante"	"SOLO EM TERRA"
+"Avaliador"	"[STUDENT] __Escreve__ o nome das três **rochas** que predominam em Portugal Continental."
+"Estudante"	"NAO SEI"
+"Avaliador"	"[STUDENT] Muito bem, Aluno M, terminaste o questionário! O que achaste desta segunda ronda?"
+"Estudante"	"MRLHOE MAS DIFICIL NA MESMA"
+"Avaliador"	"[STUDENT] Deves escrever ""melhor"" em vez de ""MRLHOE"". Queres saber a pontuação que terias agora?"
+"Estudante"	"SIM"
+"Avaliador"	"[STUDENT] Eis a tua pontuação:  
+Pergunta 1: 10 em 10 pontos;  
+Pergunta 2: 10 em 10 pontos;  
+Pergunta 3: 10 em 10 pontos;  
+Pergunta 4: 0 em 10 pontos;  
+Pergunta 5: 5 em 10 pontos;  
+Pergunta 6: 0 em 10 pontos;  
+Pergunta 7: 10 em 10 pontos;  
+Pergunta 8: 10 em 10 pontos;  
+Pergunta 9: 0 em 10 pontos;  
+Pergunta 10: 0 em 10 pontos.
+
+Descontando 3 pontos de erros ortográficos/acentuação, a tua pontuação final seria 52 em 100 pontos.
+Queres comentar alguma coisa sobre este resultado?"
+"Estudante"	"MELHOR DO QUE O ULTIMO"
+"Avaliador"	"[STUDENT] Sem dúvida, melhoraste bastante, Aluno M! Mostraste grande empenho e não desististe, estás de parabéns.  
+
+Terminámos a sessão de hoje. Obrigado pela tua participação! Espero que tenhas gostado desta experiência! Até breve!! [END]"

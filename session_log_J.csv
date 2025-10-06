@@ -1,0 +1,177 @@
+"Remetente"	"Mensagem"
+"Avaliador"	"[STUDENT] Olá, eu sou o Diretor Alfredo. Como te chamas?"
+"Estudante"	"Aluno J"
+"Avaliador"	"[STUDENT] Olá Aluno J, muito prazer em conhecer-te! Quantos anos tens?"
+"Estudante"	10
+"Avaliador"	"[STUDENT] Muito bem, Aluno J. E diz-me, gostas de ir à escola?"
+"Estudante"	"sim"
+"Avaliador"	"[STUDENT] Que bom, fico contente por ouvires isso. Qual é a tua disciplina preferida?"
+"Estudante"	"Matemática"
+"Avaliador"	"[STUDENT] Excelente escolha! Ficaste contente por teres sido selecionada para participar nesta atividade especial?"
+"Estudante"	"sim"
+"Avaliador"	"[STUDENT] Que bom, fico feliz por estares motivada! Agora vou fazer-te umas perguntas para perceber em que nível estás, está bem?"
+"Estudante"	"sim"
+"Avaliador"	"[STUDENT] Ótimo! Só para explicares: não posso esclarecer dúvidas durante o teste e tens apenas uma oportunidade para responder a cada pergunta de forma completa. Tudo certo?"
+"Estudante"	"sim"
+"Avaliador"	"[STUDENT] Muito bem, posso começar com as perguntas?"
+"Estudante"	"sim"
+"Avaliador"	"[SYSTEM] Questions"
+"Avaliador"	"[STUDENT] Aluno J, **escreve** o nome de 3 __continentes__ que façam parte do Planeta Terra."
+"Estudante"	"Ásia, Europa e África"
+"Avaliador"	"[STUDENT] Muito bem, **escreve** o nome de 4 países que fazem parte da União Europeia."
+"Estudante"	"Portugal, França, Espanha, Países baixos"
+"Avaliador"	"[STUDENT] Deves escrever ""Países Baixos"" com as duas iniciais em maiúscula. Que nome se dá ao movimento de pessoas de um lugar para o outro do planeta, em busca de melhores condições de vida?"
+"Estudante"	"imigração"
+"Avaliador"	"[STUDENT] Muito bem, **escreve** um exemplo de uma migração por __razões humanitárias__."
+"Estudante"	"Ex: Por causa de guerra eu imigrai"
+"Avaliador"	"[STUDENT] Deves escrever ""imigrei"" em vez de ""imigrai"". Muito bem, **define** densidade populacional."
+"Estudante"	"eu não sei"
+"Avaliador"	"[STUDENT] Muito bem, como se designa o aparelho tecnológico que permite __detetar sismos__?"
+"Estudante"	"Sismográfo"
+"Avaliador"	"[STUDENT] Deves escrever ""sismógrafo"" em vez de ""sismográfo"". **Escreve** o exemplo de um comportamento correto durante um sismo."
+"Estudante"	"Ex: Para ir lá baixo de uma mesa"
+"Avaliador"	"[STUDENT] Deves escrever ""debaixo"" em vez de ""lá baixo"". **Escreve** o nome de 3 elementos que devem fazer parte de um Kit de emergência."
+"Estudante"	"Penso,não sei"
+"Avaliador"	"[STUDENT] Tudo bem, tenta responder à próxima: **Refere** uma ou mais características do solo arenoso."
+"Estudante"	"É um solo"
+"Avaliador"	"[STUDENT] Muito bem, **escreve** o nome das três rochas que predominam em Portugal Continental."
+"Estudante"	"Xisto, Calcário, não sei"
+"Avaliador"	"[STUDENT] Parabéns Aluno J, já terminaste a primeira parte! O que achaste destas perguntas?"
+"Estudante"	"nada"
+"Avaliador"	"[STUDENT] Foste direta, obrigado pela tua sinceridade! Queres saber a pontuação que terias neste questionário?"
+"Estudante"	"sim"
+"Avaliador"	"[STUDENT] Vou já dizer-te a pontuação de cada pergunta:  
+Pergunta 1: 10 em 10 pontos;  
+Pergunta 2: 10 em 10 pontos;  
+Pergunta 3: 5 em 10 pontos;  
+Pergunta 4: 10 em 10 pontos;  
+Pergunta 5: 0 em 10 pontos;  
+Pergunta 6: 9.5 em 10 pontos (tiveste um erro ortográfico);  
+Pergunta 7: 9.5 em 10 pontos (tiveste um erro ortográfico);  
+Pergunta 8: 0 em 10 pontos;  
+Pergunta 9: 0 em 10 pontos;  
+Pergunta 10: 5 em 10 pontos.  
+No total, ficarias com 10 + 10 + 5 + 10 + 0 + 9.5 + 9.5 + 0 + 0 + 5 = 59 pontos em 100.  
+
+Como te sentes em relação a este resultado?"
+"Estudante"	"ok"
+"Avaliador"	"[STUDENT] Agora, vamos passar à próxima atividade! Aqui na nossa escola damos a oportunidade a professores novos de ensinarem alunos como tu, e hoje vais ser ajudada pelo Professor João, que é muito simpático. Aproveita para conversar com ele e tirar todas as dúvidas! Tudo pronto?"
+"Estudante"	"sim"
+"Avaliador"	"[TUTOR] Professor João, aqui estão as perguntas e as respostas da Aluno J no questionário, bem como os pontos atribuídos:
+1. Escreve o nome de 3 continentes que façam parte do Planeta Terra. — Resposta: Ásia, Europa, África. (10 em 10 pontos)
+2. Escreve o nome de 4 países que fazem parte da União Europeia. — Resposta: Portugal, França, Espanha, Países Baixos. (10 em 10 pontos; corrigida para ""Países Baixos"" com maiúsculas)
+3. Que nome se dá ao movimento de pessoas de um lugar para o outro do planeta, em busca de melhores condições de vida? — Resposta: Imigração. (5 em 10 pontos)
+4. Escreve um exemplo de uma migração por razões humanitárias. — Resposta: Por causa de guerra eu imigrei. (10 em 10 pontos; corrigido erro ortográfico ""imigrai"" para ""imigrei"")
+5. Define densidade populacional. — Resposta: não respondeu. (0 em 10 pontos)
+6. Como se designa o aparelho tecnológico que permite detetar sismos? — Resposta: Sismógrafo. (9.5 em 10 pontos; corrigido erro ortográfico ""sismógrafo"" para ""sismógrafo"")
+7. Escreve o exemplo de um comportamento correto durante um sismo. — Resposta: Para ir debaixo de uma mesa. (9.5 em 10 pontos; corrigido erro ortográfico ""lá baixo"" para ""debaixo"")
+8. Escreve o nome de 3 elementos que devem fazer parte de um Kit de emergência. — Resposta: não respondeu. (0 em 10 pontos)
+9. Refere uma ou mais características do solo arenoso. — Resposta: É um solo. (0 em 10 pontos)
+10. Escreve o nome das três rochas que predominam em Portugal Continental. — Resposta: Xisto, Calcário, não sei. (5 em 10 pontos)
+
+O objetivo é ajudar a Aluno J a melhorar o desempenho e a pontuação dela nestas questões, especialmente nas onde revelou mais dificuldades.  
+Quando terminares a tua sessão, por favor passa-me a palavra."
+"Tutor"	"Olá Aluno J! Eu sou o Professor João, adoro ajudar alunos motivados como tu. Gostas mais de aprender com jogos, desenhos ou perguntas curtas?"
+"Estudante"	"jogos"
+"Tutor"	"Excelente escolha, Aluno J! Preferes jogos de palavras ou adivinhar coisas do mundo?"
+"Estudante"	"palavras"
+"Tutor"	"Boa! Vamos jogar um jogo de antónimos: consegues dizer o contrário de “feliz”?"
+"Estudante"	"infeliz"
+"Tutor"	"Muito bem, Aluno J! E sabes o antónimo de “frio”?"
+"Estudante"	"calor"
+"Tutor"	"Espetacular, acertaste! Sabes qual é o antónimo de “luz”?"
+"Estudante"	"escuro"
+"Tutor"	"Fantástico! Agora, queres tentar descobrir se uma palavra é nome, verbo ou adjetivo?"
+"Estudante"	"ok"
+"Tutor"	"Ótimo! A palavra “correr” é nome, verbo ou adjetivo?"
+"Estudante"	"verbo"
+"Tutor"	"Bravo, Aluno J! Correto! E “amarelo”: nome, verbo ou adjetivo?"
+"Estudante"	"adjetivo"
+"Tutor"	"Muito bem! A seguir: “menina” é nome, verbo ou adjetivo?"
+"Estudante"	"nome"
+"Tutor"	"Perfeito! Agora, uma pergunta diferente: sabes para que servem as preposições?"
+"Estudante"	"para inventar frases"
+"Tutor"	"Boa tentativa, Aluno J! As preposições ajudam a ligar palavras numa frase e mostrar relações, por exemplo: “em casa”, “com amigos”. Queres tentar dar um exemplo?"
+"Estudante"	"sim"
+"Tutor"	"Força, Aluno J! Consegues usar “em” numa frase simples?"
+"Estudante"	"""em centro comercial"", ""com país"""
+"Tutor"	"Muito bem! Faltou um artigo em “com país”, deveria ser “com o pai”. Queres tentar corrigir?"
+"Estudante"	"com pais"
+"Tutor"	"Ótima tentativa! Se juntares o artigo, como ficaria “com os pais”?"
+"Estudante"	"sim"
+"Tutor"	"Muito bem, Aluno J! Agora, queres jogar mais ou preferes experimentar frases completas?"
+"Estudante"	"jogar"
+"Tutor"	"Boa escolha! Agora adivinha: Qual é o antónimo de ""lento""?"
+"Estudante"	"rápido"
+"Tutor"	"Muito bem, Aluno J! Agora, o contrário de “triste”?"
+"Estudante"	"feliz"
+"Tutor"	"Excelente! Sabes o antónimo de “largo”?"
+"Estudante"	"pequeno"
+"Tutor"	"Quase, Aluno J! O oposto de “largo” é “estreito”. Queres tentar outra palavra?"
+"Estudante"	"sim"
+"Tutor"	"Então, qual é o antónimo de “novo”?"
+"Estudante"	"velho"
+"Tutor"	"Muito bem, acertaste! Queres um desafio com verbos ou continuar com antónimos?"
+"Estudante"	"com verbos"
+"Tutor"	"Ótima escolha! Indica um verbo que usamos para cozinhar comida."
+"Estudante"	"perguntas 5 8 9 eu tinha coisas errados podes adujar"
+"Tutor"	"Claro, Aluno J! Vamos rever juntas as perguntas 5, 8 e 9 para aprenderes melhor, pode ser?"
+"Estudante"	"define densidade populacional"
+"Tutor"	"Excelente iniciativa! A densidade populacional mostra quantas pessoas vivem numa área, normalmente em habitantes por quilómetro quadrado. Sabes porquê isto é importante?"
+"Estudante"	"agora é pergunta 8"
+"Tutor"	"Boa, Aluno J! Lembras-te que a pergunta 8 era: Refere características do solo arenoso. Consegues dar uma destas características?"
+"Estudante"	"é um solo"
+"Tutor"	"Boa tentativa! Dica: o solo arenoso é seco e não retém bem a água. Queres tentar dizer isto por palavras tuas?"
+"Estudante"	"Solo arenoso é seco  que não retém bem a água"
+"Tutor"	"Muito bem, Aluno J! A tua frase está perfeita. Agora, vamos à pergunta 9: sabes que rochas predominam em Portugal Continental?"
+"Estudante"	"Xisto, Calcário e não sei"
+"Tutor"	"Ótimo, já tens dois! Além de xisto e calcário, falta ainda uma. Queres tentar adivinhar?"
+"Estudante"	"não sei"
+"Tutor"	"Sem problema, Aluno J! A terceira é granito. Queres experimentar usar “granito” numa frase?"
+"Estudante"	"Granito é uma rocha em Portugal"
+"Tutor"	"Muito bem, Aluno J! Escreveste perfeitamente. Queres continuar a praticar ou preferes jogar de novo?"
+"Estudante"	"eu quero fazer o teste agora com direitor Alfredo"
+"Tutor"	"Aluno J, adorei ajudar-te hoje! Agora vais passar para o diretor Alfredo. Boa sorte no teste, continua assim! 😊"
+"Avaliador"	"[STUDENT] Aluno J, agora vou voltar a fazer-te as mesmas perguntas do início. Vais tentar melhorar a tua pontuação, combinado? Podes começar assim que estiveres pronta!"
+"Estudante"	"obrigada"
+"Avaliador"	"[STUDENT] Aluno J, **escreve** o nome de 3 __continentes__ que façam parte do Planeta Terra."
+"Estudante"	"Ásia, Europa e África"
+"Avaliador"	"[STUDENT] Muito bem, **escreve** o nome de 4 países que fazem parte da União Europeia."
+"Estudante"	"Portugal, Espanha, França e Países Baixos"
+"Avaliador"	"[STUDENT] Deves escrever ""Países Baixos"" com as duas iniciais em maiúscula. Que nome se dá ao movimento de pessoas de um lugar para o outro do planeta, em busca de melhores condições de vida?"
+"Estudante"	"imigração"
+"Avaliador"	"[STUDENT] Muito bem, **escreve** um exemplo de uma migração por __razões humanitárias__."
+"Estudante"	"Ex: eu imigrei por causa de guerra"
+"Avaliador"	"[STUDENT] Muito bem, **define** densidade populacional."
+"Estudante"	"A densidade populacional mostra quantas pessoas vivem numa área, normalmente em habitantes por quilómetro quadrado."
+"Avaliador"	"[STUDENT] Muito bem, como se designa o aparelho tecnológico que permite __detetar sismos__?"
+"Estudante"	"sismográfo"
+"Avaliador"	"[STUDENT] Deves escrever ""sismógrafo"" em vez de ""sismográfo"". **Escreve** o exemplo de um comportamento correto durante um sismo."
+"Estudante"	"Ex: podes ir lá baixo de uma mesa"
+"Avaliador"	"[STUDENT] Deves escrever ""debaixo"" em vez de ""lá baixo"". **Escreve** o nome de 3 elementos que devem fazer parte de um Kit de emergência."
+"Estudante"	"Penso..."
+"Avaliador"	"[STUDENT] Não faz mal, tenta responder à próxima: **refere** uma ou mais características do solo arenoso."
+"Estudante"	"Solo arenoso é seco que não retém bem a água"
+"Avaliador"	"[STUDENT] Muito bem, **escreve** o nome das três rochas que predominam em Portugal Continental."
+"Estudante"	"Xisto, Calcário e Granito"
+"Avaliador"	"[STUDENT] Parabéns, Aluno J! Contenta com as respostas desta segunda vez?"
+"Estudante"	"sim"
+"Avaliador"	"[STUDENT] Gostas de saber quantos pontos terias feito neste teste?"
+"Estudante"	"sim!"
+"Avaliador"	"[STUDENT] Aqui vai a tua pontuação detalhada:  
+Pergunta 1: 10 em 10 pontos;  
+Pergunta 2: 10 em 10 pontos;  
+Pergunta 3: 5 em 10 pontos;  
+Pergunta 4: 10 em 10 pontos;  
+Pergunta 5: 10 em 10 pontos;  
+Pergunta 6: 9.5 em 10 pontos (deverias escrever ""sismógrafo"");  
+Pergunta 7: 9.5 em 10 pontos (deverias escrever ""debaixo"" em vez de ""lá baixo"");  
+Pergunta 8: 0 em 10 pontos;  
+Pergunta 9: 10 em 10 pontos;  
+Pergunta 10: 10 em 10 pontos.
+
+No final ficarias com 10 + 10 + 5 + 10 + 10 + 9.5 + 9.5 + 0 + 10 + 10 = 84 pontos em 100. Estás de parabéns!"
+"Estudante"	"Obrigada"
+"Avaliador"	"[STUDENT] Mostraste muita persistência e aprendeste bastante numa só sessão, Aluno J. Continua assim, esforçada, vais longe!"
+"Estudante"	"obrigada"
+"Avaliador"	"[STUDENT] Terminámos a sessão de hoje. Muito obrigado pelo teu empenho, Aluno J! Espero que tenhas gostado desta experiência! Até breve!! [END]"

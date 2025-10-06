@@ -1,0 +1,169 @@
+"Remetente"	"Mensagem"
+"Avaliador"	"[STUDENT] Olá! Eu sou o professor Alfredo, diretor da escola Trusty Tutors. Como te chamas?"
+"Estudante"	"Chamo-me Aluno N."
+"Avaliador"	"[STUDENT] Muito bem, Aluno N. Quantos anos tens?"
+"Estudante"	"Tenho dez anos."
+"Avaliador"	"[STUDENT] Fico contente por saber que tens dez anos, Aluno N. Conta-me, gostas de aprender na escola?"
+"Estudante"	"Sim, eu gosto de aprender na escola."
+"Avaliador"	"[STUDENT] Que bom, fico satisfeito por ouvires isso. Diz-me, qual é a tua disciplina favorita?"
+"Estudante"	"A minha disciplina favorita é matemática."
+"Avaliador"	"[STUDENT] Muito bem! Ficaste contente por teres sido selecionada para participar nesta atividade aqui na Trusty Tutors?"
+"Estudante"	"Ficai um bocado contente."
+"Avaliador"	"[STUDENT] Deves escrever ""Fiquei"" em vez de ""Ficai"". Agora vou fazer-te umas perguntas para perceber em que nível estás, está bem?"
+"Estudante"	"Sim, estou bem."
+"Avaliador"	"[STUDENT] Antes de começarmos, quero avisar-te que não posso esclarecer dúvidas e só tens uma oportunidade para responder de forma completa a cada pergunta, combinado?"
+"Estudante"	"Sim, combinado."
+"Avaliador"	"[STUDENT] Posso começar?"
+"Estudante"	"Podes."
+"Avaliador"	"[SYSTEM] Questions"
+"Avaliador"	"[STUDENT] Muito bem, Aluno N. __Escreve__ o nome de 3 **continentes** que façam parte do Planeta Terra."
+"Estudante"	"Asia, Europa e África."
+"Avaliador"	"[STUDENT] Deves escrever ""Ásia"" com acento. Muito bem, __Escreve__ o nome de 4 **países** que fazem parte da União Europeia."
+"Estudante"	"Portugal, Espanha, França e Alemanha"
+"Avaliador"	"[STUDENT] Muito bem, que nome se dá ao movimento de pessoas de um lugar para o outro do planeta, em busca de melhores condições de vida?"
+"Estudante"	"Emigração"
+"Avaliador"	"[STUDENT] Muito bem, __Escreve__ um exemplo de uma **migração por razões humanitárias**."
+"Estudante"	"Guerra"
+"Avaliador"	"[STUDENT] Muito bem, **Define** densidade populacional."
+"Estudante"	"Não sei."
+"Avaliador"	"[STUDENT] Não faz mal! Como se designa o aparelho tecnológico que permite __detetar sismos__?"
+"Estudante"	"Sismógrafo"
+"Avaliador"	"[STUDENT] Muito bem, __Escreve__ o exemplo de um **comportamento correto durante um sismo**."
+"Estudante"	"Proteger"
+"Avaliador"	"[STUDENT] Deves escrever uma frase mais completa. __Escreve__ o nome de 3 **elementos** que devem fazer parte de um Kit de emergência."
+"Estudante"	"Água, pilha e rádio."
+"Avaliador"	"[STUDENT] A palavra correta é ""pilhas"" no plural. __Refere__ uma ou mais **características do solo arenoso**."
+"Estudante"	"São amarelas."
+"Avaliador"	"[STUDENT] Muito bem, __Escreve__ o nome das três **rochas** que predominam em Portugal Continental."
+"Estudante"	"Granito, mármore e arenito."
+"Avaliador"	"[STUDENT] Parabéns por teres terminado! O que achaste destas perguntas?"
+"Estudante"	"Um bocado fácil."
+"Avaliador"	"[STUDENT] Fico satisfeito por teres achado fácil. Queres saber qual seria a pontuação que terias nestas perguntas?"
+"Estudante"	"Sim"
+"Avaliador"	"[STUDENT] Vou dizer-te a tua pontuação:  
+Pergunta 1: 10 em 10 pontos;  
+Pergunta 2: 10 em 10 pontos;  
+Pergunta 3: 5 em 10 pontos;  
+Pergunta 4: 10 em 10 pontos;  
+Pergunta 5: 0 em 10 pontos;  
+Pergunta 6: 10 em 10 pontos;  
+Pergunta 7: 0 em 10 pontos;  
+Pergunta 8: 7 em 10 pontos;  
+Pergunta 9: 0 em 10 pontos;  
+Pergunta 10: 5 em 10 pontos.  
+Total: 57 em 100 pontos, com pequeno desconto pelos erros ortográficos e acentuação.  
+Como te sentes com este resultado?"
+"Estudante"	"Feliz"
+"Avaliador"	"[STUDENT] Ainda bem que estás feliz! Agora vamos passar à próxima fase: na nossa escola, damos oportunidade a professores mais jovens de ensinarem os alunos; o Professor João vai ajudar-te a melhorar ainda mais. Ele é mesmo simpático, aproveita para falar com ele à vontade! Sentiste-te preparado para conversar com o Professor João?"
+"Estudante"	"Sim"
+"Avaliador"	"[TUTOR] Professor João, aqui estão as perguntas e respostas do questionário inicial da Aluno N, juntamente com a pontuação atribuída a cada uma:
+
+Pergunta 1 — 10 em 10 pontos  
+Pergunta 2 — 10 em 10 pontos  
+Pergunta 3 — 5 em 10 pontos  
+Pergunta 4 — 10 em 10 pontos  
+Pergunta 5 — 0 em 10 pontos  
+Pergunta 6 — 10 em 10 pontos  
+Pergunta 7 — 0 em 10 pontos  
+Pergunta 8 — 7 em 10 pontos  
+Pergunta 9 — 0 em 10 pontos  
+Pergunta 10 — 5 em 10 pontos  
+
+O objetivo nesta sessão é ajudar a Aluno N a melhorar o seu desempenho e aumentar a sua pontuação nas respostas dadas. No final, peço que me passes a palavra para voltarmos à fase do questionário."
+"Tutor"	"Olá, Aluno N! Sou o Professor João e estou muito feliz por estar contigo hoje. O que gostas mais de aprender na escola?"
+"Estudante"	"Matemática"
+"Tutor"	"Que bom, a matemática é mesmo divertida! Gostavas de aprender algo novo sobre geografia comigo hoje?"
+"Estudante"	"Sim"
+"Tutor"	"Excelente atitude, Aluno N! Sabes qual é a diferença entre um país e um continente?"
+"Estudante"	"Sim"
+"Tutor"	"Muito bem! Consegues dar-me um exemplo de um continente e de um país?"
+"Estudante"	"Europa e Portugal"
+"Tutor"	"Ótimo exemplo, Aluno N! Que outras coisas achas que podem existir num continente como a Europa?"
+"Estudante"	"Animais"
+"Tutor"	"Boa! Também há muitas cidades e países na Europa. Sabes o nome de alguma cidade em França?"
+"Estudante"	"Não"
+"Tutor"	"Sem problema, Aluno N! O que achas que poderíamos fazer para descobrir o nome de uma cidade em França?"
+"Estudante"	"Pesquisar"
+"Tutor"	"Isso mesmo, pesquisar é uma ótima ideia! Queres tentar adivinhar ou preferes que te dê uma pista?"
+"Estudante"	"Uma pista"
+"Tutor"	"Esta cidade tem uma torre muito famosa chamada Torre Eiffel. Consegues adivinhar o nome da cidade?"
+"Estudante"	"Paris"
+"Tutor"	"Muito bem, acertaste, Aluno N! Agora, lembras-te de algum país da Europa que faça fronteira com Portugal?"
+"Estudante"	"Espanha"
+"Tutor"	"Excelente resposta! Aluno N, sabias que Espanha e Portugal juntos pertencem à União Europeia?"
+"Estudante"	"Sim"
+"Tutor"	"Ótimo! Sabes dizer em que continente fica a União Europeia?"
+"Estudante"	"Europa"
+"Tutor"	"Muito bem lembrado! Achas interessante explorar alguns países europeus juntos?"
+"Estudante"	"Não"
+"Tutor"	"Sem problema, Aluno N! Preferias falar sobre continentes ou sobre sismos?"
+"Estudante"	"Sismos"
+"Tutor"	"Que bom! Sabes qual é o nome do aparelho que deteta sismos?"
+"Estudante"	"Sim"
+"Tutor"	"Fantástico! Consegues escrever o nome desse aparelho?"
+"Estudante"	"Sismógrafo"
+"Tutor"	"Muito bem escrito, Aluno N! E sabes para que serve o sismógrafo?"
+"Estudante"	"Deteta sismos"
+"Tutor"	"Muito bem! E o que achas que devemos fazer durante um sismo para nos protegermos?"
+"Estudante"	"Fazer um kit de emergência"
+"Tutor"	"Ótima ideia! O kit é importante antes do sismo. O que deves fazer durante o sismo, enquanto a terra treme?"
+"Estudante"	"Proteger"
+"Tutor"	"Boa! Podes escrever uma frase completa, por exemplo “Proteger-me debaixo de uma mesa”?"
+"Estudante"	"Ok"
+"Tutor"	"Muito bem, Aluno N! Agora diz lá: onde te deverias proteger durante um sismo?"
+"Estudante"	"Debaixo de um mesa"
+"Tutor"	"Excelente resposta, Aluno N! Sabes o que deves proteger com as mãos quando estás debaixo da mesa?"
+"Estudante"	"Em cima da cabeça"
+"Tutor"	"Perfeito! É isso mesmo, proteger a cabeça é muito importante. Sentes-te mais confiante sobre o que fazer num sismo?"
+"Estudante"	"Sair de escadas"
+"Tutor"	"Boa tentativa, mas durante o sismo é melhor não usar escadas. Porquê achas que pode ser perigoso?"
+"Estudante"	"Não sei"
+"Tutor"	"Sem problema, Aluno N! Achas que as escadas podem ficar frágeis ou partir-se com o abalo?"
+"Estudante"	"Sim"
+"Tutor"	"Exatamente, por isso é melhor esperar que o sismo acabe antes de sair. Queres aprender mais dicas de segurança?"
+"Estudante"	"Não, eu já sei"
+"Tutor"	"Fico contente por estares preparada! Queres falar sobre outro tema da geografia?"
+"Estudante"	"Não"
+"Tutor"	"Obrigado, Aluno N! Estiveste muito bem hoje. Se quiseres aprender mais no futuro, cá estarei para te ajudar. Até breve!"
+"Avaliador"	"[STUDENT] Aluno N, agora vou voltar a fazer-te as mesmas perguntas de antes. Aceitas o desafio de tentar melhorar a tua pontuação?"
+"Estudante"	"Sim"
+"Avaliador"	"[STUDENT] Muito bem, __Escreve__ o nome de 3 **continentes** que façam parte do Planeta Terra."
+"Estudante"	"Ásia , Europa e África."
+"Avaliador"	"[STUDENT] Muito bem, __Escreve__ o nome de 4 **países** que fazem parte da União Europeia."
+"Estudante"	"Portugal, Espanha, França e Alemanha"
+"Avaliador"	"[STUDENT] Muito bem, que nome se dá ao movimento de pessoas de um lugar para o outro do planeta, em busca de melhores condições de vida?"
+"Estudante"	"Emigração"
+"Avaliador"	"[STUDENT] Muito bem, __Escreve__ um exemplo de uma **migração por razões humanitárias**."
+"Estudante"	"Guerra"
+"Avaliador"	"[STUDENT] Muito bem, **Define** densidade populacional."
+"Estudante"	"Não sei"
+"Avaliador"	"[STUDENT] Não faz mal. Como se designa o aparelho tecnológico que permite __detetar sismos__?"
+"Estudante"	"Guerra"
+"Avaliador"	"[STUDENT] A resposta correta aqui é ""sismógrafo"" e não ""guerra"". __Escreve__ o exemplo de um **comportamento correto durante um sismo**."
+"Estudante"	"Proteger"
+"Avaliador"	"[STUDENT] Tenta escrever uma frase mais completa. __Escreve__ o nome de 3 **elementos** que devem fazer parte de um Kit de emergência."
+"Estudante"	"Água, pilhas e rádio."
+"Avaliador"	"[STUDENT] Muito bem, __Refere__ uma ou mais **características do solo arenoso**."
+"Estudante"	"São amarelas."
+"Avaliador"	"[STUDENT] Muito bem, __Escreve__ o nome das três **rochas** que predominam em Portugal Continental."
+"Estudante"	"Granito, mármore e arenito."
+"Avaliador"	"[STUDENT] Parabéns, terminaste o questionário! O que achaste desta segunda ronda de perguntas?"
+"Estudante"	"Não sei"
+"Avaliador"	"[STUDENT] Não faz mal, o importante é teres participado. Queres saber qual seria agora a tua pontuação?"
+"Estudante"	"Sim!!!!!!!!!!"
+"Avaliador"	"[STUDENT] Aqui vai a tua pontuação:  
+Pergunta 1: 10 em 10 pontos;  
+Pergunta 2: 10 em 10 pontos;  
+Pergunta 3: 5 em 10 pontos;  
+Pergunta 4: 10 em 10 pontos;  
+Pergunta 5: 0 em 10 pontos;  
+Pergunta 6: 0 em 10 pontos;  
+Pergunta 7: 0 em 10 pontos;  
+Pergunta 8: 10 em 10 pontos;  
+Pergunta 9: 0 em 10 pontos;  
+Pergunta 10: 5 em 10 pontos.  
+Total: 50 em 100 pontos, com um pequeno desconto devido ao excesso de pontos de exclamação e outros erros de pontuação. Como te sentes com este resultado?"
+"Estudante"	"Não sei"
+"Avaliador"	"[STUDENT] Estiveste participativa e esforçada ao longo da sessão, e fiquei contente por tentares melhorar as tuas respostas. Parabéns pela tua dedicação! 
+
+Terminámos a sessão de hoje. Muito obrigado pela tua participação, Aluno N. Espero que tenhas gostado desta experiência! Até breve!! [END]"

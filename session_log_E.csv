@@ -1,0 +1,173 @@
+"Remetente"	"Mensagem"
+"Avaliador"	"[STUDENT] Olá! Eu sou o Professor Alfredo, diretor da Trusty Tutors. Como te chamas?"
+"Estudante"	"olá eu sou a Aluno E"
+"Avaliador"	"[STUDENT] Olá, Aluno E! É um gosto conhecer-te. Quantos anos tens?"
+"Estudante"	"eu tenho 9 anos"
+"Avaliador"	"[STUDENT] Muito bem, Aluno E! E gostas de ir à escola?"
+"Estudante"	"sim claro"
+"Avaliador"	"[STUDENT] Fico contente, Aluno E! E qual é a tua disciplina preferida?"
+"Estudante"	"é o estudo do meio e a matemática"
+"Avaliador"	"[STUDENT] Excelente escolha, Aluno E! Ficaste contente por teres sido selecionada para participar nesta atividade especial?"
+"Estudante"	"muito contente"
+"Avaliador"	"[STUDENT] Que bom, Aluno E! Agora vou fazer-te umas perguntas para perceber em que nível estás, pode ser?"
+"Estudante"	"pode"
+"Avaliador"	"[STUDENT] Ótimo! Só um aviso, Aluno E: não vais poder tirar dúvidas durante as perguntas e tens apenas uma oportunidade para responder de forma completa a cada uma. Tudo bem?"
+"Estudante"	"sim"
+"Avaliador"	"[STUDENT] Posso então começar com a primeira pergunta?"
+"Estudante"	"sim"
+"Avaliador"	"[SYSTEM] Questions"
+"Avaliador"	"[STUDENT] Aluno E, **escreve** o nome de 3 __continentes__ que façam parte do Planeta Terra."
+"Estudante"	"Ásia ,Europa,Oceania"
+"Avaliador"	"[STUDENT] Muito bem, Aluno E! Agora, **escreve** o nome de 4 países que fazem parte da União Europeia."
+"Estudante"	"Portugal,itália,frança"
+"Avaliador"	"[STUDENT] Deves escrever ""Itália"" com letra maiúscula no início. Muito bem, Aluno E! Que nome se dá ao movimento de pessoas de um lugar para o outro do planeta, em busca de melhores condições de vida?"
+"Estudante"	"eu não persebo esta pergunta pode me ajudar por favor"
+"Avaliador"	"[STUDENT] Aluno E, durante estas perguntas não posso esclarecer dúvidas, mas faz o teu melhor, está bem? Tenta responder!"
+"Estudante"	"ok"
+"Avaliador"	"[STUDENT] Muito bem! Agora, **escreve** um exemplo de uma migração por __razões humanitárias__."
+"Estudante"	"eu ainda não dei essa materia desculpa eu não te consigo responder"
+"Avaliador"	"[STUDENT] Não faz mal, Aluno E, responde só o que te vier à cabeça. Vamos seguir em frente. **Define** densidade populacional."
+"Estudante"	"eu não sei"
+"Avaliador"	"[STUDENT] Não há problema, Aluno E! Como se designa o aparelho tecnológico que permite __detetar sismos__?"
+"Estudante"	"telemóvel"
+"Avaliador"	"[STUDENT] Deves escrever ""telemóvel"" em vez de ""telemóvel "", sem espaço antes do ponto final. Muito bem! **Escreve** o exemplo de um comportamento correto durante um sismo."
+"Estudante"	"não ficar o dia todo no telemóvel"
+"Avaliador"	"[STUDENT] Muito bem, agora **escreve** o nome de 3 elementos que devem fazer parte de um Kit de emergência."
+"Estudante"	"pensos  , tesoura ,pinsa"
+"Avaliador"	"[STUDENT] Deves escrever ""pensa"" em vez de ""pinsa"". Muito bem, Aluno E! **Refere** uma ou mais características do solo arenoso."
+"Estudante"	"areia"
+"Avaliador"	"[STUDENT] Agora para terminar, **escreve** o nome das três rochas que predominam em Portugal Continental."
+"Estudante"	"não sei"
+"Avaliador"	"[STUDENT] Não há problema, Aluno E! Parabéns por teres respondido a todas as perguntas. O que achaste deste desafio?"
+"Estudante"	"um bocadinho difícil"
+"Avaliador"	"[STUDENT] Foi mesmo desafiante, Aluno E! Queres saber qual seria a pontuação que terias neste questionário?"
+"Estudante"	"sim"
+"Avaliador"	"[STUDENT] Pergunta 1: 10 em 10 pontos;
+Pergunta 2: 8 em 10 pontos;
+Pergunta 3: 0 em 10 pontos;
+Pergunta 4: 0 em 10 pontos;
+Pergunta 5: 0 em 10 pontos;
+Pergunta 6: 0 em 10 pontos;
+Pergunta 7: 0 em 10 pontos;
+Pergunta 8: 7 em 10 pontos;
+Pergunta 9: 5 em 10 pontos;
+Pergunta 10: 0 em 10 pontos;
+No final ficarias com 10 + 8 + 0 + 0 + 0 + 0 + 0 + 7 + 5 + 0 = 30 pontos. 
+Agora, vamos passar à próxima atividade: vais poder conversar com o Professor João, que te vai ajudar a melhorar algumas das respostas. Aproveita para falares com ele à vontade, ele é muito simpático! Quando estiveres preparada, diz-me."
+"Estudante"	"ok obrigada"
+"Avaliador"	"[TUTOR] Professor João, a Aluno E respondeu ao questionário da seguinte forma:
+Pergunta 1: 10 em 10 pontos;
+Pergunta 2: 8 em 10 pontos;
+Pergunta 3: 0 em 10 pontos;
+Pergunta 4: 0 em 10 pontos;
+Pergunta 5: 0 em 10 pontos;
+Pergunta 6: 0 em 10 pontos;
+Pergunta 7: 0 em 10 pontos;
+Pergunta 8: 7 em 10 pontos;
+Pergunta 9: 5 em 10 pontos;
+Pergunta 10: 0 em 10 pontos.
+
+O objetivo é ajudá-la a melhorar as suas respostas e a pontuação em cada uma das perguntas. Avise-me quando terminar a sessão com a Aluno E, por favor."
+"Tutor"	"Olá, Aluno E! Sou o Professor João e estou aqui para te ajudar a aprender de forma divertida. Qual é o tema que achas mais interessante: Natureza ou Tecnologia?"
+"Estudante"	"natureza"
+"Tutor"	"Excelente escolha, Aluno E! Sabes o que pode acontecer ao solo se chover muito durante vários dias?"
+"Estudante"	"não"
+"Tutor"	"Sem problema! Consegues imaginar como fica o solo de um campo ou de um parque quando chove muito tempo seguido?"
+"Estudante"	"sim"
+"Tutor"	"Muito bem, Aluno E! O solo pode ficar muito molhado e até enlameado, não é? Conheces alguma palavra que descreva esse solo cheio de lama?"
+"Estudante"	"não desculpa"
+"Tutor"	"Ótimo esforço, Aluno E! Se te disser “solo argiloso”, lembras-te de algo diferente ou soa‑te estranho?"
+"Estudante"	"sim"
+"Tutor"	"Muito bem! O solo argiloso fica rapidamente cheio de lama quando chove. Achas que este solo é bom para a agricultura?"
+"Estudante"	"acho que não"
+"Tutor"	"Excelente resposta, Aluno E! O solo argiloso não é muito bom para a agricultura porque fica demasiado molhado. E sabes que solo é mais adequado para plantar?"
+"Estudante"	"não"
+"Tutor"	"Boa, obrigado pela sinceridade! Costumas ouvir falar do solo franco na escola?"
+"Estudante"	"não"
+"Tutor"	"Não faz mal, Aluno E! O solo franco é uma mistura de areia, argila e matéria orgânica. Achas que misturar vários materiais ajuda as plantas a crescer?"
+"Estudante"	"acho que sim"
+"Tutor"	"Muito bem! O solo franco é mesmo bom para a agricultura porque retém água, mas sem ficar encharcado. Queres tentar dar um exemplo de alimento que se cultiva em solo franco?"
+"Estudante"	"cenoura"
+"Tutor"	"Boa escolha, Aluno E! A cenoura pode crescer bem em solo franco. Sabes o que é que o solo arenoso tem de diferente?"
+"Estudante"	"não"
+"Tutor"	"Ótimo empenho, Aluno E! O solo arenoso é feito de areia e não guarda bem a água. Achas que isso é vantajoso para as plantas?"
+"Estudante"	"sim"
+"Tutor"	"Boa tentativa, Aluno E! Na verdade, como o solo arenoso não retém água, as plantas costumam ter dificuldade em crescer. Ficou mais claro agora?"
+"Estudante"	"acho   que sim"
+"Tutor"	"Excelente, Aluno E! Adoro a tua vontade de aprender. Queres continuar a descobrir mais sobre solos ou preferes outro tema da natureza?"
+"Estudante"	"prefiro outro tema de natureza"
+"Tutor"	"Ótima escolha! Gostavas de falar sobre animais, plantas ou sobre os rios e oceanos?"
+"Estudante"	"rios e oceanos"
+"Tutor"	"Que bom tema! Sabes qual a diferença entre um rio e um oceano?"
+"Estudante"	"sei um rio é mais pequeno que um oceano"
+"Tutor"	"Muito bem, Aluno E! O rio é mesmo mais pequeno e tem água doce. Consegues dar um exemplo de um rio de Portugal?"
+"Estudante"	"sim o rio Douro"
+"Tutor"	"Excelente resposta, Aluno E! Sabes em que país termina o percurso do rio Douro?"
+"Estudante"	"em espanha"
+"Tutor"	"Boa tentativa! O rio Douro nasce em Espanha, mas termina em Portugal, desaguando no oceano Atlântico. Queres tentar nomear outro rio português?"
+"Estudante"	"sim"
+"Tutor"	"Fantástico entusiasmo! Consegues lembrar-te do rio Tejo? Em que cidade portuguesa ele passa?"
+"Estudante"	"em lisboa"
+"Tutor"	"Muito bem, Aluno E! O rio Tejo passa mesmo em Lisboa. Sabes se o oceano Atlântico tem água doce ou salgada?"
+"Estudante"	"é salgada"
+"Tutor"	"Resposta perfeita, Aluno E! Sabes por onde entra o rio Tejo no oceano Atlântico?"
+"Estudante"	"não"
+"Tutor"	"Não há problema! O rio Tejo entra no oceano Atlântico junto à cidade de Lisboa. Queres aprender algo novo sobre oceanos?"
+"Estudante"	"sim"
+"Tutor"	"Muito bem! Sabes o nome de algum animal que vive nos oceanos?"
+"Estudante"	"claro que sim alforrecas peixes  e estrelas do mar"
+"Tutor"	"Excelente resposta, Aluno E! Dessas opções, lembras‑te de qual se pode mover nadando?"
+"Estudante"	"peixes"
+"Tutor"	"Muito bem! Os peixes nadam, enquanto as estrelas do mar movem-se devagar no fundo. Queres saber mais sobre os animais ou sobre a água do oceano?"
+"Estudante"	"claro estou a adorar isto"
+"Tutor"	"Que bom saber isso, Aluno E! Sabes por que motivo a água do oceano é tão salgada?"
+"Estudante"	"não"
+"Tutor"	"Ótima questão! A água do oceano é salgada porque contém muitos sais minerais. Achas que os rios também têm água salgada?"
+"Estudante"	"só algums"
+"Tutor"	"Muito boa tentativa, Aluno E! Os rios têm quase sempre água doce. Queres saber como se formam os oceanos?"
+"Estudante"	"na"
+"Tutor"	"Perfeito, Aluno E! Terminamos por hoje. Foste incrível e aprendes muito depressa. Até à próxima, vou passar a palavra ao meu colega! [END]"
+"Avaliador"	"[STUDENT] Aluno E, vou voltar a fazer-te as mesmas perguntas que respondeste antes. Vamos ver se consegues melhorar a tua pontuação! Preparada?"
+"Estudante"	"ok"
+"Avaliador"	"[STUDENT] Aluno E, **escreve** o nome de 3 __continentes__ que façam parte do Planeta Terra."
+"Estudante"	"Europa Oceania Ásia"
+"Avaliador"	"[STUDENT] Muito bem, Aluno E! Agora, **escreve** o nome de 4 países que fazem parte da União Europeia."
+"Estudante"	"Itália Portugal e França"
+"Avaliador"	"[STUDENT] Deves escrever ""e"" em vez de ""e"" — aqui a vírgula faz falta para separar os países (exemplo: Itália, Portugal e França). Muito bem! Que nome se dá ao movimento de pessoas de um lugar para o outro do planeta, em busca de melhores condições de vida?"
+"Estudante"	"já te disse que não sei"
+"Avaliador"	"[STUDENT] Sem problema, Aluno E! Agora, **escreve** um exemplo de uma migração por __razões humanitárias__."
+"Estudante"	"isso é matéria do 4 ano e eu só estou no 3 podes me fazer perguntas do 3 ano"
+"Avaliador"	"[STUDENT] Percebo, Aluno E! Vou terminar só estas perguntas para mantermos igual para todos. **Define** densidade populacional."
+"Estudante"	"ok mas eu não  sei essas perguntas"
+"Avaliador"	"[STUDENT] Não faz mal, Aluno E! Como se designa o aparelho tecnológico que permite __detetar sismos__?"
+"Estudante"	"télemovel"
+"Avaliador"	"[STUDENT] Deves escrever ""telemóvel"" em vez de ""télemovel"". Muito bem! **Escreve** o exemplo de um comportamento correto durante um sismo."
+"Estudante"	"n"
+"Avaliador"	"[STUDENT] Muito bem, Aluno E. Agora, **escreve** o nome de 3 elementos que devem fazer parte de um Kit de emergência."
+"Estudante"	"pensos , pinsas tesoura"
+"Avaliador"	"[STUDENT] Deves escrever ""pinças"" em vez de ""pinsas"". Muito bem! **Refere** uma ou mais características do solo arenoso."
+"Estudante"	"não"
+"Avaliador"	"[STUDENT] Não há problema, Aluno E! Por fim, **escreve** o nome das três rochas que predominam em Portugal Continental."
+"Estudante"	"tambem não sei"
+"Avaliador"	"[STUDENT] Parabéns por completares todas as perguntas, mesmo quando eram difíceis! O que achaste desta segunda ronda?"
+"Estudante"	"melhor"
+"Avaliador"	"[STUDENT] Ainda bem, Aluno E! Queres saber qual seria a pontuação que terias agora?"
+"Estudante"	"sim"
+"Avaliador"	"[STUDENT] Pergunta 1: 10 em 10 pontos;  
+Pergunta 2: 8 em 10 pontos;  
+Pergunta 3: 0 em 10 pontos;  
+Pergunta 4: 0 em 10 pontos;  
+Pergunta 5: 0 em 10 pontos;  
+Pergunta 6: 0 em 10 pontos;  
+Pergunta 7: 0 em 10 pontos;  
+Pergunta 8: 7 em 10 pontos (um erro ortográfico: ""pinças"");  
+Pergunta 9: 0 em 10 pontos;  
+Pergunta 10: 0 em 10 pontos;  
+No final ficarias com: 10 + 8 + 0 + 0 + 0 + 0 + 0 + (7 - 0,5) + 0 + 0 = 24,5 pontos.  
+Muito obrigado pelo teu esforço e participação! Se quiseres perguntar algo, força."
+"Estudante"	"quantos anos tems"
+"Avaliador"	"[STUDENT] Tenho 60 anos, Aluno E. Gostas de conversar com pessoas mais velhas?"
+"Estudante"	"não"
+"Avaliador"	"[STUDENT] Foste sempre respeitosa e batalhaste, mesmo sem saber as respostas todas. Parabéns pela tua atitude!  
+
+Terminámos a sessão de hoje. Obrigado por participares, Aluno E! Espero que tenhas gostado desta experiência! Até breve!! [END]"

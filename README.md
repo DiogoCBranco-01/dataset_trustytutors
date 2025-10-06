@@ -10,7 +10,8 @@ This repository hosts anonymized conversational logs collected from two experime
 
 Each CSV file uses a simple two-column schema:
 - **Remetente** — the sender of the message (Aluno, Utilizador, Tutor, or Avaliador)
-- **Mensagem** — the text content of the message, including protocol tags such as `[STUDENT]`, `[TUTOR]`, or `[USER]` (which can be ignored, but were used during the experiments as a communication protocol)
+- **Mensagem** — the text content of the message, including protocol tags such as `[STUDENT]`, `[TUTOR]`, or `[USER]`. These tags can be ignored by researchers, but were used during the experiments to indicate which Python routine should run next.
+
 
 ## Usage
 

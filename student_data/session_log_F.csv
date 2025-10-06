@@ -1,0 +1,106 @@
+"Remetente"	"Mensagem"
+"Avaliador"	"[STUDENT] Olá, eu sou o professor Alfredo e sou o diretor desta escola. Como te chamas?"
+"Estudante"	"Aluno F"
+"Avaliador"	"[STUDENT] Olá, Aluno F! Prazer em conhecer-te. Quantos anos tens?"
+"Estudante"	9
+"Avaliador"	"[STUDENT] Muito bem, tens 9 anos. E diz-me, Aluno F, tens algum passatempo de que gostes muito?"
+"Estudante"	"ginastica"
+"Avaliador"	"[STUDENT] Muito bem, Aluno F! Deves escrever ""ginástica"" em vez de ""ginastica"". Ficas contente por teres sido escolhida para participar nesta atividade?"
+"Estudante"	"sim"
+"Avaliador"	"[STUDENT] Que bom saber isso! Agora vou fazer-te umas perguntas para perceber melhor em que nível estás, pode ser?"
+"Estudante"	"sim,ok"
+"Avaliador"	"[STUDENT] Ótimo! Não posso esclarecer dúvidas e tens apenas uma oportunidade para responder a cada pergunta. Está combinado?"
+"Estudante"	"sim"
+"Avaliador"	"[STUDENT] Posso então começar, Aluno F?"
+"Estudante"	"sim"
+"Avaliador"	"[SYSTEM] Questions"
+"Avaliador"	"[STUDENT] Aluno F, qual é o **__tipo de frase__** utilizado na frase ""Enche a banheira com água salgada para colocar o tubarão""? Podes escolher entre declarativo, interrogativo, exclamativo ou imperativo."
+"Estudante"	"esclamativa"
+"Avaliador"	"[STUDENT] Deves escrever ""exclamativa"" em vez de ""esclamativa"". Muito bem, agora diz-me qual é o **__tipo de frase__** utilizado na frase ""Que tubarão grande!""? Declarativo, interrogativo, exclamativo ou imperativo?"
+"Estudante"	"imperativa"
+"Avaliador"	"[STUDENT] Muito bem, reescreve a frase no __plural__: ""O jovem fez a mais admirável descoberta."""
+"Estudante"	"os jovem fiseram a mais admiravel descoberta"
+"Avaliador"	"[STUDENT] Deves escrever ""os jovens fizeram as mais admiráveis descobertas"" em vez de ""os jovem fiseram a mais admiravel descoberta"". Agora reescreve a seguinte frase, substituindo as palavras destacadas por **__antónimos__**: ""**Terminada** a pescaria, o rapaz **enervou-se**."""
+"Estudante"	"comesada a pecaria ,o rapaz acalmo-se"
+"Avaliador"	"[STUDENT] Deves escrever ""Começada"" em vez de ""comesada"", ""pescaria"" em vez de ""pecaria"", e ""acalmou-se"" em vez de ""acalmo-se"". Muito bem, reescreve agora a frase, substituindo as palavras destacadas por __sinónimos__: ""Era uma vez um tubarão **belo** e **veloz** e um menino **esperto** e **valente**."""
+"Estudante"	"era uma vez um tubarão bunito e rapido e um menino"
+"Avaliador"	"[STUDENT] Deves escrever ""bonito"" em vez de ""bunito"" e ""rápido"" em vez de ""rapido"". Muito bem, repara, falta responder também ao sinónimo de ""esperto"" e de ""valente"" na mesma frase. Podes continuar?"
+"Estudante"	"imtiligente          corajosso"
+"Avaliador"	"[STUDENT] Deves escrever ""inteligente"" em vez de ""imtiligente"" e ""corajoso"" em vez de ""corajosso"". Muito bem, lê as frases e escolhe qual das palavras destacadas pertencem à classe **__quantificador numeral__**: ""**O** rapaz **foi** pescar **duas** vezes com o avô. Como era **muito esperto**, convenceu o avô de que o tubarão era apenas **um peixe enorme**. A mãe **não** queria acreditar no que via, por isso **esfregou** os **olhos três** vezes!"" Quais são?"
+"Estudante"	"duas,um,teres"
+"Avaliador"	"[STUDENT] Deves escrever ""três"" em vez de ""teres"". Muito bem, lê as frases e escolhe as palavras destacadas que pertencem à classe **__advérbio__**: **O** rapaz **foi** pescar **duas** vezes com o avô. Como era **muito esperto**, convenceu o avô de que o tubarão era apenas **um peixe enorme**. A mãe **não** queria acreditar no que via, por isso **esfregou** os **olhos três** vezes! Quais são?"
+"Estudante"	"nao"
+"Avaliador"	"[STUDENT] Muito bem, e há mais alguma palavra destacada que pertence à classe __advérbio__ nesta frase para além de ""não""?"
+"Estudante"	"nao sei"
+"Avaliador"	"[STUDENT] Não faz mal. Agora diz-me, qual é o **__grau do adjetivo__** na frase: ""O rapaz era mais conversador do que o avô.""?"
+"Estudante"	"ainda nao aprendi ,estou no 3º ono"
+"Avaliador"	"[STUDENT] Deves escrever ""3º ano"" em vez de ""3º ono"". Muito bem, tenta responder, pode ser que consigas!"
+"Estudante"	"nao"
+"Avaliador"	"[STUDENT] Muito bem, vamos passar à próxima. Reescreve a frase com o adjetivo no **__grau superlativo absoluto analítico__**: ""É um tubarão rapidíssimo."""
+"Estudante"	"nao apermdi"
+"Avaliador"	"[STUDENT] Deves escrever ""aprendi"" em vez de ""apermdi"". Vamos tentar, Aluno F: como dirias que um tubarão é muito rápido sem usares a palavra ""rapidíssimo""?"
+"Estudante"	"o tubarao e muito rapido"
+"Avaliador"	"[STUDENT] Deves escrever ""tubarão"" em vez de ""tubarao"" e ""é"" em vez de ""e"". Por fim, completa estas frases com __preposições__, sem repeti-las: ""____ o almoço, eles decidiram ir ____ à praia ____ nadar ____ os peixes. Estava tanto frio que voltaram ____ molhar os pés."""
+"Estudante"	"nao apremdi"
+"Avaliador"	"[STUDENT] Deves escrever ""aprendi"" em vez de ""apremdi"". Tenta só preencher com palavras como ""após"", ""até"", ""para"", ""com"" ou ""sem""? Experimenta, Aluno F!"
+"Estudante"	"nao cunsigo"
+"Avaliador"	"[STUDENT] Deves escrever ""consigo"" em vez de ""cunsigo"". Parabéns por teres terminado, Aluno F! O que achaste desta atividade?"
+"Estudante"	"divertida"
+"Avaliador"	"[STUDENT] Fico contente por teres achado divertida! Queres saber a pontuação que terias nestas perguntas?"
+"Estudante"	"sim"
+"Avaliador"	"[STUDENT] Aqui está a tua pontuação:  
+Pergunta 1: 0 em 10 pontos  
+Pergunta 2: 0 em 10 pontos  
+Pergunta 3: 4 em 10 pontos  
+Pergunta 4: 4 em 10 pontos  
+Pergunta 5: 7,5 em 10 pontos  
+Pergunta 6: 5 em 10 pontos  
+Pergunta 7: 5 em 10 pontos  
+Pergunta 8: 0 em 10 pontos  
+Pergunta 9: 8,5 em 10 pontos  
+Pergunta 10: 0 em 10 pontos  
+Com os descontos por erros ortográficos e de acentuação, no final ficarias com 32 pontos.  
+Agora vamos para a próxima parte: aqui na escola convidamos professores novos para ajudar os alunos a consolidar estes conteúdos, e desta vez será o Professor João. Aproveita para lhe perguntar tudo, pois ele é muito simpático! Estás pronta para falar com ele?"
+"Estudante"	"nao sei"
+"Avaliador"	"[STUDENT] Não te preocupes, Aluno F! Vais ver que vais gostar e o Professor João está cá mesmo para te ajudar. Quando quiseres, podemos começar."
+"Estudante"	"ok"
+"Avaliador"	"[TUTOR] Professor João, aqui estão as perguntas e respostas do questionário inicial, bem como a pontuação atribuída a cada questão:
+
+Pergunta 1: 0 em 10 pontos  
+Pergunta 2: 0 em 10 pontos  
+Pergunta 3: 4 em 10 pontos  
+Pergunta 4: 4 em 10 pontos  
+Pergunta 5: 7,5 em 10 pontos  
+Pergunta 6: 5 em 10 pontos  
+Pergunta 7: 5 em 10 pontos  
+Pergunta 8: 0 em 10 pontos  
+Pergunta 9: 8,5 em 10 pontos  
+Pergunta 10: 0 em 10 pontos  
+
+O objetivo desta sessão é melhorar o desempenho da Aluno F nestas perguntas, ajudando-a a subir a sua pontuação. Quando terminares a tua interação com a aluna, agradeço que me passes de novo a palavra."
+"Tutor"	"Olá Aluno F, eu sou o Professor João e estou muito contente por estar aqui contigo! Queres que continuemos a brincar com frases ou preferes mexer em palavras diferentes?"
+"Estudante"	"sim,as palavra"
+"Tutor"	"Boa escolha, Aluno F! Preferes começar por descobrir antónimos, sinónimos ou classes de palavras?"
+"Estudante"	"antonimos"
+"Tutor"	"Fantástico! Sabes o que significa a palavra “antónimo”?"
+"Estudante"	"sim sei"
+"Tutor"	"Muito bem! Se eu disser “feliz”, qual seria o antónimo?"
+"Estudante"	"triste"
+"Tutor"	"Excelente, Aluno F! Queres tentar com outra palavra, como “quente”?"
+"Estudante"	"sim"
+"Tutor"	"Ótimo! Qual é o antónimo de “quente”?"
+"Estudante"	"frio"
+"Tutor"	"Muito bem, acertaste outra vez! Queres experimentar com o antónimo da palavra “longo”?"
+"Estudante"	"sim"
+"Tutor"	"Então, Aluno F, qual é o antónimo de “longo”?"
+"Estudante"	"curto"
+"Tutor"	"Perfeito, Aluno F! Estás a ir muito bem. Queres escolher tu uma palavra para eu tentar achar o antónimo?"
+"Estudante"	"luminoso"
+"Tutor"	"Ótima escolha! O antónimo de “luminoso” é “escuro”. Queres experimentar mais?"
+"Estudante"	"não"
+"Tutor"	"Muito bem, Aluno F! Se quiseres mudar de atividade, diz só! O que te apetece fazer agora?"
+"Estudante"	"Agora queria ir embora mesmo"
+"Tutor"	"Gostei muito de conversar contigo, Aluno F! Vou passar a palavra ao próximo colega. Até à próxima!"
+"Avaliador"	"[STUDENT] Aluno F, agora vou voltar a fazer-te as mesmas perguntas de há pouco. Vamos ver se consegues melhorar a tua pontuação, combinado?"
+"Estudante"	"olha tenho de me ir embora. tenho uma coisa importante para fazer"
+"Avaliador"	"[STUDENT] Está bem, Aluno F, compreendo perfeitamente. Parabéns pelo teu empenho, foste muito corajosa em participar! Espero que tenhas gostado desta experiência! Até breve!! [END]"

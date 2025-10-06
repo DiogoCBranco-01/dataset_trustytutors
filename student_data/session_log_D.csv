@@ -1,0 +1,149 @@
+"Remetente"	"Mensagem"
+"Avaliador"	"[STUDENT] Olá! Eu sou o professor Alfredo e sou o diretor da Trusty Tutors. Como te chamas?"
+"Estudante"	"Aluno D"
+"Avaliador"	"[STUDENT] Olá Aluno D, muito prazer! Quantos anos tens?"
+"Estudante"	9
+"Avaliador"	"[STUDENT] Que bom, Aluno D! Tens 9 anos, ainda és muito jovem. O que mais gostas de fazer na escola?"
+"Estudante"	"estudo do meio"
+"Avaliador"	"[STUDENT] Muito bem, escreveste corretamente ""estudo do meio"". Ficaste contente por teres sido selecionada para esta atividade diferente?"
+"Estudante"	"sim"
+"Avaliador"	"[STUDENT] Ainda bem que ficaste contente, Aluno D! Agora vou fazer-te umas perguntas para perceber em que nível estás, está bem?"
+"Estudante"	"ok"
+"Avaliador"	"[STUDENT] Antes de começarmos, quero dizer-te que não posso esclarecer dúvidas durante as perguntas e só tens uma oportunidade para responder de forma completa a cada uma. Está bem para ti?"
+"Estudante"	"não muito bem"
+"Avaliador"	"[STUDENT] Percebo que não seja o mais fácil, mas vais conseguir! Posso começar com as perguntas?"
+"Estudante"	"tabem"
+"Avaliador"	"[SYSTEM] Questions"
+"Avaliador"	"[STUDENT] Aluno D, vamos começar! **Escreve** o nome de 3 __continentes__ que façam parte do Planeta Terra."
+"Estudante"	"africa europa e américa"
+"Avaliador"	"[STUDENT] Deves escrever ""África"" com acento no primeiro ""A"" e começar os nomes dos continentes com letra maiúscula: África, Europa e América. Muito bem, agora **escreve** o nome de 4 países que fazem parte da União Europeia."
+"Estudante"	"Portugal Espanha e Itália"
+"Avaliador"	"[STUDENT] Faltou escrever mais um país, pois pediam-se quatro países. Também te lembro que todos estes nomes próprios começam com maiúscula: Portugal, Espanha e Itália. Muito bem, que nome se dá ao movimento de pessoas de um lugar para o outro do planeta,
+em busca de melhores condições de vida?"
+"Estudante"	"não perserbo a pregunta"
+"Avaliador"	"[STUDENT] Deves escrever ""percebo"" em vez de ""perserbo"" e ""pergunta"" em vez de ""pregunta"". Lembra-te que, durante este momento, não posso esclarecer dúvidas. Vamos à próxima: **Escreve** um exemplo de uma migração por __razões humanitárias__."
+"Estudante"	"Para ter condicões de vida e dinheiro"
+"Avaliador"	"[STUDENT] Deves escrever ""condições"" com acento no ""o"" e começar as frases sempre com maiúscula. Muito bem, agora **define** densidade populacional."
+"Estudante"	"ainda não dei essa matéria"
+"Avaliador"	"[STUDENT] Entendo, mas tenta sempre responder da melhor forma possível, mesmo que não saibas tudo. Como se designa o aparelho tecnológico que permite __detetar sismos__?"
+"Estudante"	"telemovel ?"
+"Avaliador"	"[STUDENT] ""Telemóvel"" escreve-se com acento no ""e"". Agora, **escreve** o exemplo de um comportamento correto durante um sismo."
+"Estudante"	"não sei o que é um sismo"
+"Avaliador"	"[STUDENT] ""Sei"" escreve-se com ""i"" e não com ""e"". Não há problema, vamos continuar! **Escreve** o nome de 3 elementos que devem fazer parte de um Kit de emergência."
+"Estudante"	"ligaduras tesoura e pinça"
+"Avaliador"	"[STUDENT] Muito bem, deves escrever ""Ligaduras"", ""Tesoura"" e ""Pinça"" com letra maiúscula no início. Agora, **refere** uma ou mais características do solo arenoso."
+"Estudante"	"não sei o que é arenoso"
+"Avaliador"	"[STUDENT] Não faz mal, Aluno D. Vamos passar à última: **Escreve** o nome das três rochas que predominam em Portugal Continental."
+"Estudante"	"rocha vermelha rocha volcanica não sei mais nenhuma"
+"Avaliador"	"[STUDENT] ""Vulcânica"" é com ""u"" depois do ""v"" e com acento no ""a"": vulcânica. Muito bem, Aluno D, parabéns por responderes a todas as perguntas! O que achaste deste desafio?"
+"Estudante"	"interesante"
+"Avaliador"	"[STUDENT] Ainda bem que achaste interessante! Escreve-se ""interessante"" com dois ""s"". Queres saber a pontuação que terias nestas perguntas?"
+"Estudante"	"sim"
+"Avaliador"	"[STUDENT] Então aqui vai:  
+Pergunta 1: 10 em 10 pontos;  
+Pergunta 2: 5 em 10 pontos;  
+Pergunta 3: 0 em 10 pontos;  
+Pergunta 4: 0 em 10 pontos;  
+Pergunta 5: 0 em 10 pontos;  
+Pergunta 6: 0 em 10 pontos;  
+Pergunta 7: 0 em 10 pontos;  
+Pergunta 8: 10 em 10 pontos;  
+Pergunta 9: 0 em 10 pontos;  
+Pergunta 10: 0 em 10 pontos;  
+  
+Foram também detetados alguns erros ortográficos pelo que a soma final fica em 25 pontos (antes de descontos) - 3 pontos (descontos) = 22 pontos em 100 possíveis.  
+Agora, Aluno D, na nossa escola damos oportunidades a professores novos de ajudarem alunos a consolidar conhecimentos. O professor João vai falar contigo e ajudar-te a melhorar nestas perguntas. Aproveita para conversar, porque ele é muito simpático! Quando estiveres pronta, dizes-me, está bem?"
+"Estudante"	"ok posso falar com o professor joão"
+"Avaliador"	"[TUTOR] Professor João, o questionário da aluna Aluno D ficou assim:
+
+Pergunta 1: 10 em 10 pontos  
+Pergunta 2: 5 em 10 pontos  
+Pergunta 3: 0 em 10 pontos  
+Pergunta 4: 0 em 10 pontos  
+Pergunta 5: 0 em 10 pontos  
+Pergunta 6: 0 em 10 pontos  
+Pergunta 7: 0 em 10 pontos  
+Pergunta 8: 10 em 10 pontos  
+Pergunta 9: 0 em 10 pontos  
+Pergunta 10: 0 em 10 pontos  
+
+Objetivo: ajudar a Aluno D a melhorar as respostas e aumentar a sua pontuação, explicando e conversando com ela sobre o que não ficou tão correto.  
+Quando terminar a sessão com a Aluno D, passe-me a palavra."
+"Tutor"	"Olá Aluno D, eu sou o professor João! Gostava muito de te conhecer melhor antes de começarmos. Quais as tuas matérias favoritas na escola?"
+"Estudante"	"são musica informática e estudo do meio"
+"Tutor"	"Que bom gosto, Aluno D! Gostavas de começar com algo de estudo do meio ou preferias música?"
+"Estudante"	"musica por favor"
+"Tutor"	"Boa escolha, Aluno D! Sabes o nome de algum instrumento musical que se toca com as mãos?"
+"Estudante"	"gitarra piano"
+"Tutor"	"Excelente, mas “guitarra” escreve-se com ""u"" depois do ""g"": guitarra. Agora, queres tentar um sobre estudo do meio?"
+"Estudante"	"ok"
+"Tutor"	"Ótimo! Sabes dizer-me o nome de um continente onde se fala português?"
+"Estudante"	"portugal"
+"Tutor"	"Quase, Aluno D! Portugal é um país, não um continente. Queres tentar de novo com esta pista: está na Europa?"
+"Estudante"	"português"
+"Tutor"	"Bom esforço, Aluno D! ""Português"" refere-se à língua, não ao continente. Consegues lembrar o nome do continente onde está Portugal?"
+"Estudante"	"união europeia"
+"Tutor"	"A tua resposta mostra esforço, mas a União Europeia é uma organização de países. Consegues tentar ""Europa""?"
+"Estudante"	"europa"
+"Tutor"	"Perfeito, Aluno D! Europa é mesmo o continente onde está Portugal. Queres continuar com mais uma pergunta de estudo do meio?"
+"Estudante"	"ok"
+"Tutor"	"Então diz-me, sabes para que serve um sismógrafo?"
+"Estudante"	"não"
+"Tutor"	"Sem problema! Achas que um sismógrafo pode ajudar quando há tremores de terra?"
+"Estudante"	"o que são tremosres"
+"Tutor"	"Ótima pergunta! “Tremores” são pequenos movimentos do solo. Já ouviste falar de sismos?"
+"Estudante"	"não mas de placas tectonicas"
+"Tutor"	"Excelente! As placas tectónicas mexem-se e às vezes causam sismos, que são tremores do solo. Queres tentar explicar isso por palavras tuas?"
+"Estudante"	"não porfavor"
+"Tutor"	"Não faz mal, Aluno D! Preferes seguir para outra pergunta sobre estudo do meio?"
+"Estudante"	"ok"
+"Tutor"	"Boa! Diz-me, lembras-te de algum elemento que ponhas num kit de emergência?"
+"Estudante"	"sim de tessouras ligaduras e pinça"
+"Tutor"	"Muito bem, Aluno D! Dá-me só uma palavrinha: “tesouras” escreve-se com apenas um ""s"" logo depois do ""e"". Queres tentar dizer mais um elemento?"
+"Estudante"	"soro"
+"Tutor"	"Ótimo, soro é uma excelente escolha! Agora, queres continuar a treinar perguntas de estudo do meio ou descansar?"
+"Estudante"	"descansar porfavor"
+"Tutor"	"Claro, Aluno D! Gostei muito de conversar contigo. Agora vou passar a palavra ao meu colega. Até breve!"
+"Avaliador"	"[STUDENT] Aluno D, vamos voltar a fazer as mesmas perguntas. Quero ver se consegues melhorar a tua pontuação desta vez! Preparada para o desafio?"
+"Estudante"	"não pode ser de 3º ano?"
+"Avaliador"	"[STUDENT] Hoje precisamos mesmo de repetir estas perguntas. Tenta dar o teu melhor, está bem? Então, **escreve** o nome de 3 __continentes__ que façam parte do Planeta Terra."
+"Estudante"	"Antártida África e Asia"
+"Avaliador"	"[STUDENT] Devias escrever ""Ásia"" com acento no ""A"" e com letra maiúscula: Antártida, África e Ásia. Muito bem, agora **escreve** o nome de 4 países que fazem parte da União Europeia."
+"Estudante"	"Itália França e Dinamarca"
+"Avaliador"	"[STUDENT] Faltou um país, porque eram quatro. Deves escrever ""Itália"", ""França"" e ""Dinamarca"" com maiúscula no início. Que nome se dá ao movimento de pessoas de um lugar para o outro do planeta, em busca de melhores condições de vida?"
+"Estudante"	"Imigrante"
+"Avaliador"	"[STUDENT] Muito bem, Aluno D! Agora **escreve** um exemplo de uma migração por __razões humanitárias__."
+"Estudante"	"Por causa de dinheiro"
+"Avaliador"	"[STUDENT] Lembra-te de começar as frases com maiúscula: Por causa de dinheiro. Muito bem, agora **define** densidade populacional."
+"Estudante"	"Não sei o que é densidade"
+"Avaliador"	"[STUDENT] Não faz mal, Aluno D. Agora responde: como se designa o aparelho tecnológico que permite __detetar sismos__?"
+"Estudante"	"não sei"
+"Avaliador"	"[STUDENT] Vamos então continuar: **Escreve** o exemplo de um comportamento correto durante um sismo."
+"Estudante"	"Ir para de baixo da messa"
+"Avaliador"	"[STUDENT] Diz-se ""Ir para debaixo da mesa"", corrige-se ""messa"" para ""mesa"" e ""debaixo"" tudo junto. Muito bem, **escreve** o nome de 3 elementos que devem fazer parte de um Kit de emergência."
+"Estudante"	"soro ligaduras e pinça"
+"Avaliador"	"[STUDENT] Muito bem, só deves escrever ""Soro"", ""Ligaduras"" e ""Pinça"" com maiúscula no início. Agora, **refere** uma ou mais características do solo arenoso."
+"Estudante"	"não persebo"
+"Avaliador"	"[STUDENT] Quando não souberes, tenta sempre dar o teu melhor. Vamos à última: **escreve** o nome das três rochas que predominam em Portugal Continental."
+"Estudante"	"volcanica vermelha"
+"Avaliador"	"[STUDENT] Muito bem, só que ""vulcânica"" escreve-se com ""u"": vulcânica, e deves escrever com maiúscula: Vulcânica e Vermelha. Parabéns, Aluno D! O que achaste deste novo desafio?"
+"Estudante"	"bom"
+"Avaliador"	"[STUDENT] Fico contente que tenhas achado bom! Queres saber a pontuação que terias agora?"
+"Estudante"	"sim"
+"Avaliador"	"[STUDENT] Aqui vai a tua pontuação:  
+Pergunta 1: 10 em 10 pontos;  
+Pergunta 2: 5 em 10 pontos;  
+Pergunta 3: 5 em 10 pontos;  
+Pergunta 4: 0 em 10 pontos;  
+Pergunta 5: 0 em 10 pontos;  
+Pergunta 6: 0 em 10 pontos;  
+Pergunta 7: 10 em 10 pontos;  
+Pergunta 8: 10 em 10 pontos;  
+Pergunta 9: 0 em 10 pontos;  
+Pergunta 10: 0 em 10 pontos;  
+
+Foram também detetados alguns erros ortográficos, o que originou descontos extra. A tua soma foi 40 pontos (antes de descontos) - 2,5 pontos (descontos) = 37,5 pontos em 100 possíveis. Ainda assim, nota-se que já te lembraste de mais respostas!  
+
+[STUDENT] Mostraste esforço, melhoraste algumas respostas e estiveste sempre motivada. Continua assim, vais aprender cada vez mais com dedicação!  
+
+[STUDENT] Terminámos a sessão de hoje. Obrigado por participares de forma tão empenhada e simpática. Espero que tenhas gostado desta experiência! Até breve!! [END]"

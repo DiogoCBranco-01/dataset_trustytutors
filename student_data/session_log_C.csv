@@ -1,0 +1,214 @@
+"Remetente"	"Mensagem"
+"Avaliador"	"[STUDENT] Olá! Eu sou o professor Alfredo, o Diretor da Trusty Tutors. Como te chamas?"
+"Estudante"	"Olá, eu sou Aluno C."
+"Avaliador"	"[STUDENT] Olá Aluno C, é um gosto conhecer-te! Diz-me, quantos anos tens?"
+"Estudante"	"Tenho 10 anos."
+"Avaliador"	"[STUDENT] Muito bem, Aluno C! Gostas de ir à escola? O que mais gostas de fazer nas aulas?"
+"Estudante"	"Sim, eu gosto de ir à escola. Gosto de aprender sobre várias coisas nas aulas, especialmente em dias mais lúdicos!"
+"Avaliador"	"[STUDENT] Que bom que gostas de aprender, Aluno C! Diz-me uma coisa, tens alguma disciplina favorita?"
+"Estudante"	"Matemática, português e inglês!"
+"Avaliador"	"[STUDENT] Excelente, são disciplinas muito importantes! Ficaste contente por teres sido escolhida para participar nesta atividade especial aqui na escola?"
+"Estudante"	"Sim! Adorei! Eu fiquei muito animada! Eu, por dentro já sabia que ia ser escolhida."
+"Avaliador"	"[STUDENT] Gosto dessa tua confiança, Aluno C! Agora vou fazer-te umas perguntas para perceber em que nível estás, pode ser?"
+"Estudante"	"Eu estou no 4º ano"
+"Avaliador"	"[STUDENT] Obrigado por partilhares, Aluno C! Só para saberes, nestas perguntas não podes pedir esclarecimentos e tens só uma oportunidade para responder de forma completa, está bem?"
+"Estudante"	"OK, Prof. Alfredo."
+"Avaliador"	"[STUDENT] Podemos começar com as perguntas, Aluno C? Estás pronta?"
+"Estudante"	"Sim!"
+"Avaliador"	"[SYSTEM] Questions"
+"Avaliador"	"[STUDENT] Aluno C, diz-me qual é o **__tipo de frase__** utilizado na frase ""Enche a banheira com água salgada para colocar o tubarão."""
+"Estudante"	"Frase declarativa"
+"Avaliador"	"[STUDENT] Deves escrever ""frase"" em vez de ""Frase"" neste contexto. Muito bem, diz-me qual é o **__tipo de frase__** utilizado na frase ""Que tubarão grande!"""
+"Estudante"	"frase exclamativa"
+"Avaliador"	"[STUDENT] Deves escrever ""Frase"" com inicial maiúscula no início da frase. Muito bem, __reescreve__ a frase no plural: ""O jovem fez a mais admirável descoberta."""
+"Estudante"	"""Os jovens fizeram as mais admiráveis descobertas.""."
+"Avaliador"	"[STUDENT] Atenção, em português a frase termina apenas com um ponto final, não precisam de dois. Muito bem, __reescreve__ a frase, substituindo as palavras destacadas por **__antónimos__**: ""**Terminada** a pescaria, o rapaz **enervou-se**."""
+"Estudante"	"""Acabada a pescaria, o rapaz irritou-se."""
+"Avaliador"	"[STUDENT] Muito bem, __reescreve__ a frase, substituindo as palavras destacadas por __sinónimos__: ""Era uma vez um tubarão **belo** e **veloz** e um menino **esperto** e **valente**."""
+"Estudante"	"""Era uma vez um tubarão bonito e rápido e um menino inteligente e corajoso."""
+"Avaliador"	"[STUDENT] Muito bem, __lê__ as frases e escolhe qual das palavras destacadas pertencem à classe **__quantificador numeral__**: ""**O** rapaz **foi** pescar **duas** vezes com o avô. Como era **muito esperto**, convenceu o avô de que o tubarão era apenas **um peixe enorme**. A mãe **não** queria acreditar no que via, por isso **esfregou** os **olhos três** vezes!"""
+"Estudante"	"""duas"", ""um"" e ""três""."
+"Avaliador"	"[STUDENT] Muito bem, __lê__ as frases e escolhe as palavras destacadas que pertencem à classe **__advérbio__**: **O** rapaz **foi** pescar **duas** vezes com o avô. Como era **muito esperto**, convenceu o avô de que o tubarão era apenas **um peixe enorme**. A mãe **não** queria acreditar no que via, por isso **esfregou** os **olhos três** vezes!"""
+"Estudante"	"""muito"" e ""não""."
+"Avaliador"	"[STUDENT] Muito bem, qual é o **__grau do adjetivo__** na frase: ""O rapaz era mais conversador do que o avô."""
+"Estudante"	"Grau comparativo de superioridade"
+"Avaliador"	"[STUDENT] Muito bem, __reescreve__ a frase com o adjetivo no **__grau superlativo absoluto analítico__**: ""É um tubarão rapidíssimo."""
+"Estudante"	"""É um tubarão muito rápido."""
+"Avaliador"	"[STUDENT] Atenção, a frase só leva um ponto final. Muito bem, __reescreve__ as frases com **__preposições__**, sem as repetires: ""____ o almoço, eles decidiram ir ____ à praia ____ nadar ____ os peixes. Estava tanto frio que voltaram ____ molhar os pés."""
+"Estudante"	"Após, para, a, com, sem"
+"Avaliador"	"[STUDENT] Parabéns, Aluno C! Já terminaste esta parte. O que achaste das perguntas?"
+"Estudante"	"Achei simples, mas por vezes, eu só tinha posto um ponto final e ficava como se eu tivesse posto 2."
+"Avaliador"	"[STUDENT] Compreendo, Aluno C! Queres saber que pontuação terias tido nestas perguntas?"
+"Estudante"	"Sim!"
+"Avaliador"	"[STUDENT] Muito bem, então vou dizer-te a tua pontuação para cada pergunta:
+
+Pergunta 1: 0 em 10 pontos   
+Pergunta 2: 10 em 10 pontos   
+Pergunta 3: 10 em 10 pontos  
+Pergunta 4: 0 em 10 pontos  
+Pergunta 5: 10 em 10 pontos  
+Pergunta 6: 5 em 10 pontos  
+Pergunta 7: 10 em 10 pontos  
+Pergunta 8: 10 em 10 pontos  
+Pergunta 9: 9,75 em 10 pontos (perdeste 0,25 por acentuação)  
+Pergunta 10: 8 em 10 pontos
+
+No final ficarias com 0 + 10 + 10 + 0 + 10 + 5 + 10 + 10 + 9,75 + 8 = 72,75 pontos.
+
+Agora, vais ter a oportunidade de melhorar! Queres continuar?"
+"Estudante"	"Mas a primeira pergunta eu tive certo."
+"Avaliador"	"[STUDENT] Nesta primeira pergunta, Aluno C, respondeste ""frase declarativa"", mas era do tipo imperativo. Vais ter já uma nova oportunidade de melhorar a tua resposta! Aproveita bem! Na Trusty Tutors também damos oportunidade a professores mais jovens de ensinarem os alunos — agora vais falar com o Professor João e ele vai ajudar-te nesta matéria. Ele é muito simpático, aproveita para conversar à vontade! Quando estiveres pronta, diz-me."
+"Estudante"	"OK!"
+"Avaliador"	"[TUTOR] Professor João, seguem as tuas indicações:
+
+Pergunta 1: 0 em 10 pontos  
+Pergunta 2: 10 em 10 pontos  
+Pergunta 3: 10 em 10 pontos  
+Pergunta 4: 0 em 10 pontos  
+Pergunta 5: 10 em 10 pontos  
+Pergunta 6: 5 em 10 pontos  
+Pergunta 7: 10 em 10 pontos  
+Pergunta 8: 10 em 10 pontos  
+Pergunta 9: 9,75 em 10 pontos  
+Pergunta 10: 8 em 10 pontos  
+
+O objetivo é melhorar a pontuação dAluno C nestas perguntas, sobretudo nas respostas que não atingiram a pontuação máxima. Quando achares que terminaste a sessão com Aluno C, por favor passa-me a palavra."
+"Tutor"	"Olá, Aluno C! Eu sou o Professor João — obrigado por estares pronta para aprender comigo! Queres partilhar algo que gostes muito de fazer?"
+"Estudante"	"Eu adoro mergulhar."
+"Tutor"	"Que fixe, Aluno C! Já viste algum animal especial enquanto mergulhavas?"
+"Estudante"	"Sim, eu vi um ouriço marinho gigante entalado numa pedra, e, no mesmo dia, vi um peixe espada!"
+"Tutor"	"Uau, que história engraçada e corajosa, Aluno C! Agora vamos começar a praticar frases, pode ser?"
+"Estudante"	"Sim"
+"Tutor"	"Fantástico! Diz-me: a frase ""Mergulha com cuidado!"" é declarativa, exclamativa, interrogativa ou imperativa?"
+"Estudante"	"Frase imperativa"
+"Tutor"	"Muito bem! Sabes dizer porquê é do tipo imperativo?"
+"Estudante"	"Porque está a dar um conselho a alguém."
+"Tutor"	"Excelente explicação! Agora tenta transformar essa frase numa frase declarativa. Como ficaria?"
+"Estudante"	"O Vasco mergulha com cuidado."
+"Tutor"	"Perfeito! Agora, nesta frase: ""Que peixe espada enorme!"", qual é o tipo de frase?"
+"Estudante"	"Frase Exclamativa"
+"Tutor"	"Ótimo trabalho, Aluno C! Para terminar esta ronda, consegues criar uma frase interrogativa sobre mergulhar?"
+"Estudante"	"Qual foi o dia em que mergulhaste mais fundo?"
+"Tutor"	"Muito bem, Aluno C! Nota só: aqui ""Frase Exclamativa"" só leva maiúscula em início de frase, mas fizeste tudo certinho! Pronta para mais um desafio?"
+"Estudante"	"Sim! Eu só pus ""Exclamativa"" com maiúscula porque foi uma resposta curta."
+"Tutor"	"Boa justificação, Aluno C! Desta vez, sublinha o antónimo da palavra destacada: ""Mergulhar de manhã é sempre **seguro**."""
+"Estudante"	"""perigoso"""
+"Tutor"	"Excelente, ""perigoso"" é mesmo o antónimo! Agora identifica o advérbio na frase: ""O Vasco mergulhou muito depressa."""
+"Estudante"	"""muito"""
+"Tutor"	"Muito bem, Aluno C! Há também outro advérbio na frase. Consegues dizer qual é?"
+"Estudante"	"""muito"""
+"Tutor"	"Ótimo esforço! Repara que ""depressa"" também é um advérbio, porque indica o modo como o Vasco mergulhou. Concordas?"
+"Estudante"	"""muito"""
+"Tutor"	"Certo, ""muito"" é um advérbio de intensidade e ""depressa"" é um advérbio de modo! Queres tentar identificar o quantificador numeral nesta frase? ""Os mergulhadores viram três peixes."""
+"Estudante"	"Desculpa, eu achava que não deixava mandar a mensagem, por isso mandei muitas vezes."
+"Tutor"	"Não faz mal, Aluno C! Todos cometemos erros e aprendemos assim. Qual é então o quantificador numeral na frase?"
+"Estudante"	"Que frase?"
+"Tutor"	"A frase é: ""Os mergulhadores viram três peixes."" Consegues encontrar o quantificador numeral?"
+"Estudante"	"""três"
+"Tutor"	"Boa, acertaste! ""Três"" indica a quantidade. Queres continuar com mais um exercício?"
+"Estudante"	"sim"
+"Tutor"	"Fantástico! Substitui ""três"" por outro quantificador numeral na frase: ""Os mergulhadores viram três peixes."""
+"Estudante"	"""nove"""
+"Tutor"	"Ótima escolha! Como ficaria então a frase completa com ""nove""?"
+"Estudante"	"""Os mergulhadores viram nove peixes."""
+"Tutor"	"Perfeito! Agora vamos trabalhar um bocadinho com preposições: onde está a preposição nesta frase? ""O peixe nadou entre duas pedras."""
+"Estudante"	"""entre"
+"Tutor"	"Muito bem, Aluno C! ""Entre"" é a preposição. Consegues pensar noutra frase com a preposição ""entre""?"
+"Estudante"	"A flor está entre o vaso e o sofá."
+"Tutor"	"Excelente frase, Aluno C! Agora escolhe o adjetivo na frase: ""O ouriço era redondo e bonito."""
+"Estudante"	"""redondo"" e ""bonito"""
+"Tutor"	"Muito bem! São os dois adjetivos. Queres tentar agora criar uma frase com os adjetivos ""rápido"" e ""pequeno""?"
+"Estudante"	"Apesar da lebre ser pequena, ela era fácil."
+"Tutor"	"Boa tentativa, Aluno C! Aqui, o adjetivo ""fácil"" não descreve um animal. Como podes usar ""rápido"" para a lebre?"
+"Estudante"	"Desculpa, eu queria dizer rápido, pode não contar como erro?"
+"Tutor"	"Claro, Aluno C! O importante é tentares, não te preocupes. Queres reescrever a frase com ""rápido"" e ""pequeno""?"
+"Estudante"	"Apesar da lebre ser pequena, ela era rápida."
+"Tutor"	"Muito bem, Aluno C! Está perfeita. Queres experimentar agora o grau comparativo com ""rápida""?"
+"Estudante"	"A menina era mais rápida do que o cão."
+"Tutor"	"Ótimo exemplo! Mostra mesmo o grau comparativo de superioridade. Preparada para o próximo desafio?"
+"Estudante"	"Sim!"
+"Tutor"	"Fantástico entusiasmo! Agora, identifica o nome coletivo nesta frase: ""O mergulhador avistou um cardume de peixes."""
+"Estudante"	"""cardume"""
+"Tutor"	"Muito bem, ""cardume"" é o nome coletivo! Queres criar uma frase tua usando um nome coletivo?"
+"Estudante"	"A turma é muito animada."
+"Tutor"	"Excelente frase, Aluno C! ""Turma"" é mesmo um nome coletivo. Continuamos com mais uma?"
+"Estudante"	"Sim"
+"Tutor"	"Ótimo! Identifica o artigo definido nesta frase: ""A baleia nadava no mar."""
+"Estudante"	"""A"""
+"Tutor"	"Muito bem, ""A"" é o artigo definido! Queres tentar agora encontrar o artigo indefinido nesta frase: ""Um peixe saltou fora da água.""?"
+"Estudante"	"""Um"""
+"Tutor"	"Perfeito, acertaste! ""Um"" é o artigo indefinido. Pronta para mais um desafio?"
+"Estudante"	"Sim!"
+"Tutor"	"Fantástico! Desta vez, sublinha o nome próprio nesta frase: ""O Vasco mergulha na Madeira."""
+"Estudante"	"""Vasco"" e ""Madeira"""
+"Tutor"	"Muito bem! ""Vasco"" e ""Madeira"" são nomes próprios. Queres praticar agora com um nome comum?"
+"Estudante"	"Pode ser."
+"Tutor"	"Ótimo! Encontra o nome comum nesta frase: ""A menina segurou o ouriço."""
+"Estudante"	"""menina"" e ""ouriço"""
+"Tutor"	"Muito bem, Aluno C! Estás a aprender super rápido. Queres experimentar uma frase com nome próprio, comum e coletivo?"
+"Estudante"	"Pode ser!"
+"Tutor"	"Fantástico! Então tenta criar tu uma frase que tenha um nome próprio, um nome comum e um nome coletivo."
+"Estudante"	"A Maria trouxe uma corda para brincar com a sua turma."
+"Tutor"	"Excelente, Aluno C! Usaste ""Maria"" (nome próprio), ""corda"" (nome comum) e ""turma"" (nome coletivo). Queres agora experimentar uma frase exclamativa sobre mergulho?"
+"Estudante"	"Sim"
+"Tutor"	"Inventa então uma frase exclamativa sobre mergulhar no mar!"
+"Estudante"	"Mergulhar no mar é maravilhoso!"
+"Tutor"	"Muito bem! A tua frase está perfeita e cheia de entusiasmo. Queres continuar a praticar ou preferes terminar por hoje?"
+"Estudante"	"Como quiser!"
+"Tutor"	"É ótimo ver essa motivação, Aluno C! Queres tentar uma frase imperativa relacionada com o mar?"
+"Estudante"	"Tem cuidado com o mar!"
+"Tutor"	"Excelente, Aluno C! Estás de parabéns pelo teu esforço. Queres marcar um objetivo para a próxima sessão?"
+"Estudante"	"Talvez. Haverá próxima sessão?"
+"Tutor"	"Fico muito feliz com o teu progresso, Aluno C! Agora vou passar a palavra ao meu colega, mas espero rever-te em breve. 😊 Até já!"
+"Avaliador"	"[STUDENT] Aluno C, agora vou fazer-te novamente as mesmas perguntas. Vamos tentar superar a pontuação anterior! Pronta para mostrar tudo o que aprendeste?"
+"Estudante"	"Sim"
+"Avaliador"	"[STUDENT] Diz-me qual é o **__tipo de frase__** utilizado na frase ""Enche a banheira com água salgada para colocar o tubarão."""
+"Estudante"	"Frase imperativa"
+"Avaliador"	"[STUDENT] Muito bem, diz-me qual é o **__tipo de frase__** utilizado na frase ""Que tubarão grande!"""
+"Estudante"	"Frase exclamativa"
+"Avaliador"	"[STUDENT] Muito bem, __reescreve__ a frase no plural: ""O jovem fez a mais admirável descoberta."""
+"Estudante"	"Os jovens fizeram as mais admiráveis descobertas."
+"Avaliador"	"[STUDENT] Muito bem, __reescreve__ a frase, substituindo as palavras destacadas por **__antónimos__**: ""**Terminada** a pescaria, o rapaz **enervou-se**."""
+"Estudante"	"Acabada a pescaria, o rapaz irritou-se."
+"Avaliador"	"[STUDENT] Muito bem, __reescreve__ a frase, substituindo as palavras destacadas por __sinónimos__: ""Era uma vez um tubarão **belo** e **veloz** e um menino **esperto** e **valente**."""
+"Estudante"	"Era uma vez um tubarão bonito e rápido e um menino inteligente e corajoso."
+"Avaliador"	"[STUDENT] Muito bem, __lê__ as frases e escolhe qual das palavras destacadas pertencem à classe **__quantificador numeral__**: ""**O** rapaz **foi** pescar **duas** vezes com o avô. Como era **muito esperto**, convenceu o avô de que o tubarão era apenas **um peixe enorme**. A mãe **não** queria acreditar no que via, por isso **esfregou** os **olhos três** vezes!"""
+"Estudante"	"""duas"", ""um"" e ""três"""
+"Avaliador"	"[STUDENT] Muito bem, __lê__ as frases e escolhe as palavras destacadas que pertencem à classe **__advérbio__**: **O** rapaz **foi** pescar **duas** vezes com o avô. Como era **muito esperto**, convenceu o avô de que o tubarão era apenas **um peixe enorme**. A mãe **não** queria acreditar no que via, por isso **esfregou** os **olhos três** vezes!"""
+"Estudante"	"""muito"" e ""não"""
+"Avaliador"	"[STUDENT] Muito bem, qual é o **__grau do adjetivo__** na frase: ""O rapaz era mais conversador do que o avô."""
+"Estudante"	"Grau comparativo de superioridade"
+"Avaliador"	"[STUDENT] Muito bem, __reescreve__ a frase com o adjetivo no **__grau superlativo absoluto analítico__**: ""É um tubarão rapidíssimo."""
+"Estudante"	"É um tubarão muito rápido."
+"Avaliador"	"[STUDENT] Muito bem, __reescreve__ as frases com **__preposições__**, sem as repetires: ""____ o almoço, eles decidiram ir ____ à praia ____ nadar ____ os peixes. Estava tanto frio que voltaram ____ molhar os pés."""
+"Estudante"	"Ap"
+"Avaliador"	"[STUDENT] Deves escrever ""Após"" com inicial maiúscula no início da frase. Muito bem, e queres dizer-me as outras preposições para completares as frases?"
+"Estudante"	"Desculpa foi engano"
+"Avaliador"	"[STUDENT] Não faz mal, Aluno C! Queres tentar responder novamente à última pergunta?"
+"Estudante"	"Sim"
+"Avaliador"	"[STUDENT] Muito bem, tenta então: ""____ o almoço, eles decidiram ir ____ à praia ____ nadar ____ os peixes. Estava tanto frio que voltaram ____ molhar os pés."""
+"Estudante"	"Após, eu não sei, para, com e sem"
+"Avaliador"	"[STUDENT] Parabéns por teres tentado completar todas, Aluno C! O que achaste desta segunda ronda de perguntas?"
+"Estudante"	"Foi fácil e pareceu melhor do que a anterior"
+"Avaliador"	"[STUDENT] Concordo contigo, notou-se progresso! Queres saber a pontuação que terias agora?"
+"Estudante"	"Sim"
+"Avaliador"	"[STUDENT] Aqui vai a tua pontuação em cada pergunta desta vez:
+
+Pergunta 1: 10 em 10 pontos  
+Pergunta 2: 10 em 10 pontos  
+Pergunta 3: 10 em 10 pontos  
+Pergunta 4: 0 em 10 pontos  
+Pergunta 5: 10 em 10 pontos  
+Pergunta 6: 5 em 10 pontos  
+Pergunta 7: 10 em 10 pontos  
+Pergunta 8: 10 em 10 pontos  
+Pergunta 9: 10 em 10 pontos  
+Pergunta 10: 6 em 10 pontos
+
+Pontuação final: 10 + 10 + 10 + 0 + 10 + 5 + 10 + 10 + 10 + 6 = 81 pontos.
+
+Fizeste melhor do que na primeira ronda! Estás de parabéns!"
+"Estudante"	"Qual era a pergunta 4?"
+"Avaliador"	"[STUDENT] A pergunta 4 era: __Reescreve__ a frase, substituindo as palavras destacadas por __antónimos__: ""**Terminada** a pescaria, o rapaz **enervou-se**."" A resposta ideal seria: ""Começada a pescaria, o rapaz acalmou-se."" Foste bastante empenhada e tens motivos para te orgulhar! Queres perguntar mais alguma coisa?"
+"Estudante"	"Não"
+"Avaliador"	"[STUDENT] Terminámos a sessão de hoje. Muito obrigado por participares com tanta dedicação e entusiasmo, Aluno C! Espero que tenhas gostado desta experiência! Até breve!! [END]"

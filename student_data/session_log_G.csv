@@ -1,0 +1,163 @@
+"Remetente"	"Mensagem"
+"Avaliador"	"[STUDENT] Olá! Eu sou o Professor Alfredo, Diretor da escola Trusty Tutors. Como te chamas?"
+"Estudante"	"Aluno G"
+"Avaliador"	"[STUDENT] Muito bem, Aluno G. Quantos anos tens?"
+"Estudante"	10
+"Avaliador"	"[STUDENT] Gostava de te conhecer um bocadinho melhor, Aluno G. Tens algum hobbie ou passatempo favorito?"
+"Estudante"	"skate"
+"Avaliador"	"[STUDENT] Que giro, andar de skate parece divertido! Ficaste contente por teres sido escolhido para participar nesta atividade na nossa escola?"
+"Estudante"	"sim muito"
+"Avaliador"	"[STUDENT] Fico feliz que estejas contente! Agora vou fazer-te umas perguntas para ver em que nível estás. Está bem?"
+"Estudante"	"ok"
+"Avaliador"	"[STUDENT] Ótimo! Só te vou pedir uma coisa: quando responderes às perguntas, tens apenas uma oportunidade para responder de forma completa, e não posso esclarecer dúvidas durante as perguntas. Tudo bem?"
+"Estudante"	"sim está bem"
+"Avaliador"	"[STUDENT] Então posso começar, Aluno G?"
+"Estudante"	"por favor"
+"Avaliador"	"[SYSTEM] Questions"
+"Avaliador"	"[STUDENT] Aluno G, **escreve** o nome de 3 __continentes__ que façam parte do Planeta Terra."
+"Estudante"	"europa africa e ásia"
+"Avaliador"	"[STUDENT] Deves escrever ""África"" com acento no primeiro ""a"". Muito bem, **escreve** o nome de 4 países que fazem parte da União Europeia."
+"Estudante"	"Portugal Italia França"
+"Avaliador"	"[STUDENT] Deves escrever ""Itália"" com acento no segundo ""i"". Muito bem, que nome se dá ao movimento de pessoas de um lugar para o outro do planeta, em busca de melhores condições de vida?"
+"Estudante"	"emigrassão"
+"Avaliador"	"[STUDENT] Deves escrever ""emigração"" em vez de ""emigrassão"". Muito bem, **escreve** um exemplo de uma migração por __razões humanitárias__."
+"Estudante"	"catastrofes naturais"
+"Avaliador"	"[STUDENT] Deves escrever ""catástrofes"" com acento no primeiro ""a"". Muito bem, **define** densidade populacional."
+"Estudante"	"náo sei"
+"Avaliador"	"[STUDENT] Sem problema, vamos à próxima. Como se designa o aparelho tecnológico que permite __detetar sismos__?"
+"Estudante"	"sismografos"
+"Avaliador"	"[STUDENT] Deves escrever ""sismógrafo"" com acento agudo no ""o"". Muito bem, **escreve** o exemplo de um comportamento correto durante um sismo."
+"Estudante"	"por de baixo da mesa"
+"Avaliador"	"[STUDENT] Deves escrever ""pôr"" com acento circunflexo no ""o"". Muito bem, **escreve** o nome de 3 elementos que devem fazer parte de um Kit de emergência."
+"Estudante"	"rádio alimentos e mantimentos"
+"Avaliador"	"[STUDENT] Deves escrever ""alimentos"" corretamente, mas ""mantimentos"" no contexto seria melhor dizer ""água"" ou ""lanterna"". Muito bem, **refere** uma ou mais características do solo arenoso."
+"Estudante"	"é impremiavél"
+"Avaliador"	"[STUDENT] Deves escrever ""impermeável"" em vez de ""impremiavél"". Muito bem, **escreve** o nome das três rochas que predominam em Portugal Continental."
+"Estudante"	"xisto arenito e granito"
+"Avaliador"	"[STUDENT] Muito bem, Aluno G! Parabéns por teres respondido a todas as perguntas. O que achaste deste questionário?"
+"Estudante"	"gostei"
+"Avaliador"	"[STUDENT] Ainda bem que gostaste! Queres saber a pontuação que terias tido neste questionário?"
+"Estudante"	"sim"
+"Avaliador"	"[STUDENT] Vou dizer-te a tua pontuação:  
+Pergunta 1: 10 em 10 pontos  
+Pergunta 2: 5 em 10 pontos  
+Pergunta 3: 5 em 10 pontos  
+Pergunta 4: 10 em 10 pontos  
+Pergunta 5: 0 em 10 pontos  
+Pergunta 6: 10 em 10 pontos  
+Pergunta 7: 10 em 10 pontos  
+Pergunta 8: 7 em 10 pontos  
+Pergunta 9: 0 em 10 pontos  
+Pergunta 10: 10 em 10 pontos  
+Depois de descontar os erros ortográficos e de acentuação, ficaste com 62 pontos em 100 possíveis. Queres comentar a tua pontuação?"
+"Estudante"	"nao"
+"Avaliador"	"[STUDENT] Ok, Aluno G. Agora vais ter uma atividade diferente: na nossa escola damos oportunidade aos professores mais novos de ensinarem os alunos diretamente. Desta vez será o Professor João que vai ajudar-te a perceber melhor esta matéria. Ele é muito simpático, aproveita para conversar com ele! Estás preparado?"
+"Estudante"	"sim"
+"Avaliador"	"[TUTOR] Professor João, aqui tens as perguntas e respostas do questionário, juntamente com a pontuação atribuída:
+Pergunta 1: europa, áfrica e ásia (10 em 10 pontos)
+Pergunta 2: Portugal Italia França (5 em 10 pontos)
+Pergunta 3: emigrassão (5 em 10 pontos)
+Pergunta 4: catastrofes naturais (10 em 10 pontos)
+Pergunta 5: não sei (0 em 10 pontos)
+Pergunta 6: sismografos (10 em 10 pontos)
+Pergunta 7: por de baixo da mesa (10 em 10 pontos)
+Pergunta 8: rádio alimentos e mantimentos (7 em 10 pontos)
+Pergunta 9: é impremiavél (0 em 10 pontos)
+Pergunta 10: xisto arenito e granito (10 em 10 pontos)
+
+O objetivo é melhorares o desempenho do Aluno G nas respostas a estas perguntas, ajudando-o a consolidar conhecimentos e a aumentar a sua pontuação. No final da tua sessão, por favor, passa-me a palavra."
+"Tutor"	"Olá, Aluno G! Sou o Professor João e estou super entusiasmado para te ajudar. Gostavas de começar com perguntas de geografia ou de português?"
+"Estudante"	"~geogrgafia"
+"Tutor"	"Boa escolha! Que continente gostavas mais de visitar um dia?"
+"Estudante"	"japão na ásia"
+"Tutor"	"Excelente escolha, Aluno G! Sabes dizer se o Japão faz parte da União Europeia?"
+"Estudante"	"nao"
+"Tutor"	"Muito bem! E consegues lembrar-te do nome de um país da União Europeia?"
+"Estudante"	"suecia"
+"Tutor"	"Ótimo, Aluno G! Lembras-te de mais algum país da União Europeia?"
+"Estudante"	"Portugal"
+"Tutor"	"Excelente resposta! Agora, sabes dizer o que é migração?"
+"Estudante"	"nao"
+"Tutor"	"Sem problema! Gostavas de tentar adivinhar se tem a ver com pessoas mudarem de sítio?"
+"Estudante"	"sim"
+"Tutor"	"Muito bem! A migração acontece quando as pessoas mudam de lugar, certo? Consegues pensar numa razão para alguém migrar?"
+"Estudante"	"porque naao tem condiçoes de vida"
+"Tutor"	"Resposta fantástica! Sabes como se chama a densidade de pessoas que vivem num certo espaço?"
+"Estudante"	"densidade pupulacional"
+"Tutor"	"Muito bem, só tens um pequeno erro: escreve-se ""populacional"" com ""o"" depois do ""p"". Consegues dizer como se calcula a densidade populacional?"
+"Estudante"	"km"
+"Tutor"	"Boa tentativa, Aluno G! Achas que envolve dividir o número de pessoas pela área em quilómetros quadrados?"
+"Estudante"	"ok"
+"Tutor"	"Muito bem! Agora, lembras-te do nome do aparelho que deteta sismos?"
+"Estudante"	"sismografo"
+"Tutor"	"Excelente, Aluno G! Não te esqueças do acento: escreve-se ""sismógrafo"". Sabes o que devemos fazer durante um sismo?"
+"Estudante"	"proteger a cabeça"
+"Tutor"	"Ótima resposta! Lembras-te de outro comportamento seguro durante um sismo?"
+"Estudante"	"sim"
+"Tutor"	"Muito bem, Aluno G! Queres partilhar outro exemplo?"
+"Estudante"	"nao"
+"Tutor"	"Sem problema, foi uma excelente resposta! Sabes dizer um objeto importante para incluir num kit de emergência?"
+"Estudante"	"rádio"
+"Tutor"	"Muito bem, Aluno G! Lembras-te de mais algum objeto essencial?"
+"Estudante"	"mantimentos"
+"Tutor"	"Boa, Aluno G! Mantimentos está certo, mas ""água"" é sempre essencial. Queres tentar mais uma palavra?"
+"Estudante"	"nao"
+"Tutor"	"Excelente esforço, Aluno G! Consegues dizer uma característica do solo arenoso?"
+"Estudante"	"é IM-PRE-MIAVÉL"
+"Tutor"	"Quase, Aluno G! A palavra correta é ""impermeável"", mas será que o solo arenoso deixa passar a água?"
+"Estudante"	"nao"
+"Tutor"	"Boa tentativa! O solo arenoso é permeável, porque deixa passar a água facilmente. Queres tentar descrever outra característica do solo arenoso?"
+"Estudante"	"nao"
+"Tutor"	"Perfeito, Aluno G! Lembras-te de alguma rocha que exista muito em Portugal Continental?"
+"Estudante"	"xisto"
+"Tutor"	"Ótima resposta, Aluno G! Consegues dizer mais um nome de rocha portuguesa?"
+"Estudante"	"arenito"
+"Tutor"	"Muito bem, Aluno G! E sabes outro nome de rocha que se encontra em Portugal?"
+"Estudante"	"granito"
+"Tutor"	"Fantástico, Aluno G! Deste excelentes respostas. Queres fazer-me alguma pergunta sobre estes temas?"
+"Estudante"	"nao"
+"Tutor"	"Foi um gosto conversar contigo, Aluno G! Agora vou passar a palavra ao meu colega. Continua com esse excelente trabalho! 😊"
+"Avaliador"	"[STUDENT] Aluno G, agora vou voltar a fazer-te as mesmas perguntas. Vamos ver se consegues melhorar a tua pontuação! Preparado?"
+"Estudante"	"nao"
+"Avaliador"	"[STUDENT] Não te preocupes, Aluno G! Quando estiveres pronto, avisa-me. Estou aqui para te ajudar."
+"Estudante"	"sim"
+"Avaliador"	"[STUDENT] Muito bem, Aluno G! **Escreve** o nome de 3 __continentes__ que façam parte do Planeta Terra."
+"Estudante"	"ajejfirjj4i4nrk"
+"Avaliador"	"[STUDENT] Aluno G, deves escrever nomes de continentes, como Europa, Ásia ou África. Muito bem, **escreve** o nome de 4 países que fazem parte da União Europeia."
+"Estudante"	"dec eeedrecdf"
+"Avaliador"	"[STUDENT] Lembra-te que tens de escrever nomes de países reais da União Europeia, como Portugal, França, Itália ou Suécia. Que nome se dá ao movimento de pessoas de um lugar para o outro do planeta, em busca de melhores condições de vida?"
+"Estudante"	"fdfrdsfhjfh"
+"Avaliador"	"[STUDENT] Aluno G, tenta escrever uma palavra relacionada com pessoas mudarem de sítio, como ""migração"". Muito bem, **escreve** um exemplo de uma migração por __razões humanitárias__."
+"Estudante"	"bhgjuthgftyu"
+"Avaliador"	"[STUDENT] Aqui deves escrever, por exemplo, ""guerra"", ""perseguição"" ou ""catástrofe natural"". Muito bem, **define** densidade populacional."
+"Estudante"	"nao sei"
+"Avaliador"	"[STUDENT] Sem problema, vamos continuar. Como se designa o aparelho tecnológico que permite __detetar sismos__?"
+"Estudante"	"dismografo"
+"Avaliador"	"[STUDENT] Deves escrever ""sismógrafo"" em vez de ""dismografo"". Muito bem, **escreve** o exemplo de um comportamento correto durante um sismo."
+"Estudante"	"inyu3yyt37"
+"Avaliador"	"[STUDENT] Aluno G, deves escrever um comportamento, como ""proteger a cabeça"" ou ""ir para debaixo de uma mesa"". Muito bem, **escreve** o nome de 3 elementos que devem fazer parte de um Kit de emergência."
+"Estudante"	"agua"
+"Avaliador"	"[STUDENT] Muito bem, Aluno G, referiste ""água"". Agora, **refere** uma ou mais características do solo arenoso."
+"Estudante"	"premiavel"
+"Avaliador"	"[STUDENT] Deves escrever ""permeável"" em vez de ""premiavel"". Muito bem, **escreve** o nome das três rochas que predominam em Portugal Continental."
+"Estudante"	"xisto"
+"Avaliador"	"[STUDENT] Muito bem, Aluno G! Parabéns por terminares esta fase. O que achaste de responder outra vez às perguntas?"
+"Estudante"	"nao gostei"
+"Avaliador"	"[STUDENT] Entendo, Aluno G. Queres saber a pontuação que terias agora neste questionário?"
+"Estudante"	"sim"
+"Avaliador"	"[STUDENT] Aqui está a tua pontuação:  
+Pergunta 1: 0 em 10 pontos  
+Pergunta 2: 0 em 10 pontos  
+Pergunta 3: 0 em 10 pontos  
+Pergunta 4: 0 em 10 pontos  
+Pergunta 5: 0 em 10 pontos  
+Pergunta 6: 5 em 10 pontos  
+Pergunta 7: 0 em 10 pontos  
+Pergunta 8: 3 em 10 pontos  
+Pergunta 9: 5 em 10 pontos  
+Pergunta 10: 3 em 10 pontos  
+Depois de aplicar os descontos por erros ortográficos e de acentuação, ficaste com 8 pontos em 100 possíveis. Se quiseres comentar ou perguntar algo sobre a pontuação, diz-me. Caso contrário, seguimos."
+"Estudante"	"ok"
+"Avaliador"	"[STUDENT] Apesar de agora teres tido mais dificuldades, gostei muito da tua participação e empenho! É assim que também se aprende, com tentativas e dedicação.  
+
+Terminámos a sessão de hoje. Muito obrigado por participares, Aluno G! Espero que tenhas gostado desta experiência! Até breve!! [END]"
